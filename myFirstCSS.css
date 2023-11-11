@@ -1,0 +1,19 @@
+h1{
+text-align:center;
+color: rgb(0, 0, 255);
+}
+body{
+background-color: yellow;
+}
+p{
+font-size: 30px;
+color: #653818;
+}
+table,td,th{
+    border: 1px solid;
+    border-color: blueviolet;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
