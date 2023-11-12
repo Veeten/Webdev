@@ -1,19 +1,38 @@
 h1{
 text-align:center;
-color: rgb(0, 0, 255);
+color: #000066;
+font-size: 50px;
+}
+h2{
+color: #05386B;
+text-align: center;
+font-size: 40px;
 }
 body{
-background-color: yellow;
+background-color: #5CDB95;
 }
 p{
 font-size: 30px;
-color: #653818;
+color: #EDF5E1;
 }
 table,td,th{
-    border: 1px solid;
-    border-color: blueviolet;
+border: 1px solid;
+border-color: black;
+background-color: #EDF5E1;
 }
 table{
-    width: 100%;
-    border-collapse: collapse;
+width: 100%;
+border-collapse: collapse;
+}
+ul, ol{
+text-align: center;
+color: #EDF5E1;
+}
+form{
+text-align: center;
+}
+div{
+text-align: center;
+font-size: 18px;
+color: #0000ff;
 }
