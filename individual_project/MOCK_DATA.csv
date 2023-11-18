@@ -1,901 +1,901 @@
-brand,ram,storage,screen_size,weight,battery_life,operating_system,price,GPU_brand,easly_reapairable
-Microsoft,54,3803,10.9,2.17,8.9,macOS,2777.56,amd,true
-Toshiba,61,1797,10.9,5.97,3.0,Windows,3493.23,intel,false
-Sony,39,2303,15.7,3.86,2.4,Chrome OS,408.63,nvidia,false
-Asus,35,3161,10.3,9.65,3.0,Windows,2579.38,intel,false
-Acer,12,619,10.8,3.86,11.7,macOS,2284.86,nvidia,true
-Asus,49,3723,14.3,6.61,2.2,macOS,2545.66,nvidia,true
-Apple,58,880,15.2,6.93,4.7,Linux,420.75,amd,false
-Apple,8,3266,13.3,9.17,6.0,Windows,3247.56,amd,true
-Sony,62,1271,14.0,1.49,9.6,Chrome OS,2817.89,intel,false
-HP,34,2975,14.7,6.91,4.3,macOS,811.21,nvidia,true
-Sony,29,1748,15.9,6.31,6.7,Linux,1375.39,intel,true
-Dell,22,1304,10.1,6.85,4.9,macOS,4917.81,amd,true
-Toshiba,32,2903,10.3,4.93,6.4,Linux,2162.24,intel,false
-Acer,26,3716,12.7,2.0,3.2,Linux,1232.72,nvidia,false
-Apple,12,2099,15.9,9.17,4.5,Chrome OS,1201.5,nvidia,false
-Asus,24,1143,12.4,4.42,3.4,Chrome OS,2203.97,amd,true
-Dell,17,1796,14.0,5.93,11.1,Windows,1603.79,nvidia,false
-HP,2,2641,10.2,3.09,7.1,Windows,2769.75,nvidia,true
-Dell,8,2230,10.0,6.67,9.6,Windows,4379.56,amd,false
-Acer,38,2801,16.0,3.38,5.1,macOS,961.14,amd,false
-Asus,29,3746,16.3,6.98,7.6,Windows,2148.57,intel,false
-Samsung,24,1431,14.4,8.07,3.2,Windows,2547.26,nvidia,true
-Microsoft,26,2234,13.7,1.62,11.6,Linux,3492.01,amd,true
-Asus,31,2872,16.5,4.73,3.0,macOS,4517.69,intel,false
-Apple,4,1814,15.6,1.19,3.7,Chrome OS,4997.99,amd,false
-Microsoft,13,3241,11.1,3.04,3.1,Windows,2660.29,intel,true
-Dell,35,3775,13.3,5.86,11.4,Linux,3594.99,intel,false
-Sony,29,3534,12.2,4.46,10.1,macOS,1176.36,amd,true
-Toshiba,38,2726,10.5,9.2,10.2,Windows,4892.3,amd,false
-Apple,62,300,10.5,3.83,6.0,Linux,402.61,nvidia,true
-Dell,44,1807,15.4,5.19,10.2,Linux,2015.2,amd,false
-HP,29,3307,11.8,7.93,2.5,macOS,4577.92,nvidia,false
-HP,34,1305,11.2,9.84,5.2,macOS,1816.87,nvidia,true
-Lenovo,17,613,11.2,3.43,10.1,Chrome OS,4665.59,amd,true
-Dell,46,3701,15.2,2.35,11.5,macOS,677.69,intel,true
-HP,54,3130,13.9,8.2,6.0,Windows,4325.4,nvidia,false
-HP,50,679,14.1,3.13,8.7,Chrome OS,1335.26,amd,true
-Apple,38,276,15.5,5.16,2.6,Windows,4874.8,nvidia,false
-Acer,22,3790,15.9,4.65,9.3,Windows,1934.63,nvidia,true
-Lenovo,45,267,11.7,3.06,10.2,Linux,347.44,amd,false
-Dell,17,3431,11.6,1.67,9.0,Windows,3219.57,amd,false
-HP,50,1242,16.6,3.63,10.1,macOS,4029.7,intel,true
-Acer,4,615,10.4,3.86,4.1,Windows,835.22,amd,true
-Toshiba,64,2497,10.4,4.18,6.3,Windows,4637.86,intel,false
-Lenovo,6,1560,15.1,4.01,11.6,Chrome OS,3666.18,amd,true
-Apple,3,198,15.3,1.49,8.1,Windows,2265.57,nvidia,true
-Toshiba,42,865,13.4,5.47,10.8,Linux,2819.66,intel,false
-HP,42,1830,14.4,7.92,2.6,macOS,887.51,nvidia,false
-Apple,17,3669,11.2,3.72,5.4,Windows,4489.49,amd,true
-Lenovo,58,3768,12.7,2.22,3.8,Chrome OS,1944.99,intel,true
-HP,40,2007,12.4,7.3,3.6,Chrome OS,4594.42,intel,true
-Lenovo,47,794,12.5,4.11,9.3,Linux,1532.26,nvidia,true
-Samsung,40,1499,13.3,1.98,8.5,Windows,1297.54,amd,false
-Microsoft,46,3153,15.6,9.47,8.3,Windows,1121.96,amd,true
-Sony,7,2090,14.1,1.46,4.3,macOS,4464.46,intel,true
-Lenovo,58,2817,12.0,9.29,8.1,macOS,1120.23,amd,false
-HP,30,1490,11.7,6.63,3.4,Linux,1257.52,nvidia,true
-Asus,28,1434,10.1,4.94,5.5,Chrome OS,3117.7,intel,false
-Acer,23,1765,14.1,9.86,4.2,Chrome OS,3450.84,amd,false
-Dell,8,2090,10.7,3.85,7.2,macOS,3853.38,intel,false
-Lenovo,48,2874,16.1,3.43,7.9,Chrome OS,2522.3,intel,false
-Acer,20,1982,15.6,2.85,6.7,Windows,2686.78,nvidia,false
-Lenovo,36,3945,10.1,8.67,7.0,Windows,4798.55,amd,false
-Acer,58,3175,13.0,4.69,8.2,Linux,1597.41,amd,false
-Lenovo,30,3079,10.5,1.56,8.3,macOS,1975.46,nvidia,false
-Sony,54,4037,13.2,7.8,3.7,Linux,4938.81,intel,true
-Samsung,11,3783,10.1,7.35,8.4,Linux,3403.61,amd,true
-Dell,15,1603,15.8,5.01,8.0,macOS,718.77,amd,false
-Asus,36,3566,13.0,7.41,9.1,Chrome OS,4634.62,amd,false
-Lenovo,28,2333,11.1,4.06,4.9,Windows,201.79,intel,true
-HP,12,1583,12.5,4.75,11.1,Windows,4562.55,amd,false
-Apple,37,1509,12.8,5.31,5.0,Windows,3728.82,amd,true
-Toshiba,41,4043,14.7,5.59,7.9,Chrome OS,2126.09,nvidia,false
-Lenovo,53,2140,16.7,4.97,9.6,macOS,644.37,nvidia,false
-Asus,10,3587,11.7,7.43,7.9,Windows,2728.16,intel,true
-Asus,50,1988,15.6,1.95,11.2,macOS,4052.14,intel,false
-Microsoft,9,1575,12.3,2.27,8.3,Windows,653.03,nvidia,false
-Apple,3,411,16.4,7.18,6.7,macOS,956.14,intel,true
-Acer,42,3335,16.0,1.68,6.4,Linux,3877.28,nvidia,false
-Asus,59,3762,15.4,7.94,4.0,Chrome OS,3766.1,intel,true
-Toshiba,56,1831,11.7,2.2,6.9,macOS,2543.31,nvidia,false
-Microsoft,49,1933,11.8,3.95,11.8,Chrome OS,1261.92,amd,false
-Sony,45,2621,16.8,4.87,11.7,Linux,4015.31,intel,false
-Dell,16,3524,11.0,4.53,6.5,Windows,1478.52,amd,true
-Samsung,18,2086,13.3,1.51,10.1,Windows,483.16,amd,true
-Samsung,41,2587,14.9,2.69,3.5,Chrome OS,2205.73,amd,false
-Dell,60,2352,11.4,1.16,7.3,Linux,2238.99,nvidia,false
-Toshiba,58,541,16.1,5.69,4.8,Windows,1375.33,intel,true
-Samsung,60,2189,15.5,2.6,2.3,Chrome OS,1193.77,nvidia,false
-Lenovo,29,1281,10.1,7.23,8.4,Windows,1290.31,nvidia,true
-Samsung,26,618,14.5,5.3,2.8,Chrome OS,2075.09,intel,true
-Acer,35,2228,13.8,4.43,6.1,Linux,3293.32,nvidia,false
-Toshiba,37,3942,11.1,3.6,4.7,macOS,1047.93,amd,false
-Sony,32,1628,14.4,9.35,3.8,Chrome OS,323.99,amd,false
-Samsung,36,2660,14.7,7.22,7.3,Windows,683.14,amd,true
-Dell,61,3108,14.9,2.59,5.3,Windows,1593.8,nvidia,false
-Apple,22,951,14.5,1.37,8.2,Chrome OS,3476.47,intel,true
-Toshiba,42,1248,12.1,4.55,10.4,Windows,569.05,amd,false
-Acer,63,422,10.5,7.33,3.1,Linux,648.42,amd,true
-Microsoft,2,903,13.5,5.89,11.2,Windows,2762.5,amd,false
-Microsoft,55,2774,14.5,7.2,10.0,Linux,2898.83,intel,false
-Lenovo,33,135,15.7,9.17,2.1,macOS,4447.71,nvidia,true
-HP,13,2770,15.3,7.57,10.4,macOS,4951.02,nvidia,true
-Samsung,62,3403,10.1,1.87,6.7,Windows,833.59,nvidia,false
-Samsung,14,446,11.7,4.9,10.5,Windows,579.32,intel,false
-Asus,59,414,10.5,1.71,11.8,macOS,4556.26,nvidia,true
-Sony,57,1216,16.2,6.7,10.6,Chrome OS,3228.75,nvidia,true
-Apple,29,1549,16.4,1.05,5.3,Linux,1072.33,amd,false
-HP,15,1037,12.6,1.93,7.6,macOS,4650.9,nvidia,false
-Lenovo,49,3312,13.3,7.68,6.8,Linux,3422.24,intel,false
-Sony,52,3746,14.2,7.74,10.1,Linux,1972.9,intel,true
-Acer,47,1952,12.4,4.02,3.7,Linux,738.29,intel,true
-Microsoft,45,1343,16.3,5.19,7.7,macOS,2933.31,amd,true
-Microsoft,27,1943,15.0,2.71,11.3,macOS,2578.36,nvidia,false
-Toshiba,9,2557,10.5,1.35,9.5,macOS,838.63,nvidia,false
-Sony,17,1029,15.6,3.8,5.9,Windows,3946.19,nvidia,true
-Sony,43,3108,10.1,1.77,3.8,Chrome OS,3946.61,nvidia,true
-Microsoft,26,715,13.4,7.81,9.1,Windows,4102.03,intel,true
-Sony,32,1730,14.9,1.34,6.7,Linux,2958.79,amd,false
-Samsung,41,3986,13.6,7.09,8.4,macOS,2372.1,intel,false
-Asus,57,1065,12.2,1.27,4.1,macOS,3909.18,nvidia,false
-HP,62,1562,13.8,2.18,4.8,Windows,3980.31,nvidia,false
-Apple,52,1859,12.6,3.46,5.7,Chrome OS,1210.66,intel,true
-Apple,8,1442,12.5,8.17,6.3,Linux,3779.33,nvidia,false
-HP,62,2193,14.1,8.13,7.4,Chrome OS,398.28,amd,false
-HP,29,2948,10.1,9.23,9.3,Linux,3192.48,amd,false
-Lenovo,51,3420,14.8,3.74,4.8,Chrome OS,929.94,nvidia,true
-Lenovo,53,801,12.2,2.05,6.9,Linux,4200.96,nvidia,false
-Dell,53,2532,13.8,4.15,3.9,macOS,200.67,amd,false
-Acer,63,3957,12.6,4.11,6.9,macOS,434.84,amd,true
-Samsung,25,3339,11.2,6.65,2.4,Chrome OS,1269.89,nvidia,true
-Dell,52,2763,10.6,1.13,6.7,Chrome OS,3161.03,intel,false
-Samsung,62,3362,12.1,1.13,4.4,Windows,1078.77,nvidia,false
-Apple,14,1051,16.4,4.64,6.9,Windows,3366.16,intel,false
-Toshiba,56,2319,13.3,1.39,2.7,Windows,3455.19,nvidia,true
-Microsoft,23,3757,12.7,9.99,6.2,Windows,1867.1,nvidia,true
-Toshiba,62,2037,16.3,6.56,8.8,Windows,954.32,nvidia,false
-Toshiba,51,1947,12.9,1.11,2.6,Windows,3629.7,amd,false
-Apple,12,4051,11.4,3.53,3.8,Windows,655.82,amd,false
-Dell,59,3801,16.5,5.77,2.5,Windows,2238.11,nvidia,false
-Acer,60,3493,16.4,5.52,11.8,macOS,1666.37,nvidia,true
-Sony,45,589,10.4,8.74,2.8,Chrome OS,950.59,nvidia,true
-Sony,42,1709,14.3,1.46,2.3,Linux,2478.77,amd,false
-Samsung,2,2656,15.9,5.05,10.0,macOS,686.46,nvidia,true
-Lenovo,56,2712,14.9,1.32,10.7,macOS,4594.1,amd,false
-Microsoft,46,2366,16.8,9.16,3.1,Windows,2786.16,amd,false
-Toshiba,64,1220,16.6,1.32,5.2,Windows,4878.26,nvidia,true
-Apple,49,2070,15.3,7.72,7.9,Linux,3022.51,nvidia,true
-Microsoft,29,2816,12.5,8.35,2.4,Linux,2709.21,nvidia,true
-Lenovo,44,3639,10.2,3.92,10.3,Chrome OS,2665.6,nvidia,true
-Asus,14,2791,12.9,4.03,10.2,macOS,4421.92,intel,true
-Samsung,36,410,10.1,8.16,8.5,Chrome OS,3356.27,intel,true
-Samsung,57,1236,14.1,9.32,7.1,Linux,3752.65,intel,false
-Lenovo,5,2560,15.6,8.97,11.2,Windows,1266.61,nvidia,true
-Sony,59,1010,12.4,8.43,10.8,Windows,4659.35,nvidia,true
-Toshiba,51,3024,13.6,4.46,10.1,macOS,724.01,intel,false
-Apple,23,2652,15.5,9.4,5.1,Chrome OS,3959.64,nvidia,true
-HP,46,3424,11.4,9.77,7.4,macOS,4412.39,amd,true
-Microsoft,37,532,11.9,3.2,3.0,Windows,4824.54,nvidia,false
-Dell,13,3316,10.1,4.89,3.8,Windows,4426.54,intel,true
-Asus,37,2253,13.6,7.12,9.9,Windows,2649.3,intel,false
-Sony,59,160,16.1,8.41,7.5,Windows,1063.93,amd,false
-Lenovo,58,3428,14.8,7.36,7.9,macOS,3546.47,amd,false
-Samsung,15,2823,13.6,5.01,3.8,Windows,4806.58,intel,true
-Sony,16,2394,16.0,2.83,11.8,macOS,4027.64,nvidia,false
-Toshiba,50,1581,13.6,4.26,3.8,macOS,4604.88,nvidia,true
-Apple,21,1409,13.5,9.65,11.5,Linux,1603.97,nvidia,true
-Acer,18,239,14.7,3.52,8.1,Chrome OS,1805.46,nvidia,true
-Apple,18,737,15.7,2.13,8.2,macOS,4338.43,nvidia,true
-Dell,3,2644,16.8,2.2,5.6,Linux,837.1,nvidia,false
-Microsoft,12,897,13.6,3.88,5.7,Windows,1497.65,nvidia,true
-Dell,52,2266,10.3,4.06,7.6,macOS,2242.97,intel,false
-Sony,24,3187,10.7,1.4,5.2,Linux,732.24,amd,false
-Samsung,15,2604,15.2,5.3,8.2,Linux,2108.03,intel,true
-Apple,27,2346,12.0,5.48,3.1,Linux,3696.17,intel,false
-Lenovo,62,3513,11.6,7.79,8.9,Windows,2495.59,intel,true
-Sony,44,824,12.4,9.11,7.5,Chrome OS,3345.85,nvidia,true
-Sony,44,2461,13.8,7.38,7.3,macOS,1901.96,nvidia,true
-Asus,22,1305,14.5,8.8,3.9,macOS,4903.64,nvidia,false
-HP,39,949,10.6,1.66,3.1,Linux,4593.28,intel,false
-Samsung,4,2797,11.6,2.08,9.5,Linux,4265.63,intel,false
-Toshiba,23,767,13.9,5.54,6.2,Chrome OS,2781.61,nvidia,false
-Acer,3,926,11.5,1.24,3.9,Linux,1859.79,nvidia,false
-Acer,33,1647,13.0,1.66,10.8,Linux,2715.41,amd,false
-Dell,53,933,15.8,2.59,6.6,Chrome OS,2833.2,amd,false
-Samsung,59,2014,14.5,4.28,3.1,Linux,2477.75,nvidia,false
-Acer,47,2555,13.0,5.2,5.4,macOS,1925.69,amd,false
-Lenovo,19,3883,12.9,7.17,7.7,macOS,3483.02,nvidia,true
-Apple,61,1135,12.4,2.99,7.4,macOS,550.7,nvidia,true
-Samsung,36,755,10.5,9.09,10.7,Linux,659.17,amd,true
-HP,16,362,15.9,4.44,6.7,Linux,1289.65,nvidia,false
-Dell,59,3612,12.9,1.12,8.2,Linux,3926.84,intel,false
-Microsoft,12,3842,10.5,6.85,3.2,Linux,3708.11,intel,true
-HP,27,702,15.7,2.75,4.8,Windows,546.48,intel,true
-Microsoft,62,2362,13.2,6.61,7.8,Linux,975.52,nvidia,true
-Acer,43,2432,10.4,2.76,4.5,macOS,2102.54,intel,true
-Samsung,2,1246,11.3,2.85,3.0,macOS,2101.66,intel,false
-Sony,54,2693,15.9,9.06,2.8,macOS,216.27,nvidia,true
-Sony,43,2597,14.6,5.45,8.4,Linux,1892.51,amd,true
-Samsung,42,3620,14.0,3.57,8.8,Windows,835.49,nvidia,false
-Microsoft,40,1896,13.9,1.09,6.9,macOS,4268.96,nvidia,true
-Dell,44,4013,16.7,5.39,11.9,Windows,4661.63,nvidia,false
-Apple,59,3544,15.6,2.66,8.0,Chrome OS,721.89,intel,false
-Lenovo,61,1615,12.4,5.31,10.9,Windows,4491.8,amd,false
-Lenovo,40,441,10.6,6.19,2.5,Chrome OS,3037.95,amd,false
-Acer,12,3933,13.4,6.44,5.6,Linux,4053.98,intel,false
-Toshiba,5,2924,16.2,7.6,8.7,Linux,2929.54,intel,false
-Acer,55,1400,10.7,3.39,10.1,Windows,3427.66,intel,false
-Dell,2,1910,12.8,2.75,7.2,Windows,2317.0,intel,true
-Asus,39,4020,12.1,1.02,10.1,Windows,3105.37,intel,false
-Lenovo,32,948,10.9,6.62,3.9,Chrome OS,4858.31,intel,false
-Apple,4,1276,11.2,2.81,4.6,Linux,3477.55,nvidia,false
-Toshiba,49,1742,16.2,7.33,2.4,macOS,4774.77,nvidia,true
-Lenovo,31,2852,16.3,7.96,11.8,Chrome OS,1480.81,intel,false
-Acer,9,801,10.7,2.09,4.1,Chrome OS,2665.05,nvidia,false
-Dell,8,795,14.7,7.95,9.7,Windows,3715.3,nvidia,false
-Samsung,2,1565,10.1,4.4,5.5,Chrome OS,2011.64,amd,true
-Samsung,50,153,15.1,1.13,4.8,Linux,1272.42,intel,true
-Microsoft,13,3525,11.6,7.51,5.5,Chrome OS,2149.39,amd,true
-Apple,51,3245,13.2,1.33,2.0,Linux,4598.34,nvidia,false
-Asus,34,269,13.4,9.69,2.1,Linux,1503.79,amd,false
-Acer,6,331,14.1,7.52,9.8,Chrome OS,611.21,intel,true
-Apple,36,1153,15.5,2.34,11.7,macOS,3863.45,nvidia,false
-HP,56,803,14.2,7.71,9.7,macOS,1182.95,intel,true
-Asus,42,3473,11.8,2.02,7.0,Linux,3535.62,intel,true
-Lenovo,24,594,12.8,3.64,4.9,Chrome OS,3805.49,nvidia,false
-Asus,55,3302,12.5,3.03,9.1,Windows,4343.57,intel,false
-Acer,37,1471,15.5,3.36,9.8,Chrome OS,4270.7,intel,false
-Dell,15,2846,15.9,9.52,3.4,macOS,2150.39,nvidia,true
-HP,59,3450,13.9,7.21,4.6,Windows,639.32,nvidia,false
-Acer,44,432,15.5,1.03,8.1,Chrome OS,1397.96,amd,true
-Microsoft,12,3106,12.8,2.87,5.9,Linux,1489.1,amd,false
-Asus,24,730,10.0,4.64,11.7,Chrome OS,4921.88,nvidia,true
-Acer,39,944,11.4,7.08,3.9,macOS,4521.23,nvidia,true
-HP,64,2047,14.5,3.22,9.4,Chrome OS,2775.32,nvidia,false
-Acer,3,3474,14.5,9.75,8.3,Linux,278.47,intel,false
-Toshiba,12,3056,11.3,4.84,3.5,Windows,2429.0,amd,false
-Sony,40,1367,10.4,9.73,10.5,Chrome OS,1802.14,intel,true
-Toshiba,44,3441,14.8,4.12,5.1,macOS,2643.73,nvidia,false
-Microsoft,52,2348,11.6,6.12,7.6,Chrome OS,2256.2,nvidia,true
-HP,42,3046,14.2,8.63,5.5,Windows,256.44,nvidia,false
-Acer,16,1021,11.7,4.11,5.1,Linux,805.31,amd,true
-Samsung,5,3994,12.2,6.04,9.9,Chrome OS,4800.05,intel,false
-Toshiba,48,851,11.3,7.0,10.8,macOS,2928.08,nvidia,true
-Sony,20,2319,11.0,9.44,3.9,macOS,2027.23,nvidia,true
-HP,20,3421,16.7,3.17,2.2,macOS,2052.34,amd,true
-Sony,21,166,14.5,3.9,4.1,Chrome OS,743.07,amd,false
-HP,44,3134,16.0,1.66,5.8,Linux,3013.81,nvidia,false
-Toshiba,41,2542,16.6,9.95,11.8,macOS,870.6,nvidia,true
-Apple,51,1455,10.8,4.26,9.0,Chrome OS,342.23,nvidia,true
-Microsoft,5,1037,10.2,4.8,8.8,macOS,352.02,amd,false
-Samsung,6,3892,15.2,8.97,4.3,Linux,365.29,intel,true
-Lenovo,15,3886,12.1,2.65,5.2,macOS,2930.28,amd,true
-Toshiba,3,2644,16.1,7.59,6.1,Windows,2558.27,intel,false
-Apple,48,2300,13.5,4.33,9.5,Linux,2892.55,amd,true
-Lenovo,63,800,14.0,3.15,4.7,Linux,3776.52,amd,true
-Acer,10,685,13.6,6.83,5.9,Windows,640.76,amd,false
-Asus,2,3724,11.6,5.1,5.0,macOS,2089.59,nvidia,false
-Samsung,32,3376,13.5,1.72,4.2,Windows,552.69,nvidia,true
-Acer,9,1566,16.3,1.96,7.3,Windows,3791.7,nvidia,true
-Apple,46,243,12.4,2.28,6.7,Linux,2320.38,amd,true
-HP,61,3868,10.4,8.23,5.0,Linux,2853.93,amd,true
-Apple,47,798,14.7,1.98,6.7,Linux,2260.95,amd,true
-Microsoft,27,582,16.5,5.36,10.8,Windows,1052.23,nvidia,true
-Asus,31,2416,15.2,2.67,11.7,macOS,2926.5,nvidia,false
-Dell,29,2737,16.6,3.43,9.2,Windows,2327.03,nvidia,true
-Toshiba,64,4035,16.7,6.17,2.7,macOS,217.14,amd,false
-Acer,31,1178,13.2,5.16,11.7,macOS,1250.8,nvidia,false
-Lenovo,43,874,14.4,9.29,4.9,Windows,1258.36,amd,false
-Microsoft,38,3967,11.5,6.19,2.5,Windows,1188.89,nvidia,false
-HP,25,2649,14.7,1.23,4.4,Linux,391.0,intel,false
-Dell,44,1040,14.1,3.09,6.5,Chrome OS,3999.94,nvidia,false
-HP,48,2995,16.8,6.13,3.5,Chrome OS,1941.53,nvidia,true
-Toshiba,64,3426,15.3,9.82,2.6,Linux,3965.21,amd,true
-Apple,50,3926,10.6,8.64,8.5,Chrome OS,608.35,amd,false
-Acer,20,1470,15.7,7.88,7.6,macOS,4825.0,intel,false
-Samsung,43,283,16.4,4.23,7.3,Chrome OS,1393.37,intel,false
-Samsung,59,2802,13.4,7.4,3.2,Linux,2959.56,nvidia,false
-Lenovo,51,2689,12.9,9.23,8.5,macOS,596.67,nvidia,true
-Asus,41,1220,13.3,2.4,5.3,Linux,2331.86,amd,false
-Lenovo,42,511,12.1,2.02,6.6,Chrome OS,218.18,intel,false
-Lenovo,27,1701,14.8,4.44,8.8,Chrome OS,4033.8,amd,true
-Sony,64,806,14.5,1.76,8.7,macOS,4127.59,amd,false
-Lenovo,46,3163,13.2,9.22,2.4,Linux,4383.41,amd,true
-Dell,12,352,14.6,9.93,9.1,macOS,2177.63,nvidia,false
-Acer,8,498,10.7,4.12,6.1,Chrome OS,4234.1,nvidia,false
-Acer,17,2292,10.6,6.3,11.4,macOS,4194.45,nvidia,false
-Acer,64,3435,11.3,9.48,2.9,macOS,4937.18,amd,false
-Dell,21,1415,16.5,1.46,10.8,Linux,665.9,nvidia,false
-Toshiba,14,3927,12.2,6.27,9.5,Chrome OS,4513.57,nvidia,false
-Dell,42,2786,11.3,8.46,5.2,macOS,1859.55,intel,true
-Sony,32,806,11.3,3.15,7.9,Windows,2214.05,nvidia,false
-Apple,23,1963,12.3,7.33,7.7,Chrome OS,3509.73,nvidia,false
-Dell,46,1454,10.2,4.96,9.9,Chrome OS,2294.45,intel,true
-Samsung,61,3836,15.6,8.56,2.3,macOS,1969.55,amd,true
-Toshiba,11,3734,12.3,6.67,5.7,macOS,1109.41,intel,false
-Lenovo,56,1472,13.8,8.61,4.1,Chrome OS,3297.54,amd,false
-Acer,8,3778,14.3,6.7,3.0,macOS,2364.9,nvidia,false
-Microsoft,44,2832,16.8,4.06,10.5,Linux,1481.64,amd,false
-Microsoft,20,489,12.8,5.55,10.7,Chrome OS,4720.06,amd,false
-Sony,52,1789,12.3,9.02,4.8,Chrome OS,1817.4,amd,true
-Dell,5,410,11.6,1.42,4.8,Linux,1168.84,intel,false
-Microsoft,41,4002,10.2,8.23,6.5,Windows,3502.75,amd,true
-Sony,41,3263,12.6,5.05,11.7,Windows,1782.35,intel,false
-Apple,43,1814,16.6,3.69,3.2,Chrome OS,3598.18,nvidia,false
-Dell,35,2161,16.8,2.13,8.7,Chrome OS,735.69,intel,true
-Acer,44,3593,16.4,7.65,4.4,Linux,2139.78,nvidia,false
-Apple,30,294,10.2,5.27,6.6,Windows,2334.31,nvidia,false
-Microsoft,62,1183,11.4,8.69,2.4,Linux,2416.72,amd,false
-Apple,21,3191,14.1,2.46,6.7,Linux,825.23,intel,false
-Microsoft,58,3842,12.0,6.72,5.6,Windows,517.54,intel,true
-Toshiba,50,2564,11.6,3.21,5.4,Chrome OS,2415.9,nvidia,false
-Lenovo,34,1725,11.0,2.68,3.6,macOS,4248.01,intel,false
-Apple,23,3336,13.5,9.56,8.5,Chrome OS,241.59,amd,true
-Acer,49,2909,16.8,2.78,4.6,Windows,4363.72,amd,false
-Acer,15,509,14.4,9.64,6.5,Windows,867.01,amd,false
-Toshiba,33,832,11.8,3.58,10.7,Chrome OS,2501.1,intel,false
-Acer,26,2154,13.2,1.57,11.5,Linux,2225.52,amd,true
-Microsoft,60,765,15.3,2.93,3.1,macOS,318.97,amd,false
-Asus,49,3710,13.6,8.13,8.0,Chrome OS,674.65,intel,true
-Sony,39,1091,16.9,5.26,5.5,Chrome OS,1625.05,intel,true
-Apple,61,3879,11.5,3.32,10.9,macOS,915.93,amd,false
-Apple,58,189,16.6,9.09,10.5,Chrome OS,1819.62,amd,true
-Acer,37,4005,16.9,7.32,9.1,Linux,2881.83,intel,false
-Samsung,58,1638,12.1,2.85,5.2,Chrome OS,1108.62,nvidia,true
-Dell,18,2795,13.9,8.08,5.8,Windows,2068.29,intel,true
-Sony,32,3938,10.4,4.47,6.2,Chrome OS,3556.35,intel,true
-Asus,16,3049,13.3,3.48,4.3,macOS,1894.02,intel,false
-Asus,11,3908,14.6,6.67,2.1,Linux,4944.32,amd,true
-Samsung,13,274,10.5,1.12,10.1,macOS,1975.27,amd,false
-Samsung,56,2868,11.3,5.38,3.9,Windows,4273.87,amd,false
-Toshiba,28,1027,14.2,5.67,2.5,macOS,3589.69,nvidia,true
-Microsoft,30,2352,10.7,2.01,7.2,macOS,214.28,amd,true
-Apple,64,2906,16.0,3.53,9.7,Linux,924.99,nvidia,true
-Samsung,5,2157,10.5,6.18,5.8,Windows,3471.76,intel,false
-Lenovo,32,4060,14.1,2.75,6.9,Linux,734.54,nvidia,true
-Sony,63,3782,13.3,4.5,6.0,Windows,1969.53,amd,true
-Sony,40,4013,14.0,5.68,2.1,Windows,2836.76,amd,true
-Apple,4,2800,11.1,7.94,7.1,Windows,2836.23,nvidia,true
-Apple,23,2397,11.8,3.5,8.5,Windows,3739.02,amd,false
-HP,16,3644,14.6,1.02,6.9,Chrome OS,1795.12,nvidia,true
-Dell,58,2205,10.8,8.19,7.5,Chrome OS,3906.99,nvidia,false
-Sony,41,1275,10.2,4.75,11.4,Chrome OS,1886.92,nvidia,true
-Lenovo,31,3322,14.3,6.95,7.8,Windows,4390.82,amd,false
-Microsoft,38,3736,14.5,7.73,11.6,Windows,2885.39,amd,false
-Asus,33,2933,16.6,4.66,3.1,macOS,2838.74,amd,false
-Toshiba,58,1454,15.7,8.95,4.7,Linux,3320.75,amd,false
-Toshiba,30,1749,15.0,6.49,8.7,Linux,4171.12,amd,true
-Lenovo,2,3677,16.1,2.96,2.0,Windows,3658.81,intel,false
-Lenovo,21,670,10.5,5.89,7.4,Chrome OS,3475.68,intel,true
-Sony,33,1529,12.7,6.21,11.6,macOS,3082.98,nvidia,false
-Apple,27,1341,10.7,2.65,3.0,Windows,3869.68,intel,false
-HP,27,1966,14.5,1.11,5.8,Linux,3084.13,nvidia,true
-Apple,23,3300,13.4,8.93,10.4,Windows,1210.72,nvidia,false
-Dell,25,3818,12.4,7.26,11.5,Linux,1811.15,intel,false
-Toshiba,19,2997,13.1,8.67,6.7,Windows,1106.25,nvidia,true
-Apple,26,2979,14.7,9.55,12.0,Chrome OS,3034.15,nvidia,true
-Dell,26,2901,13.6,7.55,5.2,macOS,2107.1,intel,true
-Sony,21,2610,10.0,1.02,9.6,Linux,3883.5,nvidia,false
-Samsung,32,3223,13.8,8.87,8.3,macOS,3175.69,nvidia,false
-Microsoft,62,499,13.0,8.8,11.4,Windows,1967.55,nvidia,true
-HP,5,2272,12.0,2.88,11.6,macOS,600.51,amd,false
-Toshiba,10,2285,13.4,6.66,9.1,Linux,3546.08,intel,true
-Dell,54,2920,15.3,5.15,6.5,Chrome OS,1627.18,amd,true
-Dell,7,2574,13.9,4.62,8.7,Chrome OS,3511.95,amd,true
-HP,16,3848,11.7,1.07,11.5,Linux,1757.94,nvidia,true
-HP,7,3434,12.1,6.58,11.0,macOS,696.39,amd,true
-Acer,52,1707,11.2,3.3,4.3,Windows,1339.87,amd,true
-Dell,5,2561,11.9,3.35,3.1,macOS,1959.17,nvidia,false
-Apple,13,2824,11.4,1.71,11.4,Windows,714.21,nvidia,false
-Sony,23,1048,15.9,9.37,5.9,Linux,3461.37,intel,true
-HP,28,3755,10.4,1.37,6.9,macOS,2267.95,amd,true
-Apple,35,932,13.7,8.19,7.6,Chrome OS,1336.54,nvidia,true
-Sony,2,2579,11.9,4.48,2.8,Chrome OS,4085.37,amd,true
-Lenovo,22,2829,12.0,5.72,5.6,Windows,4486.68,amd,true
-Apple,19,2841,14.8,5.77,5.9,macOS,497.83,amd,false
-Samsung,18,3192,10.8,8.33,9.6,Windows,549.3,amd,true
-Sony,37,245,15.8,6.52,8.9,macOS,4011.7,intel,false
-Toshiba,40,3658,15.3,3.42,7.7,Chrome OS,270.75,amd,false
-Lenovo,56,161,14.3,1.8,7.0,Linux,4779.12,intel,true
-HP,30,2402,16.0,9.82,4.1,Linux,1351.74,amd,false
-Apple,11,2402,15.5,5.33,5.2,macOS,981.59,amd,true
-Asus,28,3563,15.8,4.9,6.1,Chrome OS,4110.13,nvidia,true
-Samsung,37,3007,13.8,1.12,5.7,macOS,3664.6,nvidia,false
-Asus,12,879,15.3,1.41,2.2,Windows,953.87,nvidia,false
-HP,64,578,13.0,2.78,2.6,Chrome OS,4374.98,nvidia,false
-Acer,54,666,12.3,4.32,9.6,Chrome OS,1816.39,intel,true
-Lenovo,15,3445,11.9,1.39,2.3,Linux,4576.43,nvidia,false
-Acer,4,599,10.8,7.05,9.6,Windows,2725.94,amd,false
-Lenovo,21,1133,12.2,4.5,4.1,Windows,2417.88,intel,false
-Apple,14,2001,14.5,8.79,8.0,Chrome OS,684.02,nvidia,true
-Lenovo,13,598,16.2,5.52,10.2,macOS,3745.56,amd,true
-HP,24,2891,13.3,5.97,9.7,Linux,1155.9,intel,false
-Apple,55,372,13.9,9.77,3.7,Windows,800.59,amd,true
-Apple,27,2143,16.3,3.27,4.4,Windows,2606.38,amd,false
-HP,63,837,14.2,1.8,10.0,Linux,3527.43,amd,false
-Sony,59,486,12.0,7.9,8.4,Chrome OS,493.93,amd,true
-Samsung,48,2492,16.5,3.98,10.5,Chrome OS,4191.67,amd,false
-Microsoft,23,2776,12.3,7.67,3.4,Windows,4475.13,nvidia,false
-HP,35,3138,13.8,7.27,6.1,macOS,2042.75,amd,true
-Microsoft,25,1480,16.6,8.94,4.7,Linux,3159.04,amd,false
-Toshiba,61,1159,14.6,1.22,10.6,Chrome OS,2419.45,nvidia,true
-Microsoft,49,2066,13.3,3.16,6.7,Chrome OS,4512.37,nvidia,true
-HP,23,225,11.6,5.58,10.9,Windows,1755.26,amd,false
-Toshiba,5,1441,15.8,8.05,7.0,Linux,3220.09,intel,true
-Microsoft,41,2888,13.7,2.77,2.0,macOS,2279.32,intel,true
-Asus,7,2055,10.8,8.81,3.8,Windows,1745.01,amd,true
-Acer,34,1439,10.7,4.85,10.2,macOS,545.86,intel,false
-Sony,28,3613,10.8,4.79,4.6,Windows,2125.78,nvidia,true
-HP,58,2153,12.9,2.58,9.2,macOS,2363.69,intel,true
-Acer,24,2980,14.3,6.07,9.9,Linux,2971.35,nvidia,false
-Toshiba,36,1526,14.3,4.56,4.7,Windows,1209.96,intel,true
-Acer,37,1198,10.8,3.43,9.0,macOS,1568.58,intel,false
-Lenovo,26,821,11.6,9.9,11.2,Chrome OS,1292.51,nvidia,true
-Asus,27,867,12.4,8.02,5.0,Chrome OS,335.79,amd,true
-Microsoft,18,2785,15.2,3.29,9.4,Linux,4602.07,intel,false
-Microsoft,12,4073,10.5,2.13,8.1,macOS,2854.34,amd,false
-HP,56,3914,11.8,3.16,8.9,Chrome OS,4706.09,nvidia,false
-Apple,19,1651,13.5,1.63,2.1,macOS,4413.29,amd,false
-Acer,5,3384,16.3,8.58,2.9,Windows,4457.27,amd,true
-Microsoft,30,2998,12.1,7.95,3.8,Chrome OS,874.13,amd,true
-Sony,7,2885,17.0,8.67,3.5,Linux,785.42,amd,false
-Acer,39,3892,15.5,9.0,3.2,Chrome OS,1345.68,intel,false
-Toshiba,54,1300,12.3,3.12,5.0,macOS,1628.62,intel,true
-Sony,60,2304,15.0,6.87,3.5,Linux,3769.75,nvidia,true
-HP,31,662,13.8,2.84,10.4,Windows,2380.56,amd,false
-Samsung,59,1113,11.4,8.77,6.0,macOS,4875.27,intel,true
-Microsoft,50,2227,16.7,4.18,6.1,macOS,3459.09,amd,false
-HP,62,2752,12.9,4.42,2.5,macOS,4287.52,nvidia,false
-Lenovo,26,1144,15.6,8.24,3.7,Linux,3926.42,amd,false
-Acer,34,2581,15.6,9.41,7.6,Chrome OS,1459.22,intel,true
-HP,63,3284,10.4,9.01,11.8,macOS,1099.43,amd,false
-HP,60,3290,12.5,1.56,8.6,Windows,646.59,intel,false
-Microsoft,22,4095,13.5,4.21,10.9,macOS,1198.78,intel,true
-Lenovo,45,3580,16.4,6.98,10.1,macOS,2597.54,amd,false
-Lenovo,5,2578,14.8,6.44,3.1,Chrome OS,1030.42,nvidia,false
-Sony,48,3803,12.5,2.88,12.0,macOS,3306.77,amd,false
-Lenovo,39,671,16.9,6.18,4.4,Windows,4881.27,amd,false
-Asus,48,1871,10.3,2.82,8.6,Linux,4542.09,amd,false
-Dell,36,1844,16.4,2.35,7.3,Chrome OS,499.97,amd,true
-Microsoft,20,1162,15.7,7.55,4.2,Linux,4242.88,nvidia,false
-Apple,30,2618,11.4,2.37,7.7,macOS,1695.07,intel,true
-Apple,18,1247,11.9,6.71,2.9,macOS,4907.88,nvidia,false
-HP,56,2600,14.2,8.53,4.6,Chrome OS,1682.23,nvidia,false
-Lenovo,23,3108,14.1,5.35,11.8,Chrome OS,4274.51,nvidia,true
-Toshiba,33,2481,11.8,1.82,5.5,Windows,2825.2,nvidia,false
-Microsoft,23,3093,14.4,5.07,8.1,Chrome OS,2701.32,intel,false
-Acer,35,1842,15.3,8.63,3.8,Chrome OS,1803.09,amd,true
-Lenovo,32,2151,10.5,1.71,2.5,Chrome OS,1047.9,nvidia,true
-Toshiba,2,2004,15.3,6.8,2.2,Windows,3860.4,intel,true
-Sony,7,2636,16.5,1.63,9.6,Chrome OS,949.62,intel,true
-Microsoft,25,2601,14.8,3.61,2.8,Windows,418.47,amd,false
-Microsoft,61,4059,10.1,8.13,9.8,Linux,1772.76,nvidia,false
-Sony,6,2894,14.8,9.72,11.3,Linux,1459.62,amd,true
-Microsoft,32,3686,13.1,4.21,6.4,Windows,1654.26,amd,true
-Sony,13,454,12.3,2.29,7.1,Chrome OS,3942.05,intel,true
-Apple,35,1801,12.4,9.54,2.6,Chrome OS,1455.97,intel,false
-Samsung,29,3672,13.7,2.42,6.3,Chrome OS,539.02,intel,true
-Dell,26,2734,10.4,1.13,11.6,macOS,2127.02,nvidia,true
-Dell,27,2273,15.7,4.05,8.1,Windows,3025.02,intel,true
-Lenovo,25,3687,14.7,4.87,7.1,Chrome OS,4248.62,nvidia,true
-Acer,49,2596,13.7,8.47,3.4,Linux,3422.6,amd,false
-Asus,59,2515,12.4,8.61,6.1,macOS,4503.59,intel,false
-Acer,20,3800,11.0,3.39,2.7,macOS,1375.11,nvidia,true
-Asus,43,2770,12.9,9.41,6.3,Windows,1081.96,intel,true
-Acer,21,1641,13.9,8.5,2.2,Linux,1694.08,intel,true
-Samsung,5,2484,12.5,4.75,3.6,macOS,1987.16,nvidia,true
-Sony,36,3136,12.7,1.82,11.8,Chrome OS,4308.71,nvidia,false
-Apple,40,3919,16.3,2.23,6.0,macOS,747.97,nvidia,true
-Dell,51,214,14.2,8.63,6.3,macOS,3221.33,amd,false
-Asus,59,3179,15.3,3.39,6.1,Chrome OS,1874.13,nvidia,false
-Dell,36,1668,11.5,1.62,9.9,macOS,295.85,amd,true
-Acer,43,1621,13.6,6.15,7.8,Linux,4178.86,intel,true
-Asus,31,2703,15.9,2.99,2.2,Windows,3770.9,intel,false
-Sony,62,992,12.7,4.72,8.8,Linux,1078.16,amd,true
-Acer,48,3488,15.3,5.11,11.9,Chrome OS,288.78,nvidia,false
-HP,52,3016,15.2,7.79,8.1,Windows,1569.12,intel,true
-Microsoft,53,1189,15.8,2.68,8.6,Linux,4909.96,nvidia,false
-HP,30,2105,14.8,6.25,5.0,macOS,3575.01,amd,false
-Acer,50,674,14.4,9.7,9.9,macOS,4821.46,nvidia,false
-Lenovo,25,3444,13.6,5.55,7.1,macOS,2659.97,intel,true
-Microsoft,21,2265,15.8,8.12,3.2,Windows,1813.85,amd,false
-Sony,19,3204,12.4,3.82,5.1,Linux,4340.98,intel,true
-Microsoft,17,2008,12.2,1.62,10.2,Windows,2960.09,intel,false
-Asus,43,2475,14.8,6.3,2.9,macOS,2695.67,intel,true
-Apple,62,2712,15.5,7.61,2.8,Windows,246.7,intel,true
-Samsung,21,1949,11.8,5.27,7.7,Windows,421.85,amd,true
-Apple,62,3219,13.8,5.76,10.8,Linux,718.74,nvidia,true
-Samsung,43,2367,12.9,7.2,7.4,Windows,2772.65,intel,true
-Toshiba,35,551,13.9,3.57,10.3,Linux,4907.27,amd,true
-Toshiba,45,986,15.9,6.58,5.4,Linux,1085.37,intel,true
-Asus,57,3698,13.4,7.27,3.8,Windows,3758.89,amd,true
-Toshiba,31,3505,16.4,2.55,2.6,Chrome OS,4910.15,amd,false
-Lenovo,13,959,10.0,3.31,11.3,macOS,4936.8,amd,false
-Apple,52,280,15.4,1.68,6.2,Linux,1868.2,amd,true
-Sony,24,1809,15.2,7.61,7.6,Linux,244.99,nvidia,false
-Toshiba,31,3910,11.0,3.35,4.4,Chrome OS,3207.18,intel,false
-Lenovo,38,2875,13.9,6.56,7.7,macOS,2971.45,intel,false
-Apple,34,1190,10.1,1.99,11.9,Linux,4671.21,amd,false
-Asus,9,935,10.9,6.25,9.2,Chrome OS,729.95,nvidia,true
-Acer,22,2594,15.2,5.95,2.4,Chrome OS,833.63,nvidia,false
-Acer,30,592,10.8,6.51,4.4,Linux,435.65,amd,true
-Sony,51,1256,10.3,9.1,8.9,Linux,4961.53,nvidia,false
-Asus,61,903,12.7,3.66,8.0,Windows,581.58,intel,false
-Samsung,46,2070,10.4,8.67,8.6,Windows,1984.73,amd,true
-Lenovo,55,3574,16.9,1.52,8.5,Windows,3240.31,intel,false
-Apple,45,2418,16.8,5.39,10.1,Windows,455.32,amd,true
-Acer,57,2478,14.1,3.92,10.6,macOS,4786.82,nvidia,false
-Asus,38,3471,15.8,6.74,6.9,Chrome OS,4451.89,intel,true
-Lenovo,13,2829,12.9,5.47,4.9,Chrome OS,4180.58,amd,false
-Toshiba,8,161,16.0,6.39,5.6,Chrome OS,2386.69,intel,true
-Samsung,13,3114,14.8,5.03,2.5,macOS,1445.99,intel,true
-Toshiba,34,471,16.8,2.85,8.1,Linux,2959.8,intel,true
-Samsung,56,1146,11.1,6.89,2.7,Linux,536.07,intel,true
-Apple,53,3304,10.2,6.97,10.8,Chrome OS,4601.52,amd,true
-Lenovo,30,881,12.1,7.97,9.5,Chrome OS,4524.46,intel,true
-HP,62,219,13.8,8.43,4.1,macOS,4920.6,amd,false
-HP,10,312,11.1,9.94,11.9,Chrome OS,1946.8,amd,true
-Asus,28,3125,11.6,1.07,11.6,Chrome OS,568.29,amd,true
-Dell,61,3598,14.6,7.69,5.8,macOS,3379.71,nvidia,true
-Microsoft,2,2262,11.6,9.46,4.4,Windows,1277.19,amd,false
-Asus,43,369,12.3,3.8,2.6,macOS,1101.15,nvidia,false
-Toshiba,6,2563,10.3,9.69,5.7,Chrome OS,1068.77,amd,true
-Dell,32,4079,11.4,7.0,12.0,macOS,3201.11,amd,false
-Acer,59,1503,11.6,9.36,11.6,macOS,1841.2,nvidia,false
-Apple,63,3917,12.0,7.99,9.3,Windows,4906.19,amd,false
-Microsoft,14,2381,15.8,2.86,8.4,Linux,774.47,nvidia,true
-Sony,26,3037,13.1,8.73,6.8,Chrome OS,3157.45,nvidia,false
-Apple,3,1611,10.3,6.04,6.6,Chrome OS,361.56,intel,false
-Apple,59,425,13.3,9.85,4.0,Linux,2071.69,nvidia,false
-Toshiba,63,1215,12.9,6.22,10.8,Chrome OS,2325.95,amd,false
-Acer,44,2973,13.8,9.21,10.0,Chrome OS,3532.39,amd,true
-Microsoft,45,3739,14.0,3.08,11.7,macOS,1980.42,amd,false
-Lenovo,11,354,13.8,6.9,6.2,Windows,3716.42,intel,false
-Dell,31,3660,13.8,7.95,6.9,Chrome OS,4999.74,amd,true
-Acer,63,2019,16.9,8.94,2.1,macOS,4388.98,intel,false
-Acer,46,2931,15.8,3.25,4.7,Chrome OS,249.73,intel,true
-Microsoft,54,1722,15.0,3.42,4.4,macOS,574.04,intel,true
-Acer,45,548,10.3,6.54,6.1,Chrome OS,826.44,amd,true
-Lenovo,44,3065,11.1,6.58,6.1,Linux,3700.13,amd,false
-Lenovo,50,1527,14.3,4.79,5.9,Windows,2998.93,nvidia,true
-Apple,22,3785,13.9,2.28,7.3,Chrome OS,1794.69,intel,true
-Asus,3,1633,14.8,7.6,2.6,Windows,3249.72,amd,true
-Toshiba,9,2254,14.2,3.64,8.4,Linux,1473.64,nvidia,false
-Samsung,59,1968,11.8,7.65,9.3,Linux,1036.25,intel,false
-Toshiba,63,151,16.4,7.32,9.6,Chrome OS,4039.55,nvidia,false
-HP,17,2408,14.9,5.31,6.0,Windows,2898.9,intel,true
-Sony,62,2613,14.5,2.69,8.1,Windows,3010.94,intel,false
-Apple,42,3923,14.8,7.57,9.8,Chrome OS,1176.9,intel,true
-Dell,25,214,12.4,7.65,2.4,Linux,997.13,amd,true
-HP,64,1062,16.0,8.02,8.6,Chrome OS,3555.59,amd,true
-Acer,44,887,14.8,3.72,8.0,macOS,1903.71,nvidia,false
-Samsung,51,540,12.8,4.07,7.9,Windows,4418.4,intel,false
-Lenovo,45,1955,16.8,8.06,3.8,macOS,4103.91,intel,true
-Apple,62,986,13.5,7.78,11.5,Linux,2328.87,amd,false
-Lenovo,14,135,16.2,7.68,3.3,Windows,3373.39,nvidia,true
-Lenovo,55,2305,15.7,4.97,2.7,Linux,1782.43,amd,false
-Samsung,37,3686,11.1,7.01,6.8,macOS,4098.3,intel,true
-Sony,23,287,12.8,1.3,3.5,Chrome OS,3441.65,nvidia,false
-Sony,5,2469,16.0,5.03,3.6,Windows,2600.62,intel,false
-Lenovo,28,2733,16.1,7.28,10.6,macOS,1140.58,intel,false
-Lenovo,64,968,13.2,2.93,9.0,Windows,2411.97,intel,false
-Lenovo,28,267,11.6,5.36,7.1,Linux,2555.77,intel,false
-Acer,10,2171,13.9,6.78,10.0,Linux,894.61,amd,false
-HP,15,251,14.9,6.34,8.7,Chrome OS,4431.09,nvidia,false
-Asus,14,395,15.1,9.18,4.6,macOS,4755.46,intel,true
-Acer,55,3429,12.4,9.44,5.9,Linux,4798.87,intel,false
-Asus,34,1024,12.9,4.61,2.6,Linux,4745.8,amd,true
-HP,47,2967,12.8,1.22,11.0,Chrome OS,2654.85,intel,false
-Lenovo,29,3951,10.0,5.9,10.6,macOS,1730.63,amd,true
-Sony,30,1912,11.0,4.82,3.3,Chrome OS,2168.26,intel,false
-Dell,49,836,13.8,9.85,7.4,Linux,1723.47,nvidia,false
-Microsoft,17,2646,12.5,7.45,2.9,Windows,4672.46,amd,true
-Lenovo,26,2763,13.0,2.38,9.0,Windows,667.36,intel,false
-HP,50,227,11.8,6.54,10.3,Chrome OS,487.13,amd,true
-Microsoft,63,485,12.6,1.62,5.9,Windows,1335.42,nvidia,false
-Sony,51,2077,14.3,7.76,7.9,Chrome OS,1116.58,nvidia,false
-Asus,37,3546,11.2,8.5,9.9,Windows,4265.0,intel,true
-Toshiba,40,3451,11.0,4.87,8.5,Windows,4599.71,intel,false
-Microsoft,30,3020,11.0,3.9,3.6,Windows,2297.74,amd,false
-Samsung,29,3217,13.3,4.81,5.2,Chrome OS,1211.75,amd,false
-HP,9,3866,13.6,8.27,11.7,Chrome OS,1805.72,intel,true
-HP,8,2421,14.2,5.74,4.3,macOS,2328.43,nvidia,true
-Acer,42,630,13.2,9.92,5.5,macOS,209.89,nvidia,false
-Lenovo,9,2740,15.6,2.83,4.6,Chrome OS,232.29,nvidia,true
-HP,64,416,10.4,4.3,4.1,Windows,4456.55,nvidia,true
-HP,32,667,16.2,8.92,5.7,Chrome OS,865.61,intel,true
-HP,14,198,13.8,4.51,9.9,macOS,1156.45,nvidia,false
-Samsung,63,646,12.3,9.44,4.1,Linux,1301.93,nvidia,true
-HP,43,2596,16.9,4.43,7.9,Windows,4039.73,amd,true
-Toshiba,49,1111,11.5,3.18,11.7,macOS,3861.72,amd,true
-Apple,28,3403,15.1,6.58,3.0,macOS,3507.21,nvidia,false
-Asus,48,3326,10.6,6.15,5.2,Linux,360.11,amd,true
-Asus,49,3297,13.0,2.75,5.5,Windows,3997.63,intel,true
-Apple,41,370,16.4,9.69,4.3,Linux,884.42,nvidia,true
-Samsung,54,3585,15.4,8.49,8.0,macOS,3337.82,intel,false
-Asus,27,137,12.3,9.3,10.0,macOS,817.02,nvidia,true
-Microsoft,7,3194,11.4,4.31,4.1,Linux,1755.62,nvidia,true
-Toshiba,60,2068,14.7,4.74,5.3,Linux,323.28,amd,false
-Apple,41,3509,16.0,7.39,3.7,macOS,261.04,intel,true
-Samsung,10,2321,14.8,4.39,5.7,macOS,2828.76,nvidia,false
-Asus,10,2707,16.1,6.47,5.6,Chrome OS,717.54,amd,true
-Apple,53,3603,14.5,1.68,9.9,Chrome OS,224.14,intel,true
-Apple,12,3976,16.4,7.72,5.2,macOS,647.61,nvidia,false
-HP,40,2951,13.1,3.3,10.7,macOS,2784.1,amd,true
-Apple,31,2585,10.8,8.49,3.7,macOS,2284.85,nvidia,true
-Acer,47,792,13.3,7.5,9.6,Windows,2783.4,intel,false
-HP,50,829,12.9,8.65,2.7,Windows,1340.53,intel,false
-Apple,61,1305,13.2,1.18,5.7,Chrome OS,2310.04,nvidia,false
-Microsoft,39,1926,13.0,9.57,10.7,macOS,1780.12,intel,false
-HP,26,2929,16.1,7.16,7.6,Chrome OS,837.98,nvidia,false
-Microsoft,16,2706,10.1,8.73,8.3,Windows,1502.9,amd,true
-Sony,62,3192,15.2,5.01,2.9,Chrome OS,2531.74,amd,false
-Toshiba,30,4089,10.4,8.79,3.0,Chrome OS,3517.26,nvidia,true
-Microsoft,19,1144,15.9,7.34,11.6,macOS,4389.88,amd,false
-Acer,40,1362,15.9,1.69,7.0,Chrome OS,1426.99,amd,false
-Asus,16,784,11.4,1.01,8.1,Chrome OS,1373.97,nvidia,false
-Microsoft,55,3428,12.3,7.78,9.9,Linux,4351.25,nvidia,true
-Apple,25,2099,16.6,8.12,2.7,Linux,418.7,nvidia,false
-Sony,48,1439,12.1,1.88,11.0,macOS,2434.34,intel,false
-Dell,64,259,13.6,7.69,5.3,Windows,524.52,nvidia,true
-HP,15,268,11.3,5.5,11.8,macOS,961.08,intel,false
-HP,15,787,15.4,6.4,6.9,macOS,1588.88,nvidia,false
-Toshiba,42,3673,10.9,7.88,11.1,macOS,281.95,amd,false
-Asus,52,458,14.2,9.1,5.9,Chrome OS,4805.48,amd,true
-Acer,57,1018,12.9,7.84,6.0,macOS,1377.38,nvidia,false
-Microsoft,37,1912,11.4,7.69,10.8,macOS,3590.88,nvidia,true
-Sony,5,2341,12.3,6.63,2.9,Chrome OS,962.3,amd,true
-Apple,52,2890,11.2,6.0,10.1,Chrome OS,3112.29,amd,true
-Microsoft,21,3206,15.9,7.59,2.1,macOS,3199.88,intel,false
-Microsoft,59,464,10.0,7.84,6.0,Linux,424.76,intel,false
-Microsoft,49,1157,10.3,8.53,8.8,Windows,1753.67,nvidia,false
-Dell,60,1721,10.5,4.29,4.0,Chrome OS,3350.26,intel,true
-Apple,27,2043,10.5,5.87,10.4,Windows,287.95,nvidia,true
-Sony,5,3679,12.8,5.84,8.9,Chrome OS,2308.56,intel,true
-Dell,35,527,16.0,4.87,2.3,macOS,2279.7,nvidia,true
-Microsoft,62,1762,14.0,8.44,11.3,Chrome OS,4723.38,nvidia,false
-Lenovo,42,1100,11.4,9.85,8.7,Linux,2255.74,amd,true
-Lenovo,58,1700,13.0,5.43,10.2,Linux,4738.85,amd,false
-Dell,17,1368,16.9,4.78,5.9,Linux,718.08,nvidia,true
-HP,7,1046,13.3,8.53,11.6,Linux,1999.15,amd,true
-Acer,7,2128,16.9,2.75,7.5,Linux,329.63,amd,false
-Dell,50,1593,15.9,3.53,2.5,Chrome OS,1591.02,nvidia,true
-Lenovo,60,3460,10.1,1.12,8.4,Linux,2905.56,nvidia,true
-Sony,31,642,10.2,2.56,5.3,Chrome OS,548.32,intel,true
-Asus,6,1507,14.3,4.39,8.3,Chrome OS,366.62,intel,false
-HP,62,804,11.5,2.28,11.7,Windows,3522.95,intel,true
-Sony,10,2109,10.0,1.91,7.1,Windows,2768.2,amd,true
-Sony,64,2810,16.5,8.32,2.9,Windows,1406.63,nvidia,true
-HP,51,3093,15.8,6.16,8.7,macOS,1149.54,intel,true
-Dell,7,1936,12.4,1.77,7.5,Linux,2053.59,amd,false
-Microsoft,12,3777,15.4,5.03,5.8,Chrome OS,1273.53,amd,false
-Samsung,36,868,10.5,6.06,11.6,Linux,4077.44,intel,false
-Microsoft,51,1511,13.3,9.56,3.7,Windows,4962.9,amd,false
-Sony,34,3832,15.1,5.05,6.0,macOS,2276.55,intel,false
-Toshiba,51,3053,10.6,9.46,10.5,Chrome OS,437.37,amd,true
-Samsung,55,1450,15.9,1.42,3.4,Linux,1629.17,intel,false
-Acer,28,3855,14.1,1.46,3.5,Linux,3212.49,amd,false
-Microsoft,17,1153,13.4,1.49,2.1,Chrome OS,1231.92,nvidia,false
-Lenovo,51,1556,16.3,1.78,11.3,macOS,2821.93,nvidia,true
-Microsoft,26,483,11.4,1.86,11.1,Windows,607.03,intel,false
-HP,57,2362,14.7,6.28,11.8,Linux,422.66,amd,false
-Asus,50,3260,10.9,4.68,8.6,Windows,4051.86,nvidia,true
-Lenovo,46,606,10.9,1.02,5.1,Chrome OS,1366.17,intel,false
-Acer,13,2777,12.7,7.0,9.4,Linux,646.65,amd,true
-HP,19,494,12.4,1.28,11.6,Chrome OS,801.0,amd,false
-Sony,58,598,13.5,3.41,9.4,Linux,1210.37,nvidia,true
-Microsoft,29,1632,15.0,7.82,3.3,macOS,3757.08,nvidia,false
-Samsung,18,4009,14.5,3.27,6.6,Windows,4384.62,amd,false
-Dell,64,3856,14.4,3.14,3.0,macOS,355.69,nvidia,true
-Lenovo,13,3477,13.1,6.94,6.2,Windows,3123.77,intel,false
-Acer,16,3085,10.1,3.81,11.7,macOS,4365.95,nvidia,true
-Acer,62,2038,16.3,1.93,4.1,Linux,764.78,amd,false
-Toshiba,32,2995,13.6,7.33,2.1,Windows,2439.13,intel,true
-Samsung,34,868,10.2,7.4,3.4,Windows,3321.94,amd,false
-Acer,2,1624,13.1,6.68,2.2,Windows,4081.61,amd,false
-Toshiba,49,3689,10.2,1.84,4.1,Windows,1134.53,intel,false
-Toshiba,31,1086,13.4,3.1,11.8,Windows,4238.9,intel,true
-Asus,24,2255,12.0,1.66,8.5,Windows,3667.8,intel,false
-HP,11,2540,12.5,9.05,11.9,Chrome OS,2324.82,intel,false
-Microsoft,12,1768,11.9,7.0,4.3,macOS,422.35,amd,true
-Samsung,28,1823,11.3,4.67,8.8,Linux,2365.06,intel,true
-Sony,44,3123,15.6,1.01,9.1,Windows,4306.09,intel,false
-Acer,3,1281,12.1,3.19,9.3,macOS,1786.98,nvidia,false
-Dell,18,1150,13.0,3.8,4.8,Windows,3641.27,nvidia,true
-Dell,49,2441,10.6,5.81,9.9,Linux,4144.62,nvidia,false
-HP,31,3700,12.3,9.67,10.2,macOS,934.4,amd,false
-Apple,19,1656,11.0,3.19,8.4,macOS,1084.23,intel,true
-Dell,56,741,15.7,5.44,12.0,Linux,2560.07,amd,false
-Samsung,46,1439,15.4,1.64,9.8,Linux,1082.61,amd,true
-Lenovo,21,1422,15.8,4.64,7.5,Linux,4101.06,nvidia,true
-HP,32,668,15.3,8.79,4.5,Linux,3834.92,intel,false
-Acer,30,2650,16.9,3.87,9.2,Windows,1333.48,amd,false
-Microsoft,35,2397,13.8,7.39,7.6,Windows,4648.93,intel,false
-Asus,26,2672,13.1,6.85,10.8,macOS,2023.46,amd,false
-Asus,13,2269,16.2,6.31,10.2,Windows,1426.02,amd,true
-Lenovo,38,1534,10.6,1.85,11.8,Linux,4957.6,nvidia,true
-Dell,42,1720,13.9,6.26,11.8,macOS,2452.34,nvidia,false
-Microsoft,37,2547,13.7,4.37,11.3,Chrome OS,4161.28,intel,true
-Sony,17,723,10.2,2.11,11.4,Linux,3072.56,amd,false
-Samsung,14,2916,16.8,8.98,9.6,Chrome OS,4781.1,intel,false
-Acer,17,2897,16.3,8.69,2.8,Chrome OS,3187.13,nvidia,true
-Toshiba,48,3290,10.2,3.78,3.3,Linux,4282.35,intel,false
-Sony,29,3618,12.1,9.72,12.0,Linux,526.17,intel,false
-Samsung,35,3384,11.2,4.62,3.4,Windows,4219.6,intel,false
-Samsung,40,3624,12.0,8.28,2.7,Windows,4516.99,amd,false
-Microsoft,51,3647,10.6,2.28,10.9,Chrome OS,3675.07,amd,true
-Sony,12,3837,13.1,2.69,7.4,Linux,2682.04,intel,false
-Samsung,24,1819,12.9,2.77,3.9,macOS,1417.83,amd,false
-Asus,54,1526,13.9,3.23,8.7,macOS,3533.13,nvidia,true
-Asus,27,3033,11.0,5.01,8.2,Chrome OS,2791.07,intel,false
-Apple,45,2970,13.6,3.91,7.0,Linux,1383.37,intel,true
-HP,16,1016,14.5,8.88,10.5,macOS,1573.55,amd,true
-Dell,21,1394,15.2,4.01,8.6,macOS,2205.68,amd,false
-Dell,7,3911,14.5,9.63,2.7,Chrome OS,2901.61,amd,false
-Samsung,43,2503,11.0,9.09,4.1,macOS,4109.64,nvidia,false
-Sony,26,1359,12.3,6.46,8.0,macOS,1055.85,amd,true
-Microsoft,29,762,10.9,9.96,11.9,Windows,1495.39,intel,true
-Sony,61,2379,14.2,3.76,7.8,Linux,3946.3,amd,false
-Acer,8,840,12.6,2.36,4.1,macOS,3725.78,nvidia,false
-HP,58,763,15.9,8.24,9.8,Linux,285.61,nvidia,true
-Dell,64,253,13.2,4.36,6.3,Windows,3118.4,intel,false
-HP,56,2717,15.8,6.08,9.7,macOS,688.99,amd,false
-Lenovo,17,2133,12.6,4.91,7.8,Chrome OS,4951.55,intel,true
-Dell,63,721,11.8,2.87,10.4,Chrome OS,2690.04,nvidia,false
-HP,58,1586,15.6,8.52,4.9,Chrome OS,629.91,intel,false
-Asus,45,2440,11.3,1.39,2.2,Linux,2370.06,nvidia,false
-Sony,2,2454,12.4,5.54,2.9,Windows,476.18,intel,true
-Apple,30,3145,10.9,7.55,11.5,Linux,3521.54,nvidia,false
-Microsoft,63,1721,10.8,3.71,8.5,Windows,2439.78,amd,true
-Lenovo,36,2004,11.7,4.96,12.0,macOS,299.18,intel,false
-Acer,59,3304,13.0,4.38,6.2,macOS,3572.83,amd,false
-Samsung,5,780,16.2,4.79,6.3,Linux,4449.82,intel,false
-Microsoft,58,1223,13.7,9.69,10.5,Linux,2169.45,nvidia,false
-Microsoft,51,3516,15.4,4.51,2.3,macOS,1598.93,amd,false
-Samsung,50,460,11.9,2.12,10.4,macOS,696.05,nvidia,false
-Asus,13,1263,10.5,7.17,7.6,Chrome OS,1982.33,intel,true
-Apple,59,678,10.2,9.5,9.7,Windows,4514.33,nvidia,true
-Apple,37,1206,15.3,6.46,6.1,Chrome OS,4659.81,nvidia,false
-Dell,13,2506,13.2,3.59,4.2,Chrome OS,370.86,intel,true
-Toshiba,34,3987,12.9,6.13,7.7,Windows,882.25,intel,true
-Dell,4,559,16.5,5.08,4.2,Linux,1795.34,amd,false
-HP,17,474,11.3,9.31,8.2,Windows,4316.71,amd,false
-HP,29,3591,10.7,6.04,2.2,Linux,2543.69,nvidia,false
-Sony,61,2800,13.3,3.37,10.6,macOS,4336.06,intel,false
-Lenovo,12,2744,11.1,4.02,8.1,Windows,4693.39,intel,true
-Dell,8,2210,14.6,5.81,8.5,macOS,1657.65,amd,true
-Toshiba,62,1224,15.8,6.87,4.7,Windows,4748.18,intel,true
-Asus,9,1291,13.5,1.34,3.1,macOS,4870.04,nvidia,true
-Microsoft,47,1173,11.3,3.24,10.3,Chrome OS,4031.98,intel,true
-Apple,3,1422,10.2,8.85,4.5,macOS,804.52,amd,true
-Microsoft,9,726,16.1,6.14,10.2,Windows,4075.5,nvidia,false
-Dell,54,333,15.5,6.82,8.8,macOS,4023.97,nvidia,false
-HP,31,1633,16.5,3.49,7.9,Windows,2674.59,amd,true
-Asus,64,1766,12.2,1.59,9.3,Linux,3846.37,amd,false
-Asus,19,1927,14.0,8.26,5.4,macOS,2686.93,intel,true
-Toshiba,5,689,11.3,4.21,2.2,Linux,2283.47,amd,false
-Microsoft,3,2247,15.9,8.09,3.7,Linux,1858.0,nvidia,false
-Apple,30,4084,16.8,1.39,2.9,macOS,3646.46,intel,true
-Toshiba,52,2912,10.0,7.49,9.6,macOS,2856.74,amd,true
-Acer,50,2631,15.9,5.27,7.2,Windows,3011.9,nvidia,true
-Sony,35,2117,14.1,4.05,6.3,Linux,2068.37,intel,false
-Dell,54,1784,11.5,4.45,4.8,Windows,2892.75,nvidia,false
-Apple,7,1317,13.8,3.52,3.4,Windows,4662.25,intel,true
-Toshiba,27,376,10.6,4.73,11.0,Chrome OS,4177.01,intel,true
-Toshiba,52,2165,16.2,6.21,7.7,Windows,3321.47,nvidia,false
-Acer,7,452,15.7,6.99,5.1,Linux,3346.74,intel,true
-Apple,42,3870,12.9,8.69,8.2,Windows,3095.51,intel,true
-HP,13,1005,15.7,5.26,8.9,Linux,2360.81,intel,false
-HP,58,3035,11.6,9.7,6.2,Linux,3507.08,intel,true
-Sony,21,3636,10.7,1.86,11.2,macOS,289.93,nvidia,false
-Microsoft,26,245,12.0,3.89,8.0,Chrome OS,3214.72,intel,false
-Lenovo,23,3253,10.9,4.14,6.2,Linux,4289.11,amd,true
-Samsung,18,965,14.1,7.13,8.9,Linux,1309.12,amd,true
-Toshiba,26,519,16.1,4.57,3.1,Windows,1163.07,amd,true
-HP,49,1442,16.6,1.21,3.8,macOS,265.5,amd,true
-Acer,48,3665,16.9,7.92,3.5,Windows,1023.79,nvidia,false
-Dell,19,1224,15.3,3.16,6.7,macOS,964.55,amd,true
-Toshiba,14,3162,15.2,4.51,8.3,Chrome OS,1834.47,intel,true
-Sony,3,2196,16.7,4.92,6.0,macOS,721.41,amd,false
-Samsung,28,237,10.2,5.48,10.4,Windows,3820.27,intel,true
-Lenovo,29,929,12.4,7.75,10.3,Windows,3870.29,intel,false
-Lenovo,11,2522,10.2,3.59,11.9,Linux,3068.63,intel,false
-Sony,51,2472,14.1,7.48,5.1,macOS,3347.42,nvidia,false
-Microsoft,38,2325,12.3,8.18,2.8,Windows,946.97,amd,false
-Dell,2,3743,16.4,3.57,11.6,macOS,3543.7,nvidia,true
-Acer,30,3506,12.1,5.71,3.3,Chrome OS,3576.05,nvidia,true
-Acer,12,4046,15.8,7.8,4.2,macOS,4465.68,intel,false
-Lenovo,7,2635,11.8,8.59,4.0,Windows,2441.28,intel,true
-Sony,63,883,11.4,7.64,10.6,Linux,4477.87,intel,true
-Apple,14,2612,11.6,6.64,8.9,Chrome OS,2161.2,amd,false
-Lenovo,46,2036,13.1,7.99,5.5,Windows,3801.19,nvidia,true
-Apple,59,499,12.1,2.52,8.9,Linux,1403.74,nvidia,true
-Samsung,2,1213,16.3,2.92,2.1,Chrome OS,3113.92,amd,false
-Microsoft,63,726,13.9,9.47,3.2,macOS,1727.72,amd,true
-Toshiba,30,1068,15.3,1.89,2.8,macOS,3394.36,amd,false
-Lenovo,18,3472,10.4,5.04,11.1,Chrome OS,1978.09,amd,true
-Acer,2,1376,13.9,4.28,8.6,Windows,474.72,amd,false
-Microsoft,5,1960,13.2,8.23,11.7,Chrome OS,2312.86,nvidia,false
-Lenovo,35,2711,15.6,4.34,4.2,Chrome OS,2740.43,amd,false
-Acer,54,1351,10.2,9.31,10.6,macOS,583.86,amd,true
-HP,54,1885,13.0,4.66,4.3,Windows,2504.94,nvidia,false
-Lenovo,57,1832,12.1,6.37,6.8,Linux,1303.39,intel,false
-Asus,22,2519,10.5,3.43,4.1,Chrome OS,1065.49,amd,false
-Microsoft,7,2804,12.0,2.83,3.8,Chrome OS,2257.89,intel,true
-Lenovo,9,1355,11.3,5.12,2.8,Chrome OS,242.16,intel,false
-Asus,27,2662,10.1,5.05,7.2,Chrome OS,4162.41,intel,false
-Acer,60,1444,16.0,4.2,11.9,Chrome OS,2929.37,intel,true
-Microsoft,38,524,16.3,9.18,9.0,macOS,2618.35,amd,true
-Apple,9,2836,11.5,6.5,3.7,macOS,2230.73,intel,true
-Toshiba,38,1743,12.7,7.54,11.8,Windows,1347.04,amd,false
-Asus,34,992,11.4,6.89,7.0,Linux,2590.1,intel,true
-Apple,56,2408,11.5,1.2,10.1,Linux,608.06,intel,true
-Sony,13,1959,12.1,1.67,5.1,Windows,547.65,intel,false
-Acer,55,1905,11.6,3.69,2.0,Linux,4282.96,nvidia,false
-Toshiba,3,2034,10.7,8.05,2.9,Windows,2195.09,amd,false
-HP,23,2665,15.5,4.87,10.5,macOS,4112.29,amd,false
-Sony,36,2451,11.3,2.33,8.2,Chrome OS,1116.82,intel,true
-Asus,5,712,16.9,3.11,10.7,Windows,676.47,intel,false
-Dell,42,3671,12.1,5.45,9.7,Windows,3916.81,amd,true
-HP,35,408,13.0,6.38,3.4,Chrome OS,4341.7,intel,false
-Sony,57,4004,12.8,2.66,4.9,Chrome OS,2018.72,nvidia,false
-Dell,63,2684,13.6,9.3,10.0,Linux,846.64,nvidia,false
-Apple,61,3027,11.7,6.24,4.0,Windows,2174.22,nvidia,false
-Lenovo,19,1941,11.3,5.54,2.9,macOS,4016.78,intel,false
-Acer,48,1906,15.6,3.53,10.1,Linux,613.04,amd,true
-Lenovo,16,836,11.5,6.57,11.5,Windows,4266.65,amd,true
-Toshiba,29,1328,12.1,3.65,5.6,macOS,3791.21,intel,false
-Sony,41,796,16.2,7.08,9.8,Windows,2558.63,nvidia,true
-Acer,61,3848,14.6,3.68,5.8,Windows,1452.78,amd,false
-Acer,5,3908,16.5,2.93,9.9,Windows,4984.49,nvidia,false
-Asus,35,1958,11.3,3.17,8.9,macOS,768.55,intel,true
-Toshiba,34,3081,13.1,3.68,11.9,macOS,4629.03,amd,false
-HP,30,843,13.7,6.1,4.4,Linux,4708.9,intel,true
-Asus,27,1184,16.3,1.17,10.2,Chrome OS,4287.54,nvidia,false
-Samsung,38,2659,14.5,7.03,10.2,Linux,3944.87,nvidia,false
-Lenovo,47,3293,15.6,3.63,12.0,macOS,1129.06,nvidia,false
-Apple,51,2054,11.3,7.86,6.6,macOS,2943.99,nvidia,false
-Asus,63,2679,15.1,8.2,2.8,macOS,297.06,intel,true
-HP,10,3962,15.3,8.88,3.3,Chrome OS,1845.81,intel,true
-Microsoft,47,1403,11.1,2.43,8.8,Chrome OS,3974.19,amd,true
-Asus,40,224,11.2,2.14,9.1,Windows,4033.47,nvidia,false
-Sony,34,1090,15.2,2.35,5.9,macOS,1799.67,intel,true
-Sony,54,3830,13.6,8.8,6.6,Windows,3656.7,amd,false
-Apple,60,2101,12.4,2.69,4.7,Linux,4853.35,amd,false
-HP,22,2008,13.0,1.58,3.4,Windows,250.22,nvidia,false
-Lenovo,26,175,10.0,8.52,11.8,Chrome OS,4372.16,intel,false
-Toshiba,18,2500,10.2,2.96,7.0,macOS,3372.62,amd,true
-Microsoft,17,562,14.7,3.47,5.5,Windows,3938.71,amd,true
-Toshiba,14,3610,10.6,8.53,5.7,Linux,4142.32,nvidia,true
-HP,30,1371,12.7,1.1,11.7,Windows,3713.04,amd,false
-Microsoft,2,3747,12.4,3.5,9.3,Windows,2079.72,amd,false
-Microsoft,25,3796,10.3,4.85,4.0,Windows,4262.47,intel,false
-Asus,14,3091,12.2,6.66,7.9,macOS,1886.96,amd,true
-Dell,14,3108,10.4,3.94,10.1,Linux,4422.82,amd,true
-Asus,57,3651,13.4,2.41,5.9,Chrome OS,1137.03,amd,false
-Dell,64,3450,13.6,4.65,11.0,Chrome OS,1463.38,amd,true
-Toshiba,41,2646,13.0,2.84,4.3,Chrome OS,3177.38,intel,true
-HP,8,3893,11.7,3.11,3.3,macOS,2576.82,amd,true
-Samsung,16,3319,14.9,9.43,8.5,macOS,4529.31,nvidia,true
-HP,56,262,15.0,4.73,10.4,Chrome OS,277.46,nvidia,false
-Toshiba,43,354,13.5,3.83,11.1,Chrome OS,3187.43,nvidia,false
-Lenovo,31,3548,15.0,2.57,4.7,macOS,2995.61,amd,true
-Acer,31,657,12.7,3.33,8.2,Linux,1499.75,amd,true
-Toshiba,32,1926,16.4,3.21,4.3,Chrome OS,3773.73,amd,false
-HP,62,2177,10.6,1.96,2.5,macOS,4048.62,nvidia,false
-Dell,18,374,12.3,2.72,3.8,Chrome OS,1531.31,nvidia,false
-Lenovo,52,3013,13.7,4.65,6.7,macOS,1730.9,nvidia,true
-Asus,47,166,15.0,8.48,6.5,Linux,4750.14,nvidia,true
-Toshiba,52,1642,13.3,9.57,3.3,Windows,394.34,nvidia,false
-Samsung,7,3669,12.9,8.72,11.8,macOS,887.75,nvidia,false
-Asus,58,413,14.0,5.91,5.6,Linux,3678.1,intel,true
-Sony,3,1749,14.2,5.41,4.3,Windows,1829.76,amd,true
-Lenovo,58,473,12.2,1.24,11.6,Chrome OS,1076.02,intel,true
-HP,33,812,16.7,2.24,3.3,Linux,3739.94,amd,false
-HP,31,1256,16.8,5.06,10.6,macOS,3147.36,intel,false
-Samsung,12,540,12.4,3.34,11.9,Windows,2148.17,intel,false
-HP,11,3773,14.1,9.42,11.7,Windows,4587.11,amd,true
-Acer,44,1468,10.2,7.66,4.9,Chrome OS,4838.08,amd,true
-HP,60,206,16.7,7.31,7.8,Linux,2748.02,nvidia,true
-Acer,64,2436,14.5,4.78,11.5,Chrome OS,1955.63,nvidia,true
-Acer,40,3477,14.6,8.33,5.3,Linux,728.26,intel,true
-HP,55,3990,10.9,7.26,3.1,Linux,4218.12,nvidia,true
-Asus,11,441,13.7,3.18,2.9,macOS,1623.76,intel,false
-HP,38,2120,12.5,9.84,7.4,Chrome OS,425.09,amd,true
-Asus,49,2938,15.5,9.35,3.0,macOS,3107.79,amd,false
-Asus,51,2914,11.0,4.03,2.8,Windows,1972.58,intel,false
-Lenovo,16,2971,14.8,6.65,7.4,Chrome OS,2229.94,amd,true
-Asus,7,1657,11.3,5.3,9.9,Chrome OS,4495.65,intel,true
-HP,11,1398,15.1,2.29,9.3,Windows,3348.68,amd,false
-Microsoft,51,2888,16.0,2.97,10.1,Linux,2001.29,intel,false
-Sony,22,2200,15.8,6.02,10.9,Chrome OS,2042.91,amd,false
-Lenovo,9,2313,13.9,4.45,11.3,Chrome OS,4110.27,intel,true
-Samsung,9,4065,11.6,2.89,3.2,macOS,277.47,nvidia,true
-Acer,8,965,15.3,1.2,7.8,Chrome OS,4454.98,amd,false
-Microsoft,9,3719,12.5,2.23,4.9,macOS,328.88,amd,false
-Acer,52,2606,11.0,5.47,5.9,macOS,3709.24,nvidia,false
-HP,45,2979,14.7,5.31,7.9,Windows,4927.01,amd,false
-Sony,20,1333,10.9,2.34,3.6,Linux,2059.61,intel,true
-Asus,5,2106,12.3,4.49,8.0,Linux,2188.27,nvidia,true
+﻿"brand","RAM","built_in_storage","screen_size","release_date","weight","operating_system","price","CPU_brand","is_easly_repairable"
+"ASUS","4 GB","512 GB","13""","4/16/2012","1.9 kg","Linux","2910.22 zł","AMD","False"
+"Framework","4 GB","128 GB","13""","2/15/2007","2.6 kg","Linux","9880.11 zł","intel","True"
+"Dell","4 GB","4096 GB","15""","4/25/2017","2.4 kg","Linux","3344.17 zł","AMD","True"
+"HP","4 GB","2048 GB","16""","6/21/2013","2.2 kg","Linux","7987.94 zł","intel","True"
+"HP","8 GB","512 GB","10""","6/12/2019","1.8 kg","teampleOS","1368.97 zł","Qualcomm","False"
+"Framework","64 GB","128 GB","17""","8/2/2018","1.9 kg","windows","6042.31 zł","intel","True"
+"Apple","16 GB","64 GB","14""","3/17/2010","1.4 kg","teampleOS","1503.46 zł","Qualcomm","True"
+"HP","64 GB","512 GB","12""","9/27/2011","1.6 kg","Linux","4997.66 zł","AMD","True"
+"Framework","64 GB","512 GB","14""","7/24/2009","1.3 kg","Linux","9506.88 zł","Qualcomm","False"
+"Apple","4 GB","2048 GB","11""","10/3/2006","1.3 kg","teampleOS","1197.51 zł","Qualcomm","False"
+"ASUS","4 GB","512 GB","15""","5/14/2015","1.0 kg","windows","9772.44 zł","intel","True"
+"Apple","4 GB","4096 GB","10""","10/2/2022","1.5 kg","windows","2023.87 zł","AMD","False"
+"Dell","4 GB","2048 GB","12""","1/19/2023","2.6 kg","windows","5717.28 zł","intel","True"
+"ASUS","16 GB","64 GB","13""","1/16/2009","2.1 kg","Linux","2545.12 zł","Qualcomm","False"
+"Framework","64 GB","4096 GB","11""","12/15/2011","1.8 kg","FreeBSD","7578.27 zł","AMD","False"
+"Framework","16 GB","64 GB","11""","9/27/2020","2.9 kg","windows","1872.71 zł","Qualcomm","False"
+"ASUS","16 GB","256 GB","10""","4/24/2012","2.3 kg","teampleOS","9974.31 zł","Qualcomm","False"
+"Framework","16 GB","64 GB","15""","1/14/2007","2.9 kg","Linux","2141.78 zł","AMD","True"
+"Dell","16 GB","512 GB","14""","5/20/2015","1.8 kg","Linux","2293.57 zł","AMD","False"
+"Framework","8 GB","128 GB","12""","7/6/2015","2.5 kg","Linux","6385.07 zł","intel","True"
+"Apple","8 GB","512 GB","12""","5/30/2013","1.0 kg","windows","3538.97 zł","Qualcomm","False"
+"Apple","4 GB","256 GB","12""","12/17/2007","2.5 kg","teampleOS","3602.99 zł","Qualcomm","False"
+"Framework","16 GB","64 GB","17""","2/7/2012","2.1 kg","Linux","3570.55 zł","AMD","True"
+"Apple","64 GB","1024 GB","11""","11/2/2014","1.8 kg","windows","5291.79 zł","intel","False"
+"Apple","4 GB","1024 GB","10""","5/15/2023","1.2 kg","teampleOS","5014.17 zł","Qualcomm","False"
+"Dell","64 GB","1024 GB","16""","11/3/2005","1.0 kg","Linux","2506.22 zł","Qualcomm","False"
+"Framework","32 GB","128 GB","12""","6/20/2009","2.8 kg","FreeBSD","2895.53 zł","AMD","True"
+"Lenovo","4 GB","1024 GB","15""","1/20/2006","2.7 kg","windows","3244.3 zł","Qualcomm","False"
+"ASUS","32 GB","512 GB","17""","11/18/2016","1.2 kg","teampleOS","1576.76 zł","Qualcomm","False"
+"Framework","32 GB","2048 GB","11""","10/9/2007","2.4 kg","windows","4493.45 zł","Qualcomm","True"
+"Apple","8 GB","1024 GB","12""","8/6/2016","1.1 kg","teampleOS","6156.34 zł","intel","True"
+"HP","64 GB","128 GB","15""","5/25/2012","2.7 kg","FreeBSD","9136.81 zł","Qualcomm","True"
+"Lenovo","8 GB","128 GB","10""","3/2/2014","2.6 kg","FreeBSD","6992.75 zł","Qualcomm","False"
+"Lenovo","64 GB","2048 GB","10""","2/7/2006","1.1 kg","FreeBSD","5339.84 zł","intel","False"
+"Lenovo","8 GB","128 GB","14""","5/12/2016","2.7 kg","FreeBSD","5430.6 zł","Qualcomm","False"
+"Framework","8 GB","2048 GB","12""","12/20/2014","1.5 kg","windows","1256.16 zł","Qualcomm","False"
+"ASUS","64 GB","1024 GB","16""","3/18/2021","2.2 kg","windows","6280.27 zł","Qualcomm","False"
+"Dell","32 GB","512 GB","13""","7/13/2010","2.2 kg","teampleOS","4064.48 zł","AMD","True"
+"ASUS","32 GB","512 GB","15""","3/25/2019","1.2 kg","windows","4321.2 zł","Qualcomm","True"
+"Framework","8 GB","4096 GB","16""","7/24/2015","2.2 kg","teampleOS","4318.42 zł","intel","False"
+"Lenovo","32 GB","4096 GB","10""","6/27/2014","2.0 kg","windows","4120.38 zł","Qualcomm","True"
+"ASUS","16 GB","1024 GB","12""","5/11/2023","2.3 kg","Linux","5816.13 zł","AMD","False"
+"Dell","64 GB","256 GB","12""","7/12/2017","2.0 kg","windows","2529.1 zł","AMD","False"
+"Dell","32 GB","128 GB","15""","6/14/2015","1.3 kg","Linux","8640.78 zł","intel","False"
+"Lenovo","4 GB","64 GB","12""","6/14/2011","2.4 kg","windows","5064.42 zł","Qualcomm","True"
+"HP","4 GB","1024 GB","11""","5/3/2009","2.2 kg","Linux","8559.39 zł","intel","False"
+"Lenovo","64 GB","4096 GB","12""","1/28/2010","3.0 kg","Linux","5718.78 zł","intel","False"
+"Dell","4 GB","256 GB","16""","11/22/2019","1.1 kg","windows","6653.05 zł","AMD","True"
+"ASUS","64 GB","512 GB","13""","2/10/2012","3.0 kg","FreeBSD","2023.01 zł","intel","False"
+"HP","64 GB","256 GB","10""","8/28/2022","3.0 kg","windows","5687.05 zł","AMD","True"
+"Apple","64 GB","128 GB","10""","12/15/2006","1.2 kg","windows","7133.36 zł","intel","False"
+"Lenovo","16 GB","128 GB","15""","12/19/2010","1.6 kg","FreeBSD","1175.54 zł","Qualcomm","False"
+"HP","32 GB","4096 GB","12""","12/31/2007","2.0 kg","FreeBSD","1897.44 zł","Qualcomm","True"
+"HP","8 GB","64 GB","12""","3/28/2005","1.7 kg","teampleOS","1327.71 zł","Qualcomm","True"
+"Framework","16 GB","2048 GB","14""","7/25/2021","1.7 kg","teampleOS","2302.48 zł","intel","False"
+"Lenovo","32 GB","256 GB","17""","10/21/2010","2.2 kg","windows","7196.4 zł","AMD","True"
+"Lenovo","16 GB","64 GB","11""","6/6/2005","1.9 kg","FreeBSD","9475.1 zł","intel","False"
+"Dell","4 GB","64 GB","16""","4/18/2008","2.9 kg","teampleOS","9276.29 zł","intel","False"
+"Lenovo","8 GB","2048 GB","13""","6/13/2014","2.6 kg","Linux","4492.05 zł","intel","True"
+"HP","64 GB","2048 GB","14""","2/23/2019","1.8 kg","Linux","5957.62 zł","Qualcomm","True"
+"Apple","32 GB","512 GB","11""","5/2/2005","2.0 kg","FreeBSD","8015.6 zł","AMD","True"
+"Lenovo","64 GB","64 GB","15""","6/18/2019","2.1 kg","FreeBSD","2865.8 zł","intel","True"
+"Apple","8 GB","1024 GB","17""","3/2/2007","2.2 kg","windows","7556.39 zł","AMD","False"
+"ASUS","16 GB","64 GB","12""","4/15/2014","1.7 kg","windows","3753.18 zł","AMD","True"
+"Dell","16 GB","128 GB","15""","7/28/2008","2.3 kg","Linux","1485.92 zł","AMD","True"
+"Lenovo","4 GB","64 GB","13""","1/5/2022","2.5 kg","Linux","3226.47 zł","Qualcomm","False"
+"Apple","32 GB","2048 GB","13""","5/23/2011","1.3 kg","windows","7703.74 zł","AMD","True"
+"HP","4 GB","512 GB","15""","4/17/2018","1.2 kg","FreeBSD","6888.56 zł","Qualcomm","False"
+"Apple","4 GB","256 GB","11""","11/28/2022","2.1 kg","teampleOS","7085.15 zł","Qualcomm","False"
+"Apple","16 GB","256 GB","10""","5/5/2013","2.2 kg","windows","3740.04 zł","intel","False"
+"HP","32 GB","256 GB","11""","1/4/2009","1.5 kg","FreeBSD","4902.4 zł","Qualcomm","False"
+"Dell","16 GB","512 GB","10""","5/4/2010","1.8 kg","Linux","3370.76 zł","Qualcomm","True"
+"Lenovo","32 GB","128 GB","10""","10/17/2018","1.6 kg","teampleOS","5488.3 zł","intel","True"
+"Framework","4 GB","512 GB","12""","1/11/2011","1.4 kg","Linux","9995.79 zł","intel","False"
+"HP","64 GB","128 GB","17""","8/9/2008","2.4 kg","windows","9791.07 zł","Qualcomm","True"
+"Framework","64 GB","64 GB","17""","1/29/2005","1.2 kg","teampleOS","9673.58 zł","Qualcomm","False"
+"ASUS","16 GB","64 GB","13""","3/29/2010","2.5 kg","teampleOS","8845.32 zł","AMD","False"
+"Apple","4 GB","4096 GB","16""","2/6/2013","3.0 kg","FreeBSD","5763.96 zł","intel","False"
+"Apple","32 GB","2048 GB","14""","6/24/2022","2.5 kg","windows","6777.18 zł","intel","True"
+"Lenovo","32 GB","4096 GB","17""","4/24/2017","2.6 kg","windows","4715.81 zł","intel","True"
+"HP","4 GB","256 GB","10""","7/16/2010","1.2 kg","teampleOS","9658.97 zł","intel","False"
+"Apple","64 GB","512 GB","15""","8/18/2015","2.9 kg","teampleOS","6291.37 zł","Qualcomm","False"
+"Dell","64 GB","1024 GB","16""","5/5/2011","2.7 kg","windows","4002.66 zł","AMD","True"
+"Dell","4 GB","1024 GB","11""","3/31/2007","1.2 kg","FreeBSD","9217.91 zł","Qualcomm","True"
+"Dell","64 GB","128 GB","17""","7/3/2014","1.8 kg","FreeBSD","9583.01 zł","AMD","True"
+"Lenovo","4 GB","256 GB","11""","10/14/2023","2.3 kg","Linux","6871.76 zł","AMD","True"
+"ASUS","32 GB","128 GB","14""","9/18/2014","1.8 kg","teampleOS","3454.43 zł","Qualcomm","False"
+"ASUS","4 GB","2048 GB","15""","2/19/2009","2.1 kg","teampleOS","2520.77 zł","Qualcomm","True"
+"Apple","32 GB","512 GB","14""","2/18/2015","2.8 kg","teampleOS","8749.27 zł","Qualcomm","False"
+"ASUS","4 GB","1024 GB","16""","7/19/2019","1.3 kg","teampleOS","9265.41 zł","intel","False"
+"HP","16 GB","4096 GB","15""","3/30/2019","1.2 kg","FreeBSD","2809.76 zł","AMD","False"
+"Lenovo","16 GB","128 GB","14""","12/4/2015","2.7 kg","Linux","8445.46 zł","intel","False"
+"Apple","4 GB","2048 GB","12""","9/22/2012","1.8 kg","windows","9208.46 zł","intel","True"
+"HP","4 GB","2048 GB","12""","5/30/2022","1.4 kg","Linux","1248.32 zł","AMD","False"
+"Framework","32 GB","256 GB","15""","9/5/2017","2.9 kg","FreeBSD","8521.88 zł","AMD","True"
+"Apple","64 GB","512 GB","11""","4/14/2022","2.6 kg","teampleOS","7929.14 zł","intel","True"
+"Lenovo","4 GB","512 GB","12""","2/8/2008","1.9 kg","Linux","4130.76 zł","Qualcomm","True"
+"HP","16 GB","2048 GB","10""","8/20/2014","2.0 kg","Linux","6063.0 zł","AMD","True"
+"HP","64 GB","64 GB","13""","12/18/2021","2.9 kg","FreeBSD","6168.3 zł","AMD","False"
+"ASUS","4 GB","128 GB","10""","1/4/2012","2.7 kg","teampleOS","8789.23 zł","Qualcomm","False"
+"Dell","32 GB","2048 GB","14""","10/24/2019","2.7 kg","Linux","7856.59 zł","AMD","False"
+"Lenovo","8 GB","512 GB","16""","1/27/2010","1.9 kg","teampleOS","1870.8 zł","AMD","False"
+"HP","8 GB","2048 GB","14""","4/4/2017","1.7 kg","Linux","4315.37 zł","Qualcomm","False"
+"Dell","16 GB","2048 GB","15""","3/25/2023","2.5 kg","teampleOS","2666.04 zł","intel","True"
+"ASUS","4 GB","1024 GB","12""","6/3/2012","2.7 kg","windows","8988.64 zł","AMD","False"
+"ASUS","8 GB","2048 GB","16""","10/27/2015","2.1 kg","FreeBSD","3789.3 zł","intel","True"
+"Apple","4 GB","512 GB","14""","7/5/2008","1.2 kg","FreeBSD","3681.45 zł","Qualcomm","False"
+"Lenovo","8 GB","4096 GB","14""","12/28/2012","2.4 kg","FreeBSD","4228.42 zł","intel","True"
+"Apple","32 GB","4096 GB","11""","12/15/2015","2.8 kg","FreeBSD","9723.73 zł","intel","True"
+"HP","4 GB","512 GB","17""","7/2/2009","2.8 kg","FreeBSD","8362.14 zł","AMD","True"
+"ASUS","32 GB","128 GB","14""","2/10/2016","3.0 kg","windows","2118.33 zł","AMD","True"
+"Dell","8 GB","4096 GB","10""","10/10/2016","3.0 kg","FreeBSD","6631.45 zł","Qualcomm","False"
+"ASUS","4 GB","128 GB","10""","9/11/2009","2.6 kg","Linux","3890.83 zł","intel","False"
+"Framework","4 GB","512 GB","13""","6/9/2021","1.7 kg","teampleOS","8389.74 zł","Qualcomm","True"
+"HP","8 GB","2048 GB","14""","1/8/2013","1.9 kg","Linux","8984.19 zł","AMD","False"
+"Apple","8 GB","1024 GB","13""","9/21/2017","1.8 kg","FreeBSD","8794.91 zł","Qualcomm","False"
+"HP","8 GB","512 GB","15""","5/1/2021","2.6 kg","FreeBSD","5583.24 zł","intel","False"
+"Lenovo","16 GB","256 GB","16""","1/23/2022","1.3 kg","windows","1716.75 zł","Qualcomm","True"
+"Framework","64 GB","2048 GB","16""","1/12/2020","1.7 kg","teampleOS","3518.45 zł","AMD","True"
+"Apple","8 GB","4096 GB","12""","9/14/2014","1.9 kg","FreeBSD","9652.01 zł","Qualcomm","False"
+"HP","4 GB","2048 GB","12""","5/16/2017","2.0 kg","Linux","5298.66 zł","AMD","True"
+"Lenovo","32 GB","128 GB","17""","7/23/2008","1.1 kg","windows","1512.77 zł","intel","True"
+"Lenovo","4 GB","512 GB","14""","7/21/2017","1.7 kg","teampleOS","5294.51 zł","intel","False"
+"ASUS","4 GB","256 GB","17""","11/14/2021","1.7 kg","FreeBSD","8066.8 zł","Qualcomm","True"
+"Dell","64 GB","2048 GB","16""","10/29/2017","2.8 kg","windows","5588.63 zł","AMD","False"
+"Apple","16 GB","2048 GB","11""","6/25/2020","1.1 kg","windows","3268.28 zł","AMD","True"
+"Lenovo","4 GB","512 GB","10""","8/31/2007","1.8 kg","Linux","3564.67 zł","Qualcomm","True"
+"Dell","32 GB","4096 GB","10""","1/17/2008","2.0 kg","teampleOS","7554.17 zł","Qualcomm","True"
+"Apple","64 GB","64 GB","14""","11/28/2011","1.1 kg","windows","6629.51 zł","intel","True"
+"Dell","16 GB","1024 GB","10""","10/2/2006","1.0 kg","FreeBSD","3782.19 zł","Qualcomm","False"
+"HP","32 GB","1024 GB","16""","7/15/2007","2.1 kg","teampleOS","9228.27 zł","intel","True"
+"Lenovo","32 GB","128 GB","13""","7/22/2019","1.2 kg","Linux","2605.6 zł","AMD","False"
+"ASUS","64 GB","1024 GB","17""","10/31/2012","2.6 kg","teampleOS","7722.41 zł","Qualcomm","False"
+"Framework","4 GB","512 GB","10""","9/18/2012","1.1 kg","FreeBSD","6588.99 zł","AMD","True"
+"ASUS","16 GB","1024 GB","15""","11/23/2009","1.2 kg","teampleOS","2299.64 zł","Qualcomm","False"
+"Apple","32 GB","1024 GB","14""","12/22/2013","1.6 kg","Linux","3235.74 zł","intel","False"
+"Framework","8 GB","1024 GB","17""","10/1/2015","2.9 kg","Linux","5755.64 zł","AMD","True"
+"ASUS","4 GB","128 GB","11""","10/14/2019","1.4 kg","Linux","9027.76 zł","AMD","False"
+"Framework","64 GB","64 GB","12""","8/10/2021","2.8 kg","teampleOS","8607.64 zł","intel","True"
+"Framework","8 GB","512 GB","13""","9/27/2021","2.0 kg","teampleOS","2058.7 zł","intel","False"
+"HP","4 GB","2048 GB","15""","8/21/2017","2.2 kg","FreeBSD","5872.74 zł","AMD","True"
+"Apple","32 GB","512 GB","14""","7/16/2007","1.3 kg","teampleOS","8078.16 zł","intel","True"
+"HP","64 GB","64 GB","15""","9/6/2006","2.7 kg","teampleOS","2145.96 zł","Qualcomm","True"
+"Apple","8 GB","256 GB","16""","6/22/2007","2.0 kg","Linux","8563.71 zł","AMD","False"
+"Lenovo","64 GB","2048 GB","11""","10/21/2010","1.7 kg","FreeBSD","2115.72 zł","Qualcomm","False"
+"HP","8 GB","64 GB","14""","4/27/2013","2.3 kg","windows","6689.44 zł","intel","True"
+"Apple","4 GB","4096 GB","13""","6/23/2012","2.7 kg","Linux","2706.89 zł","AMD","True"
+"Framework","8 GB","128 GB","13""","6/5/2014","2.2 kg","teampleOS","1952.89 zł","Qualcomm","False"
+"ASUS","4 GB","1024 GB","16""","9/16/2010","2.8 kg","Linux","2549.22 zł","intel","True"
+"Apple","16 GB","512 GB","12""","4/14/2013","2.6 kg","teampleOS","9519.1 zł","AMD","False"
+"HP","8 GB","1024 GB","14""","12/15/2009","1.1 kg","FreeBSD","1689.23 zł","AMD","False"
+"Lenovo","4 GB","1024 GB","17""","10/20/2017","1.3 kg","Linux","1699.22 zł","Qualcomm","False"
+"ASUS","4 GB","64 GB","13""","5/23/2006","1.7 kg","teampleOS","5055.29 zł","AMD","False"
+"Dell","64 GB","128 GB","12""","9/5/2011","2.9 kg","Linux","1175.33 zł","AMD","True"
+"ASUS","64 GB","4096 GB","12""","8/14/2007","2.4 kg","windows","2590.18 zł","intel","False"
+"Apple","4 GB","4096 GB","17""","9/10/2016","2.5 kg","Linux","6792.68 zł","AMD","True"
+"Apple","4 GB","512 GB","17""","6/2/2022","1.7 kg","teampleOS","5550.06 zł","Qualcomm","False"
+"Apple","16 GB","4096 GB","17""","11/6/2012","2.8 kg","windows","8759.41 zł","Qualcomm","False"
+"Lenovo","64 GB","4096 GB","12""","5/6/2012","1.4 kg","Linux","8618.26 zł","intel","False"
+"ASUS","4 GB","2048 GB","10""","9/22/2019","2.1 kg","FreeBSD","4517.1 zł","AMD","False"
+"ASUS","8 GB","64 GB","14""","10/17/2017","1.3 kg","teampleOS","2897.25 zł","Qualcomm","True"
+"HP","4 GB","256 GB","14""","8/30/2013","2.0 kg","Linux","6414.16 zł","AMD","False"
+"Lenovo","8 GB","128 GB","14""","11/11/2019","2.1 kg","FreeBSD","7246.05 zł","intel","True"
+"Apple","4 GB","64 GB","11""","7/20/2017","1.8 kg","Linux","1347.33 zł","AMD","True"
+"Framework","32 GB","2048 GB","10""","9/29/2012","1.6 kg","teampleOS","6300.65 zł","intel","False"
+"Framework","16 GB","128 GB","11""","6/10/2019","2.2 kg","Linux","9647.17 zł","AMD","False"
+"ASUS","64 GB","2048 GB","13""","9/13/2022","2.2 kg","teampleOS","2015.9 zł","Qualcomm","False"
+"Apple","32 GB","1024 GB","12""","9/22/2010","2.7 kg","FreeBSD","8714.95 zł","intel","True"
+"ASUS","64 GB","128 GB","10""","8/16/2017","2.1 kg","FreeBSD","2197.44 zł","intel","True"
+"Lenovo","4 GB","128 GB","12""","1/8/2013","2.1 kg","FreeBSD","2927.24 zł","Qualcomm","True"
+"Lenovo","32 GB","512 GB","10""","7/20/2010","1.5 kg","windows","1752.51 zł","intel","False"
+"Dell","4 GB","4096 GB","10""","2/10/2023","2.2 kg","FreeBSD","5834.81 zł","Qualcomm","True"
+"HP","4 GB","256 GB","16""","5/6/2009","1.9 kg","FreeBSD","5224.83 zł","Qualcomm","True"
+"Framework","64 GB","128 GB","12""","2/20/2013","2.7 kg","Linux","7312.73 zł","intel","False"
+"Lenovo","8 GB","4096 GB","17""","5/25/2009","2.0 kg","windows","3816.8 zł","Qualcomm","False"
+"ASUS","16 GB","4096 GB","15""","12/29/2022","1.2 kg","FreeBSD","5686.1 zł","intel","False"
+"ASUS","4 GB","128 GB","13""","3/30/2016","1.5 kg","windows","1221.72 zł","Qualcomm","True"
+"HP","8 GB","2048 GB","12""","7/19/2021","2.4 kg","teampleOS","6070.13 zł","intel","True"
+"Lenovo","16 GB","512 GB","13""","3/14/2020","1.4 kg","FreeBSD","3703.49 zł","AMD","False"
+"HP","64 GB","4096 GB","10""","4/1/2015","3.0 kg","Linux","6914.58 zł","intel","True"
+"ASUS","4 GB","1024 GB","16""","3/10/2013","1.5 kg","windows","6819.12 zł","AMD","True"
+"HP","8 GB","64 GB","17""","1/11/2006","2.6 kg","Linux","1142.98 zł","AMD","True"
+"ASUS","4 GB","64 GB","16""","6/12/2013","1.1 kg","FreeBSD","5433.73 zł","AMD","True"
+"Apple","32 GB","256 GB","13""","3/7/2015","2.1 kg","Linux","2076.71 zł","AMD","False"
+"Lenovo","16 GB","4096 GB","14""","9/28/2016","2.5 kg","windows","8915.59 zł","intel","True"
+"Apple","4 GB","256 GB","11""","4/11/2010","1.9 kg","teampleOS","2753.16 zł","Qualcomm","True"
+"HP","8 GB","512 GB","13""","6/25/2010","2.0 kg","Linux","9232.82 zł","intel","False"
+"Dell","8 GB","128 GB","10""","6/10/2022","2.4 kg","teampleOS","2577.36 zł","intel","False"
+"ASUS","8 GB","256 GB","16""","8/13/2017","1.4 kg","Linux","4171.76 zł","intel","True"
+"ASUS","32 GB","64 GB","11""","7/29/2011","1.8 kg","FreeBSD","1384.43 zł","AMD","False"
+"HP","64 GB","64 GB","16""","1/1/2017","2.0 kg","teampleOS","6258.97 zł","intel","True"
+"HP","16 GB","2048 GB","16""","2/8/2016","2.5 kg","FreeBSD","3025.8 zł","intel","False"
+"Framework","64 GB","64 GB","13""","4/3/2010","1.8 kg","teampleOS","6010.99 zł","Qualcomm","False"
+"Framework","64 GB","512 GB","14""","5/27/2013","2.7 kg","windows","1721.23 zł","AMD","True"
+"HP","16 GB","256 GB","17""","8/1/2018","1.9 kg","windows","9200.27 zł","intel","False"
+"Framework","32 GB","4096 GB","10""","6/26/2014","2.3 kg","FreeBSD","5655.26 zł","Qualcomm","False"
+"Lenovo","16 GB","256 GB","14""","8/2/2014","1.3 kg","windows","5805.83 zł","AMD","False"
+"Framework","4 GB","128 GB","17""","10/22/2021","1.2 kg","windows","1245.94 zł","AMD","True"
+"Apple","8 GB","2048 GB","13""","4/17/2017","1.8 kg","Linux","6982.57 zł","Qualcomm","False"
+"Dell","16 GB","2048 GB","16""","4/9/2020","2.5 kg","teampleOS","9692.13 zł","intel","True"
+"Dell","8 GB","128 GB","10""","6/3/2023","2.7 kg","teampleOS","7689.75 zł","AMD","False"
+"Lenovo","16 GB","2048 GB","14""","11/26/2008","1.8 kg","Linux","4313.64 zł","AMD","False"
+"Dell","8 GB","4096 GB","12""","8/15/2020","2.9 kg","teampleOS","2880.54 zł","AMD","True"
+"ASUS","64 GB","256 GB","16""","4/12/2015","2.4 kg","teampleOS","4847.45 zł","AMD","False"
+"ASUS","32 GB","4096 GB","16""","9/27/2009","2.2 kg","Linux","2423.86 zł","intel","True"
+"Lenovo","16 GB","1024 GB","14""","11/18/2022","2.8 kg","FreeBSD","4086.26 zł","Qualcomm","True"
+"Dell","4 GB","64 GB","17""","4/10/2005","1.8 kg","teampleOS","4850.53 zł","AMD","False"
+"Dell","64 GB","4096 GB","17""","2/11/2005","1.8 kg","Linux","3220.79 zł","Qualcomm","False"
+"HP","16 GB","128 GB","16""","12/11/2006","1.3 kg","windows","3354.48 zł","AMD","True"
+"Apple","8 GB","4096 GB","14""","11/20/2011","1.2 kg","Linux","1911.53 zł","Qualcomm","False"
+"Apple","4 GB","512 GB","14""","8/23/2018","1.1 kg","teampleOS","3704.88 zł","intel","True"
+"Lenovo","32 GB","1024 GB","12""","1/12/2016","2.7 kg","FreeBSD","8539.57 zł","AMD","True"
+"Apple","64 GB","4096 GB","11""","10/7/2013","1.5 kg","Linux","2688.48 zł","Qualcomm","False"
+"Lenovo","4 GB","4096 GB","13""","12/18/2015","3.0 kg","windows","7913.0 zł","AMD","False"
+"Dell","4 GB","1024 GB","17""","10/18/2018","2.4 kg","teampleOS","2506.7 zł","intel","False"
+"HP","16 GB","64 GB","10""","9/23/2013","3.0 kg","teampleOS","8372.9 zł","Qualcomm","False"
+"ASUS","4 GB","64 GB","12""","3/11/2013","2.2 kg","Linux","4306.63 zł","intel","False"
+"Dell","32 GB","256 GB","10""","1/11/2017","2.9 kg","teampleOS","8823.39 zł","AMD","True"
+"Dell","16 GB","64 GB","13""","3/9/2022","2.6 kg","teampleOS","7122.15 zł","intel","True"
+"Apple","32 GB","64 GB","14""","4/22/2007","1.2 kg","FreeBSD","3145.06 zł","Qualcomm","True"
+"Framework","8 GB","128 GB","15""","7/26/2011","2.6 kg","windows","4857.62 zł","AMD","False"
+"Lenovo","4 GB","1024 GB","11""","11/24/2013","1.1 kg","windows","3637.95 zł","AMD","False"
+"Dell","64 GB","4096 GB","16""","5/3/2018","1.4 kg","windows","4655.09 zł","intel","True"
+"Dell","32 GB","128 GB","15""","6/25/2006","1.9 kg","windows","9698.71 zł","intel","False"
+"HP","16 GB","1024 GB","11""","6/15/2016","2.4 kg","windows","9947.14 zł","AMD","False"
+"Apple","64 GB","4096 GB","12""","10/14/2007","2.5 kg","teampleOS","5606.8 zł","AMD","True"
+"Dell","64 GB","2048 GB","16""","11/4/2023","2.3 kg","windows","5925.42 zł","AMD","False"
+"HP","16 GB","1024 GB","15""","3/22/2015","2.9 kg","windows","7366.02 zł","intel","True"
+"HP","16 GB","2048 GB","10""","1/5/2021","2.3 kg","teampleOS","1092.17 zł","Qualcomm","True"
+"HP","32 GB","1024 GB","15""","4/11/2022","1.4 kg","Linux","7844.94 zł","intel","True"
+"HP","8 GB","256 GB","13""","4/16/2005","3.0 kg","teampleOS","5093.94 zł","AMD","True"
+"HP","32 GB","256 GB","17""","11/26/2022","2.8 kg","windows","6616.32 zł","intel","True"
+"Apple","4 GB","256 GB","14""","10/15/2011","2.7 kg","windows","9613.3 zł","Qualcomm","False"
+"Apple","16 GB","2048 GB","13""","9/29/2012","1.1 kg","windows","2338.91 zł","AMD","False"
+"Framework","4 GB","512 GB","17""","4/22/2013","1.8 kg","windows","8055.71 zł","intel","False"
+"Lenovo","64 GB","64 GB","12""","8/19/2013","1.7 kg","FreeBSD","8092.63 zł","Qualcomm","True"
+"HP","16 GB","2048 GB","16""","7/23/2010","2.2 kg","Linux","9883.38 zł","intel","False"
+"HP","8 GB","128 GB","13""","5/12/2007","1.6 kg","FreeBSD","5996.83 zł","intel","False"
+"Lenovo","16 GB","2048 GB","17""","11/11/2013","2.0 kg","teampleOS","6502.21 zł","intel","False"
+"Lenovo","64 GB","64 GB","11""","4/18/2023","1.8 kg","teampleOS","7046.09 zł","AMD","False"
+"Dell","8 GB","256 GB","17""","9/7/2016","2.5 kg","FreeBSD","6847.92 zł","Qualcomm","False"
+"ASUS","32 GB","1024 GB","12""","3/12/2019","2.6 kg","teampleOS","3921.76 zł","AMD","False"
+"Apple","64 GB","2048 GB","15""","4/7/2009","1.7 kg","FreeBSD","5873.49 zł","intel","False"
+"Lenovo","4 GB","4096 GB","17""","8/30/2022","1.1 kg","FreeBSD","3336.06 zł","Qualcomm","True"
+"Dell","32 GB","1024 GB","17""","2/28/2021","2.2 kg","windows","9580.6 zł","intel","False"
+"HP","64 GB","256 GB","15""","4/24/2022","1.4 kg","Linux","1342.03 zł","intel","False"
+"Apple","8 GB","1024 GB","14""","5/14/2007","1.8 kg","Linux","1623.48 zł","Qualcomm","True"
+"Framework","4 GB","4096 GB","15""","11/22/2020","2.8 kg","Linux","5344.4 zł","intel","False"
+"Framework","16 GB","1024 GB","16""","11/3/2007","2.2 kg","FreeBSD","5042.38 zł","intel","True"
+"HP","4 GB","4096 GB","10""","12/2/2005","1.7 kg","windows","3013.94 zł","AMD","True"
+"Framework","4 GB","128 GB","17""","10/29/2010","2.0 kg","FreeBSD","3233.12 zł","Qualcomm","False"
+"Lenovo","4 GB","256 GB","16""","9/13/2017","2.1 kg","Linux","8260.31 zł","AMD","True"
+"ASUS","64 GB","4096 GB","14""","7/25/2017","1.9 kg","windows","8921.48 zł","intel","True"
+"Lenovo","4 GB","64 GB","10""","11/9/2021","3.0 kg","windows","8246.82 zł","Qualcomm","False"
+"HP","32 GB","64 GB","13""","4/25/2005","2.6 kg","Linux","3164.78 zł","Qualcomm","True"
+"Apple","32 GB","512 GB","11""","4/1/2016","2.4 kg","windows","1670.5 zł","AMD","False"
+"ASUS","8 GB","256 GB","15""","9/14/2006","1.4 kg","teampleOS","8964.35 zł","intel","True"
+"Apple","32 GB","128 GB","15""","5/3/2020","1.3 kg","teampleOS","9914.91 zł","intel","False"
+"Lenovo","16 GB","512 GB","16""","5/27/2023","2.1 kg","windows","8266.17 zł","AMD","False"
+"Framework","64 GB","4096 GB","15""","5/27/2006","2.6 kg","windows","3945.02 zł","intel","False"
+"Lenovo","4 GB","128 GB","10""","3/22/2016","2.0 kg","windows","5052.31 zł","Qualcomm","False"
+"Framework","8 GB","128 GB","12""","4/27/2012","1.1 kg","Linux","2875.26 zł","Qualcomm","False"
+"Apple","64 GB","128 GB","14""","11/16/2005","1.5 kg","windows","5183.86 zł","AMD","False"
+"ASUS","8 GB","256 GB","17""","4/16/2017","2.1 kg","teampleOS","3718.28 zł","Qualcomm","True"
+"HP","4 GB","512 GB","17""","2/28/2006","2.9 kg","FreeBSD","7710.32 zł","Qualcomm","False"
+"Apple","32 GB","2048 GB","15""","7/10/2013","2.9 kg","FreeBSD","2952.14 zł","Qualcomm","True"
+"Lenovo","8 GB","128 GB","16""","7/21/2007","2.3 kg","FreeBSD","2973.52 zł","intel","False"
+"HP","64 GB","2048 GB","14""","9/8/2014","1.3 kg","windows","6949.59 zł","AMD","False"
+"ASUS","4 GB","256 GB","15""","2/17/2017","1.5 kg","teampleOS","7136.04 zł","Qualcomm","True"
+"HP","64 GB","256 GB","11""","9/25/2018","1.5 kg","FreeBSD","1946.3 zł","Qualcomm","False"
+"Framework","32 GB","128 GB","12""","6/8/2019","1.5 kg","Linux","8328.87 zł","intel","True"
+"HP","8 GB","64 GB","15""","1/30/2005","1.3 kg","windows","1238.22 zł","Qualcomm","False"
+"ASUS","8 GB","64 GB","14""","6/20/2020","2.8 kg","windows","4915.52 zł","AMD","False"
+"Framework","64 GB","2048 GB","14""","4/20/2017","2.9 kg","Linux","5643.54 zł","Qualcomm","True"
+"Lenovo","4 GB","128 GB","10""","3/31/2005","1.6 kg","teampleOS","5252.59 zł","Qualcomm","True"
+"Dell","8 GB","1024 GB","13""","10/12/2009","1.1 kg","Linux","5530.36 zł","AMD","False"
+"ASUS","8 GB","256 GB","15""","2/21/2021","1.9 kg","Linux","9366.4 zł","Qualcomm","True"
+"Dell","16 GB","2048 GB","14""","3/1/2009","1.1 kg","Linux","1133.91 zł","intel","False"
+"Apple","8 GB","128 GB","10""","10/17/2022","2.2 kg","windows","5887.13 zł","AMD","True"
+"HP","16 GB","512 GB","10""","7/4/2020","2.2 kg","FreeBSD","8300.36 zł","AMD","True"
+"ASUS","32 GB","128 GB","15""","12/22/2012","2.0 kg","windows","6154.43 zł","intel","False"
+"ASUS","32 GB","4096 GB","12""","1/8/2008","2.8 kg","teampleOS","9415.1 zł","AMD","True"
+"Lenovo","16 GB","512 GB","12""","2/10/2020","2.6 kg","Linux","1979.46 zł","Qualcomm","False"
+"Framework","32 GB","1024 GB","10""","12/20/2010","2.4 kg","FreeBSD","3150.89 zł","Qualcomm","False"
+"ASUS","4 GB","1024 GB","14""","7/4/2022","1.6 kg","FreeBSD","5620.78 zł","intel","False"
+"Apple","4 GB","512 GB","10""","2/9/2007","2.5 kg","teampleOS","4504.88 zł","intel","False"
+"HP","32 GB","4096 GB","14""","1/26/2006","1.6 kg","teampleOS","7975.07 zł","AMD","True"
+"Lenovo","16 GB","4096 GB","13""","1/5/2010","2.0 kg","Linux","9751.68 zł","intel","False"
+"Dell","16 GB","512 GB","14""","2/24/2014","1.7 kg","Linux","5176.0 zł","intel","True"
+"Dell","16 GB","2048 GB","13""","1/12/2005","1.9 kg","teampleOS","6619.24 zł","intel","False"
+"Lenovo","8 GB","128 GB","14""","6/28/2010","2.1 kg","Linux","9769.03 zł","intel","False"
+"ASUS","8 GB","256 GB","12""","11/12/2017","2.4 kg","FreeBSD","8444.35 zł","AMD","False"
+"Dell","64 GB","4096 GB","11""","5/10/2015","2.6 kg","teampleOS","8867.56 zł","intel","True"
+"HP","16 GB","2048 GB","14""","4/6/2017","2.3 kg","teampleOS","2223.78 zł","AMD","True"
+"Apple","16 GB","512 GB","11""","3/18/2010","1.8 kg","teampleOS","3665.4 zł","AMD","False"
+"ASUS","16 GB","128 GB","13""","3/31/2022","1.6 kg","FreeBSD","5612.94 zł","intel","False"
+"Apple","8 GB","1024 GB","10""","3/29/2017","2.5 kg","Linux","7589.57 zł","AMD","True"
+"Dell","32 GB","4096 GB","10""","4/17/2008","1.4 kg","windows","2764.41 zł","AMD","False"
+"Apple","64 GB","2048 GB","17""","6/18/2016","2.2 kg","windows","5069.51 zł","AMD","False"
+"Dell","64 GB","128 GB","17""","8/21/2013","2.2 kg","FreeBSD","5319.05 zł","Qualcomm","True"
+"HP","16 GB","2048 GB","17""","2/3/2022","2.9 kg","Linux","2697.97 zł","intel","False"
+"ASUS","32 GB","64 GB","10""","1/20/2017","2.1 kg","windows","6722.89 zł","Qualcomm","True"
+"Framework","64 GB","128 GB","12""","11/21/2006","2.1 kg","windows","5833.53 zł","intel","True"
+"HP","32 GB","1024 GB","10""","4/27/2005","1.4 kg","windows","7422.18 zł","AMD","False"
+"Framework","8 GB","256 GB","12""","5/26/2021","2.1 kg","Linux","6833.34 zł","intel","False"
+"HP","4 GB","4096 GB","10""","7/3/2011","1.3 kg","Linux","1789.32 zł","Qualcomm","False"
+"Lenovo","4 GB","256 GB","10""","12/3/2016","1.7 kg","Linux","5885.96 zł","intel","True"
+"Dell","32 GB","4096 GB","13""","9/17/2017","1.4 kg","Linux","1225.03 zł","Qualcomm","True"
+"HP","16 GB","2048 GB","12""","1/17/2009","1.3 kg","teampleOS","9621.47 zł","intel","False"
+"ASUS","32 GB","1024 GB","10""","11/18/2022","2.7 kg","teampleOS","8692.09 zł","Qualcomm","False"
+"Framework","64 GB","2048 GB","14""","2/25/2015","1.3 kg","FreeBSD","1793.37 zł","intel","True"
+"Dell","64 GB","256 GB","17""","10/14/2022","1.4 kg","Linux","1580.92 zł","intel","False"
+"HP","64 GB","4096 GB","17""","3/15/2020","2.4 kg","FreeBSD","2088.52 zł","intel","False"
+"Framework","8 GB","1024 GB","17""","10/10/2014","1.2 kg","Linux","6292.66 zł","intel","False"
+"Dell","32 GB","2048 GB","10""","1/8/2016","1.7 kg","windows","4733.77 zł","Qualcomm","False"
+"Framework","32 GB","64 GB","13""","8/22/2010","1.8 kg","teampleOS","3571.52 zł","Qualcomm","False"
+"ASUS","4 GB","4096 GB","17""","8/31/2019","2.0 kg","windows","3595.16 zł","AMD","False"
+"Apple","8 GB","128 GB","12""","6/24/2020","2.1 kg","Linux","4610.32 zł","intel","False"
+"HP","4 GB","2048 GB","17""","1/25/2015","1.9 kg","FreeBSD","5039.51 zł","intel","False"
+"Lenovo","16 GB","128 GB","14""","9/23/2019","2.2 kg","Linux","7009.69 zł","Qualcomm","True"
+"Dell","64 GB","64 GB","13""","7/10/2019","2.7 kg","FreeBSD","9342.42 zł","AMD","True"
+"HP","8 GB","2048 GB","12""","2/9/2020","1.2 kg","FreeBSD","5938.47 zł","Qualcomm","True"
+"Framework","16 GB","128 GB","11""","1/7/2014","1.0 kg","teampleOS","9198.42 zł","Qualcomm","True"
+"Apple","4 GB","2048 GB","17""","10/23/2009","1.2 kg","FreeBSD","9534.12 zł","intel","True"
+"Apple","32 GB","4096 GB","16""","2/28/2007","1.1 kg","Linux","7021.2 zł","Qualcomm","True"
+"Lenovo","8 GB","128 GB","13""","1/30/2016","3.0 kg","Linux","9702.04 zł","AMD","True"
+"Framework","64 GB","1024 GB","16""","8/19/2006","1.2 kg","Linux","9259.03 zł","AMD","True"
+"Apple","64 GB","512 GB","15""","5/24/2020","1.2 kg","FreeBSD","8339.21 zł","AMD","True"
+"Dell","64 GB","128 GB","14""","8/25/2015","1.2 kg","FreeBSD","1267.7 zł","AMD","True"
+"ASUS","4 GB","4096 GB","10""","4/29/2020","2.1 kg","windows","6119.91 zł","Qualcomm","True"
+"ASUS","64 GB","256 GB","11""","2/3/2016","1.8 kg","windows","4219.65 zł","intel","False"
+"Apple","64 GB","128 GB","10""","7/22/2011","1.4 kg","Linux","1262.96 zł","AMD","False"
+"Lenovo","32 GB","1024 GB","10""","4/10/2022","2.0 kg","Linux","3295.86 zł","intel","True"
+"Dell","64 GB","512 GB","13""","5/2/2008","1.3 kg","teampleOS","9577.28 zł","AMD","True"
+"Apple","4 GB","64 GB","15""","7/4/2008","1.5 kg","Linux","6442.0 zł","Qualcomm","False"
+"HP","32 GB","1024 GB","10""","10/11/2019","1.0 kg","FreeBSD","7617.11 zł","AMD","False"
+"HP","4 GB","1024 GB","13""","6/3/2022","1.9 kg","Linux","7712.27 zł","AMD","False"
+"Dell","4 GB","128 GB","12""","8/11/2016","1.2 kg","FreeBSD","3939.99 zł","intel","True"
+"Lenovo","4 GB","64 GB","13""","11/7/2016","1.6 kg","Linux","2645.8 zł","Qualcomm","False"
+"Dell","32 GB","512 GB","13""","7/4/2014","1.5 kg","teampleOS","7358.28 zł","Qualcomm","True"
+"HP","4 GB","128 GB","16""","7/24/2012","1.8 kg","FreeBSD","1969.73 zł","intel","True"
+"Framework","32 GB","256 GB","12""","10/26/2012","2.1 kg","windows","8469.24 zł","intel","True"
+"ASUS","8 GB","128 GB","10""","10/4/2022","1.3 kg","FreeBSD","8042.15 zł","Qualcomm","True"
+"Dell","4 GB","256 GB","14""","3/9/2014","1.8 kg","FreeBSD","4829.5 zł","Qualcomm","True"
+"Lenovo","64 GB","1024 GB","14""","6/15/2019","1.6 kg","teampleOS","9347.74 zł","intel","False"
+"Lenovo","16 GB","256 GB","13""","4/1/2011","1.9 kg","teampleOS","2600.42 zł","AMD","False"
+"Framework","4 GB","1024 GB","10""","4/10/2011","1.6 kg","FreeBSD","1541.14 zł","intel","True"
+"Apple","8 GB","2048 GB","17""","2/10/2017","1.8 kg","teampleOS","9263.44 zł","AMD","False"
+"ASUS","64 GB","128 GB","15""","12/7/2007","1.5 kg","teampleOS","4104.13 zł","intel","False"
+"ASUS","4 GB","1024 GB","13""","9/12/2014","1.7 kg","teampleOS","5108.5 zł","intel","False"
+"ASUS","32 GB","2048 GB","12""","12/31/2005","1.4 kg","teampleOS","9715.88 zł","Qualcomm","False"
+"HP","16 GB","64 GB","15""","9/3/2010","2.2 kg","windows","2522.12 zł","Qualcomm","False"
+"Dell","64 GB","256 GB","14""","12/20/2005","2.6 kg","Linux","2300.13 zł","Qualcomm","True"
+"HP","64 GB","128 GB","16""","11/7/2012","2.5 kg","windows","8587.05 zł","intel","True"
+"Lenovo","32 GB","1024 GB","15""","1/7/2015","2.2 kg","Linux","1464.18 zł","Qualcomm","True"
+"Dell","32 GB","2048 GB","11""","8/13/2010","1.7 kg","Linux","4211.33 zł","Qualcomm","False"
+"Lenovo","64 GB","64 GB","10""","11/16/2010","2.8 kg","windows","2189.76 zł","intel","True"
+"Apple","8 GB","4096 GB","16""","10/3/2012","3.0 kg","FreeBSD","4589.67 zł","AMD","True"
+"Apple","32 GB","256 GB","11""","6/5/2015","1.1 kg","FreeBSD","6561.44 zł","intel","False"
+"ASUS","4 GB","1024 GB","14""","4/14/2016","1.1 kg","teampleOS","5567.31 zł","Qualcomm","True"
+"Framework","32 GB","64 GB","17""","10/24/2010","1.1 kg","teampleOS","3850.99 zł","intel","False"
+"ASUS","32 GB","1024 GB","13""","3/1/2022","1.3 kg","FreeBSD","6380.93 zł","intel","True"
+"HP","32 GB","256 GB","14""","8/13/2008","1.4 kg","FreeBSD","4221.29 zł","intel","False"
+"Apple","32 GB","64 GB","11""","10/29/2018","2.2 kg","teampleOS","4598.99 zł","Qualcomm","False"
+"Apple","64 GB","1024 GB","14""","6/13/2019","1.1 kg","FreeBSD","1729.66 zł","AMD","False"
+"Apple","16 GB","4096 GB","10""","1/22/2015","1.2 kg","windows","5013.41 zł","AMD","True"
+"HP","4 GB","2048 GB","16""","3/23/2005","2.6 kg","FreeBSD","6338.36 zł","AMD","True"
+"HP","8 GB","128 GB","12""","8/13/2005","1.3 kg","teampleOS","3358.09 zł","Qualcomm","False"
+"Framework","4 GB","4096 GB","15""","10/17/2022","1.5 kg","Linux","5431.87 zł","intel","True"
+"Apple","8 GB","64 GB","16""","3/17/2005","1.9 kg","Linux","6263.01 zł","intel","True"
+"Framework","4 GB","64 GB","11""","12/3/2021","1.7 kg","Linux","8961.24 zł","Qualcomm","False"
+"Dell","64 GB","512 GB","13""","11/15/2010","2.6 kg","teampleOS","1629.07 zł","Qualcomm","True"
+"Lenovo","4 GB","512 GB","14""","12/20/2021","2.4 kg","teampleOS","4642.02 zł","AMD","False"
+"Dell","32 GB","256 GB","16""","6/4/2015","1.4 kg","Linux","6465.48 zł","Qualcomm","True"
+"ASUS","8 GB","256 GB","12""","9/2/2007","1.5 kg","FreeBSD","6997.48 zł","intel","False"
+"ASUS","4 GB","4096 GB","17""","4/12/2018","1.5 kg","teampleOS","7687.41 zł","Qualcomm","True"
+"ASUS","8 GB","64 GB","12""","1/25/2012","2.3 kg","Linux","1785.27 zł","intel","True"
+"ASUS","64 GB","1024 GB","13""","8/3/2005","1.6 kg","Linux","5538.35 zł","Qualcomm","False"
+"HP","64 GB","128 GB","11""","12/5/2014","1.8 kg","Linux","4242.39 zł","AMD","True"
+"Dell","16 GB","2048 GB","15""","7/16/2014","1.7 kg","Linux","3101.17 zł","AMD","False"
+"Lenovo","32 GB","256 GB","12""","7/31/2016","2.6 kg","Linux","6448.12 zł","Qualcomm","False"
+"Lenovo","16 GB","512 GB","11""","9/2/2016","2.7 kg","Linux","4545.78 zł","intel","True"
+"Dell","32 GB","256 GB","14""","10/2/2005","1.5 kg","windows","1620.64 zł","intel","True"
+"Lenovo","16 GB","1024 GB","17""","12/23/2019","1.8 kg","Linux","7652.32 zł","Qualcomm","False"
+"Framework","4 GB","1024 GB","16""","11/17/2014","3.0 kg","FreeBSD","6194.13 zł","Qualcomm","True"
+"ASUS","64 GB","128 GB","15""","10/28/2019","2.9 kg","teampleOS","5180.85 zł","intel","True"
+"HP","64 GB","128 GB","14""","10/15/2012","2.8 kg","FreeBSD","4627.08 zł","Qualcomm","True"
+"HP","32 GB","64 GB","17""","2/2/2022","2.6 kg","Linux","6115.67 zł","Qualcomm","False"
+"HP","16 GB","4096 GB","11""","10/11/2022","2.6 kg","FreeBSD","8067.19 zł","AMD","True"
+"HP","64 GB","64 GB","10""","8/2/2010","2.0 kg","Linux","8781.88 zł","intel","True"
+"Lenovo","16 GB","64 GB","17""","12/30/2007","1.4 kg","FreeBSD","8972.9 zł","intel","False"
+"HP","64 GB","512 GB","14""","11/1/2010","1.7 kg","windows","5296.81 zł","AMD","False"
+"Apple","16 GB","64 GB","13""","8/20/2011","2.6 kg","Linux","8365.55 zł","intel","False"
+"Apple","8 GB","2048 GB","12""","8/11/2005","1.0 kg","Linux","2161.06 zł","Qualcomm","True"
+"Lenovo","64 GB","2048 GB","12""","6/12/2019","1.5 kg","Linux","9398.38 zł","Qualcomm","True"
+"Lenovo","4 GB","512 GB","14""","11/17/2015","1.5 kg","Linux","7693.99 zł","Qualcomm","False"
+"Dell","8 GB","128 GB","17""","8/25/2017","2.7 kg","Linux","8894.09 zł","Qualcomm","True"
+"ASUS","8 GB","512 GB","16""","8/24/2009","1.0 kg","FreeBSD","6591.75 zł","Qualcomm","False"
+"HP","32 GB","2048 GB","10""","10/25/2020","2.8 kg","Linux","6577.15 zł","Qualcomm","False"
+"Lenovo","32 GB","256 GB","13""","10/6/2005","2.6 kg","windows","1859.28 zł","intel","False"
+"Lenovo","32 GB","512 GB","15""","3/31/2007","2.4 kg","FreeBSD","9339.1 zł","intel","False"
+"ASUS","16 GB","64 GB","13""","5/14/2006","3.0 kg","Linux","9179.57 zł","AMD","False"
+"Framework","16 GB","64 GB","15""","3/26/2023","2.0 kg","FreeBSD","5958.2 zł","intel","False"
+"HP","16 GB","4096 GB","11""","8/31/2006","2.1 kg","teampleOS","6843.16 zł","AMD","False"
+"Apple","8 GB","1024 GB","16""","3/8/2012","3.0 kg","FreeBSD","6259.48 zł","AMD","True"
+"Framework","8 GB","512 GB","15""","4/13/2020","1.3 kg","FreeBSD","3996.52 zł","intel","True"
+"HP","64 GB","1024 GB","16""","1/11/2015","2.1 kg","FreeBSD","8103.16 zł","Qualcomm","True"
+"Lenovo","4 GB","256 GB","15""","2/6/2006","1.5 kg","teampleOS","3317.5 zł","Qualcomm","False"
+"ASUS","16 GB","256 GB","17""","11/23/2012","1.0 kg","FreeBSD","2040.89 zł","intel","False"
+"Apple","32 GB","256 GB","15""","12/27/2015","1.2 kg","FreeBSD","3172.18 zł","AMD","False"
+"Apple","4 GB","4096 GB","12""","1/29/2009","1.8 kg","Linux","6939.05 zł","AMD","True"
+"HP","64 GB","512 GB","13""","10/7/2008","2.8 kg","Linux","3143.85 zł","intel","True"
+"Framework","32 GB","512 GB","11""","3/27/2022","1.2 kg","FreeBSD","8548.76 zł","Qualcomm","False"
+"Lenovo","16 GB","512 GB","14""","2/17/2006","1.1 kg","windows","1772.85 zł","intel","False"
+"Apple","8 GB","128 GB","11""","10/7/2014","2.4 kg","teampleOS","4148.19 zł","intel","True"
+"Apple","4 GB","64 GB","12""","1/1/2019","2.7 kg","FreeBSD","2776.94 zł","Qualcomm","False"
+"ASUS","32 GB","64 GB","10""","5/1/2009","1.8 kg","Linux","8022.56 zł","AMD","True"
+"Apple","64 GB","64 GB","10""","6/26/2007","2.3 kg","FreeBSD","5277.8 zł","AMD","False"
+"Framework","8 GB","128 GB","14""","2/11/2017","2.4 kg","FreeBSD","2448.77 zł","Qualcomm","True"
+"Lenovo","32 GB","128 GB","16""","10/12/2012","3.0 kg","FreeBSD","2514.51 zł","AMD","False"
+"Framework","8 GB","1024 GB","10""","11/6/2021","2.9 kg","teampleOS","4968.11 zł","Qualcomm","True"
+"Framework","8 GB","128 GB","12""","5/24/2023","1.5 kg","Linux","7661.86 zł","intel","False"
+"HP","64 GB","512 GB","11""","3/1/2005","1.5 kg","Linux","6958.14 zł","Qualcomm","True"
+"Apple","32 GB","4096 GB","17""","6/12/2020","2.0 kg","FreeBSD","7152.2 zł","Qualcomm","True"
+"Framework","64 GB","512 GB","12""","4/8/2014","1.2 kg","Linux","1188.63 zł","Qualcomm","False"
+"Framework","16 GB","512 GB","14""","8/15/2020","1.8 kg","FreeBSD","7045.03 zł","Qualcomm","True"
+"Apple","64 GB","4096 GB","15""","9/14/2006","1.3 kg","Linux","5858.17 zł","intel","False"
+"ASUS","8 GB","1024 GB","11""","3/11/2012","1.6 kg","Linux","2435.54 zł","Qualcomm","True"
+"ASUS","32 GB","1024 GB","13""","9/4/2015","2.4 kg","teampleOS","8598.79 zł","Qualcomm","True"
+"Dell","8 GB","4096 GB","12""","4/2/2019","1.9 kg","FreeBSD","8613.41 zł","Qualcomm","True"
+"HP","8 GB","1024 GB","16""","1/25/2018","2.3 kg","windows","2293.48 zł","AMD","False"
+"Framework","32 GB","2048 GB","16""","5/11/2006","2.8 kg","FreeBSD","3312.59 zł","intel","False"
+"Framework","16 GB","512 GB","12""","2/24/2010","1.7 kg","FreeBSD","7830.21 zł","AMD","True"
+"Apple","16 GB","64 GB","15""","3/3/2018","2.8 kg","Linux","3476.09 zł","intel","False"
+"Dell","64 GB","1024 GB","16""","3/13/2016","2.4 kg","Linux","4794.93 zł","intel","True"
+"Dell","64 GB","256 GB","10""","8/2/2013","1.5 kg","FreeBSD","8368.8 zł","AMD","False"
+"Apple","64 GB","4096 GB","17""","1/7/2023","2.8 kg","teampleOS","7327.3 zł","Qualcomm","True"
+"Apple","8 GB","1024 GB","15""","8/16/2023","2.1 kg","FreeBSD","8350.88 zł","AMD","True"
+"Lenovo","32 GB","512 GB","13""","10/7/2021","1.4 kg","windows","9707.91 zł","Qualcomm","True"
+"Apple","8 GB","1024 GB","13""","5/14/2013","1.7 kg","teampleOS","7135.66 zł","intel","True"
+"ASUS","64 GB","4096 GB","14""","4/25/2008","1.0 kg","windows","9065.36 zł","intel","True"
+"Dell","64 GB","2048 GB","10""","4/19/2022","1.8 kg","windows","5883.49 zł","AMD","True"
+"Dell","8 GB","64 GB","13""","9/21/2011","2.9 kg","windows","2001.7 zł","Qualcomm","True"
+"Apple","16 GB","512 GB","12""","3/6/2012","2.7 kg","teampleOS","2628.21 zł","Qualcomm","True"
+"HP","16 GB","2048 GB","10""","2/14/2014","1.3 kg","teampleOS","7385.97 zł","AMD","False"
+"Lenovo","32 GB","64 GB","10""","5/16/2018","2.1 kg","FreeBSD","9152.99 zł","intel","False"
+"Lenovo","32 GB","64 GB","15""","7/4/2022","1.1 kg","Linux","4466.88 zł","AMD","True"
+"Lenovo","64 GB","2048 GB","16""","11/11/2023","1.8 kg","Linux","2408.6 zł","AMD","False"
+"HP","64 GB","64 GB","10""","1/9/2013","2.9 kg","Linux","6505.56 zł","intel","True"
+"Lenovo","64 GB","4096 GB","12""","5/9/2021","1.1 kg","windows","2370.33 zł","intel","False"
+"Dell","32 GB","64 GB","16""","12/11/2006","2.5 kg","Linux","3912.46 zł","Qualcomm","False"
+"HP","32 GB","128 GB","16""","6/25/2010","1.8 kg","FreeBSD","9282.01 zł","intel","True"
+"HP","64 GB","512 GB","17""","1/1/2022","1.2 kg","FreeBSD","5990.81 zł","intel","True"
+"Apple","8 GB","128 GB","16""","3/6/2020","1.6 kg","FreeBSD","4604.45 zł","intel","False"
+"HP","8 GB","4096 GB","16""","1/6/2021","1.5 kg","windows","5631.54 zł","Qualcomm","True"
+"Lenovo","64 GB","64 GB","10""","9/29/2013","2.0 kg","Linux","7032.62 zł","intel","False"
+"HP","16 GB","1024 GB","10""","10/13/2010","2.5 kg","teampleOS","6569.22 zł","Qualcomm","False"
+"Dell","16 GB","256 GB","16""","1/2/2009","2.8 kg","windows","2734.76 zł","intel","True"
+"Dell","16 GB","512 GB","16""","5/11/2021","2.1 kg","teampleOS","5877.06 zł","AMD","True"
+"Lenovo","4 GB","128 GB","11""","1/16/2019","2.2 kg","Linux","7168.85 zł","Qualcomm","False"
+"Dell","64 GB","1024 GB","10""","2/5/2014","1.0 kg","teampleOS","2530.54 zł","Qualcomm","False"
+"Framework","8 GB","1024 GB","16""","5/14/2005","1.9 kg","Linux","6935.15 zł","AMD","True"
+"Dell","64 GB","256 GB","17""","10/14/2014","2.1 kg","FreeBSD","1528.78 zł","Qualcomm","False"
+"Dell","4 GB","2048 GB","16""","1/8/2021","2.9 kg","FreeBSD","9843.99 zł","Qualcomm","False"
+"Lenovo","8 GB","128 GB","13""","5/30/2017","1.3 kg","windows","1996.55 zł","AMD","False"
+"HP","8 GB","4096 GB","13""","7/22/2020","1.9 kg","FreeBSD","3152.81 zł","Qualcomm","False"
+"Dell","16 GB","512 GB","16""","6/9/2014","2.8 kg","teampleOS","3710.3 zł","AMD","True"
+"Dell","32 GB","128 GB","15""","1/17/2021","2.4 kg","FreeBSD","6925.92 zł","AMD","True"
+"Apple","8 GB","64 GB","16""","8/10/2005","2.5 kg","FreeBSD","1450.02 zł","Qualcomm","True"
+"Lenovo","8 GB","1024 GB","14""","4/17/2009","2.7 kg","teampleOS","3758.12 zł","Qualcomm","False"
+"Framework","4 GB","4096 GB","13""","9/18/2020","2.3 kg","windows","9045.12 zł","intel","True"
+"Lenovo","4 GB","64 GB","17""","12/24/2008","2.9 kg","FreeBSD","7355.31 zł","intel","True"
+"ASUS","4 GB","1024 GB","13""","12/29/2017","2.0 kg","Linux","7275.17 zł","intel","False"
+"Framework","16 GB","256 GB","16""","9/10/2007","1.2 kg","windows","3984.02 zł","Qualcomm","True"
+"Dell","8 GB","64 GB","15""","11/13/2014","1.7 kg","teampleOS","8403.85 zł","intel","True"
+"Dell","8 GB","256 GB","15""","9/9/2016","1.6 kg","Linux","4015.42 zł","AMD","True"
+"HP","64 GB","64 GB","11""","9/10/2009","2.3 kg","teampleOS","1896.6 zł","Qualcomm","True"
+"Lenovo","16 GB","4096 GB","13""","2/8/2018","1.6 kg","Linux","3160.56 zł","Qualcomm","False"
+"ASUS","8 GB","2048 GB","11""","9/1/2011","1.9 kg","windows","8722.85 zł","Qualcomm","True"
+"Lenovo","4 GB","64 GB","11""","12/16/2021","1.3 kg","FreeBSD","3230.4 zł","AMD","True"
+"Dell","4 GB","256 GB","17""","7/22/2010","3.0 kg","Linux","9131.27 zł","AMD","False"
+"Lenovo","4 GB","64 GB","16""","10/14/2020","1.0 kg","Linux","8559.96 zł","AMD","False"
+"Lenovo","64 GB","256 GB","14""","4/26/2021","1.4 kg","FreeBSD","7273.0 zł","Qualcomm","False"
+"Framework","64 GB","2048 GB","14""","8/26/2015","2.9 kg","Linux","4862.58 zł","AMD","False"
+"Lenovo","8 GB","2048 GB","15""","2/4/2015","2.4 kg","FreeBSD","8979.27 zł","intel","False"
+"ASUS","8 GB","1024 GB","10""","5/10/2005","1.3 kg","FreeBSD","5418.01 zł","Qualcomm","True"
+"Dell","4 GB","2048 GB","16""","4/25/2018","1.9 kg","teampleOS","2323.52 zł","intel","True"
+"Apple","32 GB","1024 GB","10""","9/11/2021","2.5 kg","teampleOS","8499.98 zł","intel","False"
+"Framework","32 GB","2048 GB","16""","2/23/2019","1.8 kg","windows","9638.04 zł","intel","False"
+"Framework","4 GB","256 GB","14""","10/27/2018","1.4 kg","teampleOS","5177.12 zł","intel","False"
+"Dell","64 GB","4096 GB","15""","12/16/2007","2.7 kg","teampleOS","9298.24 zł","intel","True"
+"ASUS","32 GB","64 GB","14""","4/3/2016","1.4 kg","FreeBSD","1567.51 zł","intel","True"
+"Lenovo","8 GB","512 GB","12""","6/14/2023","1.3 kg","Linux","4521.24 zł","Qualcomm","True"
+"Apple","64 GB","1024 GB","12""","9/25/2010","2.3 kg","teampleOS","8262.21 zł","AMD","True"
+"Apple","32 GB","128 GB","17""","10/16/2022","1.8 kg","FreeBSD","2804.26 zł","Qualcomm","True"
+"Apple","8 GB","256 GB","16""","12/10/2009","2.2 kg","teampleOS","8258.81 zł","Qualcomm","False"
+"Lenovo","16 GB","128 GB","16""","9/13/2022","2.3 kg","Linux","9547.13 zł","Qualcomm","False"
+"Apple","16 GB","1024 GB","17""","12/27/2013","1.3 kg","FreeBSD","6735.7 zł","Qualcomm","False"
+"HP","4 GB","4096 GB","17""","12/25/2007","1.5 kg","Linux","5454.46 zł","intel","False"
+"Lenovo","4 GB","4096 GB","15""","6/27/2020","2.9 kg","FreeBSD","9752.28 zł","AMD","True"
+"Dell","16 GB","128 GB","12""","1/20/2011","2.3 kg","FreeBSD","7551.88 zł","intel","True"
+"Lenovo","4 GB","1024 GB","14""","7/1/2010","2.7 kg","Linux","8361.82 zł","Qualcomm","True"
+"Lenovo","4 GB","2048 GB","13""","10/24/2013","2.3 kg","FreeBSD","9462.98 zł","Qualcomm","False"
+"Lenovo","8 GB","2048 GB","10""","4/19/2010","2.5 kg","windows","9429.53 zł","Qualcomm","False"
+"HP","8 GB","128 GB","16""","8/22/2006","1.8 kg","Linux","2925.69 zł","intel","False"
+"HP","16 GB","2048 GB","14""","10/15/2007","1.5 kg","teampleOS","4711.13 zł","intel","True"
+"Framework","64 GB","2048 GB","17""","6/27/2013","1.6 kg","FreeBSD","2387.83 zł","AMD","False"
+"Dell","32 GB","256 GB","14""","12/23/2022","1.1 kg","teampleOS","3411.24 zł","Qualcomm","True"
+"HP","64 GB","256 GB","17""","4/16/2008","2.1 kg","teampleOS","9105.59 zł","intel","True"
+"HP","32 GB","1024 GB","11""","2/9/2018","2.5 kg","teampleOS","7688.8 zł","AMD","True"
+"Lenovo","4 GB","256 GB","17""","12/6/2014","1.8 kg","windows","2997.47 zł","AMD","True"
+"ASUS","32 GB","2048 GB","11""","10/2/2007","2.3 kg","FreeBSD","6131.26 zł","AMD","True"
+"Lenovo","16 GB","128 GB","13""","9/12/2005","1.5 kg","teampleOS","5577.71 zł","Qualcomm","True"
+"HP","8 GB","1024 GB","11""","5/3/2020","1.1 kg","windows","3088.55 zł","intel","False"
+"HP","64 GB","64 GB","17""","9/7/2011","2.0 kg","windows","4962.72 zł","intel","True"
+"Apple","64 GB","256 GB","13""","2/28/2021","2.9 kg","windows","9886.01 zł","intel","True"
+"Apple","4 GB","1024 GB","13""","11/23/2012","2.1 kg","Linux","9140.67 zł","Qualcomm","False"
+"Lenovo","64 GB","4096 GB","16""","12/8/2020","1.3 kg","Linux","1861.63 zł","AMD","False"
+"Framework","8 GB","4096 GB","10""","12/30/2017","1.9 kg","windows","4637.56 zł","intel","False"
+"Framework","8 GB","64 GB","12""","7/29/2005","1.9 kg","Linux","9102.6 zł","Qualcomm","True"
+"Framework","4 GB","1024 GB","13""","9/15/2007","1.9 kg","Linux","6736.61 zł","intel","False"
+"Lenovo","8 GB","1024 GB","16""","9/5/2021","1.8 kg","teampleOS","4494.34 zł","intel","False"
+"HP","16 GB","512 GB","15""","6/16/2020","1.0 kg","teampleOS","9280.62 zł","AMD","True"
+"Framework","8 GB","512 GB","11""","7/25/2019","3.0 kg","Linux","6318.69 zł","intel","True"
+"Framework","8 GB","256 GB","13""","1/21/2022","2.8 kg","windows","2182.35 zł","AMD","False"
+"Dell","4 GB","2048 GB","17""","1/20/2023","2.0 kg","teampleOS","8657.08 zł","Qualcomm","False"
+"Framework","64 GB","4096 GB","13""","5/24/2010","1.4 kg","FreeBSD","5640.66 zł","Qualcomm","False"
+"Framework","32 GB","256 GB","14""","12/12/2016","1.3 kg","FreeBSD","1843.5 zł","Qualcomm","False"
+"HP","4 GB","2048 GB","13""","4/29/2007","1.8 kg","FreeBSD","3513.07 zł","Qualcomm","True"
+"HP","4 GB","128 GB","14""","10/16/2008","1.4 kg","teampleOS","4355.91 zł","Qualcomm","True"
+"Apple","64 GB","256 GB","15""","3/15/2019","2.2 kg","teampleOS","8589.51 zł","Qualcomm","False"
+"Framework","4 GB","512 GB","10""","4/1/2010","2.9 kg","FreeBSD","4793.9 zł","intel","False"
+"Framework","32 GB","2048 GB","16""","1/13/2018","2.1 kg","windows","3601.77 zł","intel","True"
+"ASUS","64 GB","2048 GB","17""","8/23/2017","2.8 kg","windows","8823.66 zł","AMD","True"
+"ASUS","16 GB","512 GB","12""","9/13/2008","1.6 kg","FreeBSD","1114.08 zł","AMD","True"
+"Lenovo","16 GB","64 GB","10""","1/31/2019","2.5 kg","FreeBSD","1590.89 zł","AMD","False"
+"Lenovo","64 GB","4096 GB","10""","8/11/2022","1.3 kg","FreeBSD","9939.85 zł","Qualcomm","True"
+"ASUS","32 GB","4096 GB","11""","9/27/2006","1.4 kg","windows","2729.29 zł","AMD","True"
+"Dell","64 GB","512 GB","11""","9/28/2015","2.3 kg","teampleOS","2387.34 zł","Qualcomm","False"
+"Lenovo","16 GB","256 GB","14""","9/12/2005","2.3 kg","FreeBSD","5602.89 zł","intel","False"
+"HP","4 GB","128 GB","17""","6/25/2013","1.9 kg","FreeBSD","4480.26 zł","AMD","True"
+"Framework","8 GB","512 GB","13""","3/28/2023","1.8 kg","teampleOS","1908.25 zł","Qualcomm","True"
+"ASUS","32 GB","512 GB","13""","10/13/2023","1.3 kg","FreeBSD","3542.35 zł","Qualcomm","False"
+"Lenovo","64 GB","64 GB","12""","8/3/2011","1.8 kg","windows","7480.31 zł","AMD","False"
+"Dell","16 GB","64 GB","17""","5/12/2018","2.3 kg","Linux","1730.58 zł","Qualcomm","False"
+"ASUS","4 GB","128 GB","10""","12/8/2011","1.2 kg","FreeBSD","6677.57 zł","AMD","True"
+"ASUS","4 GB","4096 GB","10""","6/17/2011","1.7 kg","teampleOS","3785.49 zł","intel","False"
+"Framework","32 GB","1024 GB","17""","12/21/2019","1.9 kg","windows","2132.5 zł","intel","False"
+"Lenovo","8 GB","64 GB","16""","1/25/2006","1.7 kg","Linux","8877.35 zł","AMD","False"
+"Dell","64 GB","64 GB","17""","7/28/2015","2.1 kg","windows","7348.32 zł","AMD","True"
+"Apple","8 GB","128 GB","16""","5/30/2008","2.2 kg","teampleOS","8831.19 zł","AMD","False"
+"Dell","16 GB","1024 GB","13""","4/17/2020","1.6 kg","windows","6974.86 zł","AMD","True"
+"Framework","16 GB","64 GB","17""","4/19/2005","2.1 kg","Linux","5405.7 zł","intel","True"
+"HP","64 GB","64 GB","14""","1/14/2018","2.1 kg","FreeBSD","1493.41 zł","Qualcomm","False"
+"Framework","4 GB","256 GB","10""","7/17/2007","1.5 kg","windows","3644.42 zł","AMD","False"
+"Lenovo","8 GB","64 GB","13""","1/18/2022","2.6 kg","Linux","2385.01 zł","intel","False"
+"Apple","16 GB","128 GB","17""","8/24/2019","1.1 kg","FreeBSD","4130.73 zł","AMD","False"
+"HP","32 GB","128 GB","11""","5/9/2016","2.9 kg","FreeBSD","8269.74 zł","AMD","True"
+"Lenovo","8 GB","128 GB","10""","6/13/2009","2.9 kg","teampleOS","7606.13 zł","AMD","False"
+"Apple","4 GB","512 GB","16""","12/12/2010","1.9 kg","Linux","6770.93 zł","AMD","True"
+"Dell","4 GB","64 GB","13""","8/22/2023","1.8 kg","windows","2796.72 zł","AMD","False"
+"Lenovo","8 GB","128 GB","10""","3/27/2018","2.4 kg","Linux","1604.38 zł","Qualcomm","False"
+"ASUS","16 GB","4096 GB","14""","2/22/2008","1.4 kg","teampleOS","6364.47 zł","AMD","True"
+"ASUS","8 GB","2048 GB","17""","5/19/2022","2.0 kg","windows","6204.02 zł","Qualcomm","True"
+"Framework","8 GB","256 GB","14""","6/2/2008","2.7 kg","teampleOS","8956.68 zł","intel","False"
+"Framework","4 GB","256 GB","10""","11/18/2012","2.1 kg","windows","7124.61 zł","AMD","True"
+"Dell","32 GB","256 GB","14""","3/2/2018","2.5 kg","FreeBSD","9261.17 zł","AMD","True"
+"ASUS","16 GB","64 GB","11""","7/23/2017","2.0 kg","Linux","4797.2 zł","intel","True"
+"Apple","8 GB","128 GB","16""","7/24/2008","2.4 kg","windows","6231.9 zł","intel","True"
+"Framework","16 GB","4096 GB","15""","7/24/2015","1.4 kg","Linux","4552.98 zł","intel","True"
+"HP","32 GB","4096 GB","12""","3/25/2012","1.9 kg","windows","3757.0 zł","Qualcomm","False"
+"Apple","32 GB","512 GB","12""","7/19/2011","2.3 kg","teampleOS","9453.2 zł","AMD","True"
+"Framework","16 GB","4096 GB","12""","3/24/2023","1.4 kg","Linux","3578.41 zł","Qualcomm","False"
+"Framework","64 GB","2048 GB","14""","9/2/2006","1.2 kg","teampleOS","2283.63 zł","intel","True"
+"Lenovo","4 GB","4096 GB","16""","8/21/2019","1.5 kg","teampleOS","5409.42 zł","AMD","False"
+"Lenovo","64 GB","4096 GB","14""","6/27/2019","1.3 kg","teampleOS","7685.15 zł","AMD","True"
+"Apple","32 GB","2048 GB","13""","10/1/2018","2.7 kg","Linux","5772.03 zł","intel","True"
+"Dell","32 GB","128 GB","10""","5/24/2021","1.0 kg","Linux","8599.13 zł","intel","True"
+"Lenovo","32 GB","1024 GB","10""","7/5/2011","2.7 kg","FreeBSD","2943.9 zł","Qualcomm","True"
+"Framework","64 GB","1024 GB","15""","11/29/2005","1.4 kg","Linux","9243.18 zł","Qualcomm","False"
+"Dell","8 GB","1024 GB","17""","3/13/2006","1.2 kg","FreeBSD","1970.8 zł","AMD","False"
+"Apple","64 GB","256 GB","13""","12/2/2019","1.4 kg","teampleOS","3630.87 zł","Qualcomm","False"
+"Framework","4 GB","128 GB","13""","7/6/2014","1.6 kg","windows","9000.97 zł","Qualcomm","False"
+"Dell","64 GB","512 GB","17""","7/4/2010","2.9 kg","windows","3879.71 zł","AMD","True"
+"HP","16 GB","512 GB","14""","5/5/2012","2.8 kg","teampleOS","9057.86 zł","Qualcomm","False"
+"Apple","8 GB","64 GB","13""","12/28/2005","1.5 kg","FreeBSD","5813.97 zł","Qualcomm","True"
+"Framework","4 GB","128 GB","11""","1/8/2015","2.6 kg","FreeBSD","2300.19 zł","AMD","True"
+"Dell","4 GB","1024 GB","12""","6/11/2005","1.4 kg","teampleOS","5032.05 zł","intel","True"
+"Apple","8 GB","1024 GB","15""","6/5/2014","2.7 kg","FreeBSD","5422.99 zł","intel","False"
+"Framework","8 GB","512 GB","11""","8/13/2007","1.4 kg","Linux","3352.16 zł","intel","True"
+"Dell","64 GB","128 GB","12""","5/31/2010","2.7 kg","FreeBSD","4762.78 zł","intel","False"
+"Dell","8 GB","2048 GB","13""","1/10/2019","2.7 kg","windows","7518.4 zł","Qualcomm","False"
+"Apple","32 GB","1024 GB","14""","8/6/2018","2.2 kg","windows","9240.89 zł","AMD","True"
+"Lenovo","8 GB","256 GB","10""","8/21/2020","2.5 kg","windows","5369.69 zł","Qualcomm","False"
+"ASUS","16 GB","4096 GB","13""","5/13/2016","2.5 kg","Linux","2368.29 zł","Qualcomm","False"
+"Framework","8 GB","512 GB","17""","1/28/2022","1.5 kg","Linux","4995.9 zł","Qualcomm","True"
+"Lenovo","4 GB","4096 GB","15""","6/23/2009","1.2 kg","Linux","9953.5 zł","Qualcomm","True"
+"Dell","16 GB","128 GB","13""","7/28/2006","1.5 kg","teampleOS","8567.45 zł","Qualcomm","False"
+"ASUS","8 GB","2048 GB","11""","1/4/2008","1.1 kg","FreeBSD","8210.75 zł","Qualcomm","True"
+"Apple","64 GB","128 GB","15""","4/24/2023","2.8 kg","FreeBSD","5101.62 zł","AMD","False"
+"Framework","16 GB","1024 GB","17""","8/24/2021","2.7 kg","teampleOS","2548.54 zł","intel","False"
+"ASUS","16 GB","256 GB","17""","2/28/2006","2.2 kg","FreeBSD","8465.68 zł","AMD","False"
+"Framework","4 GB","128 GB","13""","3/21/2021","2.7 kg","teampleOS","3077.69 zł","AMD","True"
+"Lenovo","16 GB","1024 GB","10""","7/26/2013","1.2 kg","teampleOS","2077.78 zł","AMD","False"
+"Dell","16 GB","2048 GB","17""","1/12/2020","2.0 kg","FreeBSD","3593.69 zł","intel","False"
+"Dell","64 GB","1024 GB","11""","4/5/2020","1.5 kg","windows","5951.1 zł","Qualcomm","True"
+"HP","32 GB","256 GB","14""","10/11/2006","1.2 kg","Linux","4112.86 zł","intel","False"
+"HP","4 GB","64 GB","16""","2/25/2005","2.7 kg","windows","9272.19 zł","AMD","False"
+"Lenovo","4 GB","2048 GB","14""","6/29/2006","2.7 kg","Linux","3314.76 zł","intel","False"
+"Dell","32 GB","64 GB","13""","2/12/2018","2.7 kg","Linux","9569.75 zł","Qualcomm","False"
+"HP","32 GB","256 GB","14""","1/23/2009","1.8 kg","Linux","7079.85 zł","AMD","False"
+"ASUS","4 GB","1024 GB","12""","11/8/2006","1.2 kg","FreeBSD","5938.29 zł","intel","False"
+"ASUS","8 GB","512 GB","10""","12/30/2015","1.7 kg","teampleOS","2329.16 zł","AMD","False"
+"Framework","32 GB","2048 GB","17""","2/17/2013","2.8 kg","FreeBSD","8703.51 zł","AMD","False"
+"Dell","32 GB","64 GB","17""","6/21/2023","1.8 kg","FreeBSD","4912.97 zł","Qualcomm","True"
+"HP","32 GB","512 GB","13""","6/9/2020","1.5 kg","FreeBSD","9359.28 zł","AMD","False"
+"HP","16 GB","256 GB","16""","5/27/2023","2.6 kg","teampleOS","4850.18 zł","Qualcomm","True"
+"ASUS","64 GB","1024 GB","13""","4/30/2006","1.7 kg","teampleOS","2860.44 zł","AMD","False"
+"ASUS","8 GB","64 GB","13""","4/13/2016","2.6 kg","windows","8681.31 zł","intel","True"
+"Lenovo","16 GB","2048 GB","12""","4/16/2023","1.3 kg","FreeBSD","6638.7 zł","Qualcomm","True"
+"Lenovo","4 GB","512 GB","14""","10/6/2023","2.5 kg","windows","2260.33 zł","intel","False"
+"Dell","64 GB","64 GB","12""","6/19/2017","2.4 kg","windows","4910.67 zł","Qualcomm","False"
+"Framework","8 GB","256 GB","16""","8/19/2017","1.2 kg","teampleOS","2725.56 zł","intel","False"
+"Lenovo","32 GB","4096 GB","11""","1/20/2015","2.3 kg","FreeBSD","5791.44 zł","intel","False"
+"HP","32 GB","64 GB","16""","5/31/2007","2.8 kg","windows","1653.9 zł","Qualcomm","False"
+"HP","8 GB","128 GB","13""","12/10/2008","1.5 kg","FreeBSD","7796.41 zł","AMD","False"
+"HP","4 GB","2048 GB","10""","4/9/2010","2.3 kg","teampleOS","6484.34 zł","Qualcomm","False"
+"ASUS","4 GB","256 GB","10""","6/29/2005","1.6 kg","teampleOS","9292.51 zł","Qualcomm","False"
+"Apple","8 GB","128 GB","15""","7/18/2019","1.8 kg","windows","4404.73 zł","AMD","False"
+"Lenovo","4 GB","4096 GB","10""","4/20/2007","1.1 kg","teampleOS","7618.94 zł","AMD","True"
+"Apple","32 GB","128 GB","14""","12/14/2012","1.1 kg","FreeBSD","1803.15 zł","intel","False"
+"ASUS","64 GB","256 GB","15""","8/31/2009","2.7 kg","FreeBSD","4940.17 zł","Qualcomm","False"
+"Apple","16 GB","2048 GB","15""","10/4/2023","1.5 kg","Linux","9937.02 zł","intel","False"
+"Dell","16 GB","128 GB","14""","5/8/2018","2.9 kg","teampleOS","6079.16 zł","Qualcomm","False"
+"HP","16 GB","2048 GB","11""","8/8/2017","2.1 kg","teampleOS","7666.53 zł","AMD","True"
+"Dell","32 GB","4096 GB","14""","6/26/2019","2.2 kg","Linux","2289.79 zł","AMD","True"
+"Dell","64 GB","64 GB","10""","5/4/2018","1.4 kg","teampleOS","6314.35 zł","Qualcomm","True"
+"Dell","8 GB","2048 GB","13""","4/22/2021","1.7 kg","FreeBSD","4786.81 zł","Qualcomm","True"
+"Framework","4 GB","128 GB","11""","8/4/2007","1.5 kg","FreeBSD","8047.54 zł","intel","False"
+"Dell","4 GB","4096 GB","16""","6/23/2008","2.8 kg","teampleOS","1147.89 zł","AMD","True"
+"Framework","4 GB","2048 GB","11""","11/30/2006","1.7 kg","teampleOS","1921.55 zł","AMD","False"
+"Framework","64 GB","128 GB","14""","11/2/2005","2.3 kg","windows","6853.57 zł","Qualcomm","False"
+"ASUS","4 GB","64 GB","11""","8/4/2007","2.0 kg","FreeBSD","7318.39 zł","intel","False"
+"Dell","64 GB","128 GB","15""","4/5/2006","1.2 kg","Linux","5516.13 zł","Qualcomm","False"
+"Lenovo","64 GB","64 GB","11""","5/4/2019","1.6 kg","teampleOS","7961.86 zł","intel","False"
+"Dell","16 GB","512 GB","13""","2/5/2011","1.6 kg","FreeBSD","8482.79 zł","AMD","False"
+"ASUS","64 GB","64 GB","15""","7/3/2019","2.7 kg","FreeBSD","6437.45 zł","intel","False"
+"Lenovo","8 GB","512 GB","13""","1/24/2018","2.0 kg","Linux","9102.5 zł","AMD","True"
+"HP","32 GB","128 GB","15""","11/5/2005","1.0 kg","windows","1282.45 zł","intel","False"
+"HP","32 GB","512 GB","14""","10/9/2017","2.0 kg","teampleOS","8854.41 zł","intel","True"
+"HP","8 GB","256 GB","17""","3/8/2022","2.5 kg","Linux","7754.4 zł","Qualcomm","False"
+"Framework","16 GB","2048 GB","11""","3/9/2022","1.6 kg","teampleOS","5378.0 zł","AMD","False"
+"Dell","16 GB","64 GB","14""","3/18/2018","2.0 kg","FreeBSD","2441.2 zł","Qualcomm","True"
+"Framework","64 GB","256 GB","17""","8/19/2011","1.2 kg","FreeBSD","4570.96 zł","Qualcomm","True"
+"Dell","16 GB","256 GB","16""","5/11/2021","2.2 kg","teampleOS","1549.26 zł","Qualcomm","False"
+"ASUS","8 GB","128 GB","11""","5/31/2010","2.7 kg","teampleOS","9964.61 zł","AMD","True"
+"Apple","8 GB","2048 GB","15""","12/12/2011","1.7 kg","teampleOS","5072.96 zł","Qualcomm","False"
+"Dell","8 GB","64 GB","15""","10/18/2009","2.1 kg","FreeBSD","4222.55 zł","Qualcomm","False"
+"HP","16 GB","128 GB","12""","2/4/2016","2.1 kg","windows","8573.39 zł","intel","True"
+"Dell","64 GB","512 GB","13""","3/2/2021","2.9 kg","windows","2132.65 zł","AMD","True"
+"Apple","16 GB","1024 GB","16""","8/24/2022","2.9 kg","windows","9671.19 zł","intel","True"
+"ASUS","8 GB","4096 GB","12""","6/6/2010","1.3 kg","windows","1902.43 zł","intel","False"
+"Framework","16 GB","4096 GB","16""","12/7/2007","1.9 kg","teampleOS","7661.47 zł","Qualcomm","False"
+"HP","8 GB","128 GB","13""","11/23/2014","1.1 kg","windows","7867.39 zł","AMD","True"
+"HP","16 GB","2048 GB","12""","7/1/2021","1.6 kg","windows","7893.73 zł","AMD","True"
+"Framework","4 GB","2048 GB","14""","2/19/2006","2.3 kg","Linux","2888.52 zł","Qualcomm","False"
+"HP","32 GB","1024 GB","10""","9/10/2005","1.0 kg","Linux","2696.77 zł","Qualcomm","True"
+"Apple","4 GB","128 GB","13""","2/10/2017","2.2 kg","FreeBSD","9381.37 zł","Qualcomm","True"
+"Lenovo","64 GB","512 GB","11""","8/2/2021","2.6 kg","teampleOS","2116.66 zł","intel","False"
+"Lenovo","64 GB","1024 GB","16""","1/1/2006","1.2 kg","windows","9001.35 zł","AMD","False"
+"HP","8 GB","2048 GB","15""","1/22/2013","2.1 kg","Linux","8198.48 zł","AMD","True"
+"Apple","32 GB","1024 GB","17""","8/19/2016","1.4 kg","FreeBSD","1715.67 zł","AMD","True"
+"ASUS","32 GB","4096 GB","17""","12/21/2009","2.6 kg","teampleOS","6936.04 zł","Qualcomm","True"
+"HP","8 GB","256 GB","12""","4/21/2021","2.9 kg","Linux","8722.36 zł","Qualcomm","False"
+"Framework","4 GB","64 GB","17""","2/20/2022","1.7 kg","windows","8834.96 zł","Qualcomm","True"
+"Apple","8 GB","2048 GB","17""","4/6/2010","1.7 kg","windows","7684.75 zł","intel","False"
+"ASUS","4 GB","64 GB","14""","5/15/2010","2.0 kg","Linux","2414.04 zł","intel","False"
+"Lenovo","4 GB","2048 GB","15""","1/8/2007","1.6 kg","FreeBSD","1174.97 zł","Qualcomm","False"
+"Framework","8 GB","4096 GB","16""","5/7/2022","2.9 kg","Linux","4955.36 zł","AMD","True"
+"Framework","64 GB","1024 GB","13""","9/8/2005","3.0 kg","FreeBSD","8412.16 zł","intel","True"
+"ASUS","16 GB","4096 GB","16""","5/24/2014","1.7 kg","FreeBSD","2144.69 zł","AMD","True"
+"Framework","4 GB","128 GB","14""","2/17/2020","2.7 kg","Linux","9984.83 zł","Qualcomm","False"
+"Lenovo","32 GB","64 GB","12""","1/4/2022","2.1 kg","teampleOS","2439.05 zł","AMD","False"
+"Lenovo","8 GB","1024 GB","15""","4/6/2018","1.7 kg","Linux","6255.21 zł","AMD","True"
+"HP","16 GB","2048 GB","13""","7/18/2014","1.9 kg","windows","1797.75 zł","AMD","False"
+"ASUS","4 GB","2048 GB","12""","3/6/2013","2.6 kg","FreeBSD","2180.14 zł","AMD","True"
+"Lenovo","8 GB","512 GB","11""","10/13/2012","2.2 kg","windows","9743.18 zł","intel","False"
+"HP","32 GB","4096 GB","15""","10/22/2006","2.4 kg","windows","1317.97 zł","intel","True"
+"Framework","4 GB","4096 GB","13""","1/10/2010","1.3 kg","windows","8310.44 zł","AMD","True"
+"Lenovo","64 GB","64 GB","13""","7/28/2015","2.9 kg","windows","4752.12 zł","Qualcomm","False"
+"ASUS","16 GB","2048 GB","10""","7/6/2006","1.5 kg","Linux","3047.06 zł","AMD","False"
+"HP","4 GB","256 GB","17""","3/22/2015","2.2 kg","teampleOS","7248.43 zł","Qualcomm","False"
+"Apple","32 GB","4096 GB","14""","5/24/2021","1.0 kg","Linux","9596.38 zł","AMD","False"
+"HP","64 GB","1024 GB","12""","4/27/2014","2.9 kg","FreeBSD","3417.39 zł","Qualcomm","False"
+"Framework","8 GB","1024 GB","16""","10/13/2017","2.6 kg","teampleOS","1830.77 zł","intel","False"
+"ASUS","64 GB","2048 GB","11""","7/8/2008","2.5 kg","FreeBSD","1586.09 zł","Qualcomm","False"
+"Apple","32 GB","256 GB","11""","12/17/2022","1.3 kg","Linux","8694.34 zł","AMD","False"
+"HP","8 GB","2048 GB","14""","7/14/2009","2.3 kg","Linux","3361.71 zł","intel","False"
+"HP","4 GB","256 GB","15""","6/10/2022","2.2 kg","Linux","6630.74 zł","AMD","True"
+"Framework","8 GB","128 GB","10""","9/7/2016","2.5 kg","Linux","1388.84 zł","Qualcomm","False"
+"Dell","16 GB","64 GB","15""","8/6/2013","2.6 kg","FreeBSD","5312.6 zł","Qualcomm","False"
+"Lenovo","64 GB","512 GB","13""","3/19/2014","1.8 kg","FreeBSD","4657.71 zł","Qualcomm","False"
+"Apple","4 GB","128 GB","12""","3/10/2013","2.8 kg","windows","2731.84 zł","Qualcomm","False"
+"ASUS","64 GB","2048 GB","11""","10/31/2021","1.4 kg","Linux","6657.34 zł","Qualcomm","False"
+"Lenovo","4 GB","256 GB","15""","1/12/2007","2.4 kg","Linux","1980.19 zł","Qualcomm","True"
+"ASUS","32 GB","256 GB","17""","10/13/2005","1.7 kg","FreeBSD","1752.53 zł","intel","False"
+"Framework","32 GB","256 GB","10""","9/11/2016","2.9 kg","teampleOS","9731.19 zł","intel","True"
+"ASUS","32 GB","128 GB","10""","9/8/2014","1.7 kg","windows","8579.75 zł","AMD","False"
+"Dell","32 GB","256 GB","17""","6/24/2013","2.2 kg","teampleOS","4174.24 zł","Qualcomm","False"
+"HP","64 GB","2048 GB","14""","11/14/2008","1.7 kg","windows","4497.84 zł","Qualcomm","True"
+"Lenovo","16 GB","4096 GB","10""","11/8/2014","1.1 kg","windows","1861.77 zł","Qualcomm","False"
+"Lenovo","16 GB","512 GB","11""","11/10/2022","3.0 kg","teampleOS","1170.04 zł","AMD","False"
+"Dell","32 GB","1024 GB","12""","4/3/2005","1.3 kg","FreeBSD","6832.8 zł","intel","True"
+"Apple","4 GB","4096 GB","10""","7/5/2016","2.3 kg","FreeBSD","8745.94 zł","Qualcomm","True"
+"ASUS","8 GB","2048 GB","13""","12/3/2021","2.1 kg","FreeBSD","2538.8 zł","AMD","True"
+"Dell","64 GB","64 GB","14""","11/16/2020","2.8 kg","Linux","8986.13 zł","AMD","True"
+"Apple","4 GB","512 GB","13""","6/2/2011","2.8 kg","FreeBSD","4861.59 zł","Qualcomm","False"
+"Dell","32 GB","2048 GB","15""","5/17/2022","2.7 kg","FreeBSD","1580.58 zł","Qualcomm","True"
+"Apple","64 GB","64 GB","12""","2/22/2011","2.7 kg","Linux","1383.45 zł","Qualcomm","True"
+"ASUS","4 GB","256 GB","13""","1/11/2019","1.1 kg","FreeBSD","3882.96 zł","intel","True"
+"Apple","4 GB","256 GB","17""","3/9/2016","1.9 kg","teampleOS","9580.89 zł","intel","True"
+"Dell","8 GB","256 GB","16""","6/23/2019","1.2 kg","teampleOS","2545.21 zł","Qualcomm","True"
+"HP","8 GB","2048 GB","11""","1/31/2011","1.3 kg","Linux","7721.55 zł","Qualcomm","True"
+"ASUS","16 GB","2048 GB","12""","1/10/2012","2.9 kg","teampleOS","5611.84 zł","intel","True"
+"Lenovo","16 GB","128 GB","10""","4/29/2023","1.8 kg","teampleOS","2818.48 zł","intel","True"
+"Framework","16 GB","2048 GB","16""","4/22/2008","2.3 kg","teampleOS","3741.26 zł","AMD","True"
+"HP","64 GB","2048 GB","12""","7/30/2005","1.8 kg","windows","8981.89 zł","Qualcomm","True"
+"ASUS","4 GB","128 GB","16""","12/5/2009","1.6 kg","windows","4081.79 zł","intel","True"
+"ASUS","64 GB","128 GB","12""","8/18/2013","3.0 kg","teampleOS","1793.83 zł","Qualcomm","True"
+"Lenovo","64 GB","4096 GB","17""","5/22/2023","2.0 kg","FreeBSD","4533.98 zł","AMD","False"
+"Apple","8 GB","512 GB","17""","10/28/2006","2.3 kg","FreeBSD","7883.67 zł","AMD","False"
+"Framework","16 GB","64 GB","12""","5/11/2016","2.2 kg","teampleOS","2876.04 zł","intel","False"
+"Dell","8 GB","64 GB","14""","10/28/2010","2.1 kg","Linux","3240.42 zł","Qualcomm","False"
+"ASUS","64 GB","128 GB","17""","2/16/2019","2.1 kg","teampleOS","4443.17 zł","intel","True"
+"Lenovo","64 GB","128 GB","11""","7/18/2022","3.0 kg","windows","4452.89 zł","Qualcomm","True"
+"Lenovo","8 GB","512 GB","14""","6/23/2007","1.2 kg","teampleOS","2760.38 zł","intel","False"
+"Lenovo","32 GB","64 GB","13""","12/20/2009","2.1 kg","teampleOS","5601.46 zł","intel","True"
+"Apple","64 GB","256 GB","16""","6/11/2008","1.9 kg","FreeBSD","9055.3 zł","Qualcomm","True"
+"Lenovo","32 GB","1024 GB","11""","8/8/2006","2.8 kg","FreeBSD","5165.94 zł","Qualcomm","False"
+"Framework","8 GB","4096 GB","15""","9/30/2009","2.0 kg","Linux","9864.84 zł","intel","False"
+"Framework","64 GB","2048 GB","11""","8/4/2013","2.2 kg","windows","3994.28 zł","intel","False"
+"Lenovo","32 GB","2048 GB","13""","9/7/2021","1.1 kg","windows","9184.64 zł","AMD","False"
+"Lenovo","8 GB","256 GB","11""","2/14/2017","2.5 kg","Linux","8507.65 zł","Qualcomm","True"
+"Lenovo","8 GB","512 GB","12""","1/4/2009","1.7 kg","Linux","5004.13 zł","intel","False"
+"Lenovo","32 GB","4096 GB","14""","6/19/2010","1.8 kg","FreeBSD","5019.81 zł","intel","True"
+"Dell","16 GB","128 GB","12""","5/31/2010","1.6 kg","FreeBSD","2906.48 zł","intel","False"
+"Apple","16 GB","1024 GB","16""","3/30/2022","1.8 kg","Linux","4677.52 zł","Qualcomm","True"
+"Apple","16 GB","128 GB","10""","11/1/2013","1.9 kg","windows","5848.48 zł","intel","False"
+"ASUS","16 GB","64 GB","14""","7/1/2017","2.0 kg","teampleOS","4362.15 zł","intel","False"
+"Lenovo","64 GB","256 GB","10""","12/22/2022","2.6 kg","windows","3098.18 zł","AMD","False"
+"ASUS","4 GB","2048 GB","14""","8/14/2006","2.0 kg","FreeBSD","5910.72 zł","Qualcomm","True"
+"HP","32 GB","4096 GB","11""","6/20/2017","1.9 kg","FreeBSD","2186.02 zł","Qualcomm","True"
+"Lenovo","8 GB","4096 GB","17""","1/14/2017","1.1 kg","windows","5305.85 zł","Qualcomm","False"
+"HP","64 GB","512 GB","13""","10/26/2023","2.8 kg","Linux","5965.96 zł","intel","False"
+"HP","32 GB","1024 GB","14""","7/4/2015","1.5 kg","Linux","3971.45 zł","Qualcomm","True"
+"HP","32 GB","128 GB","12""","9/23/2021","2.5 kg","teampleOS","5146.74 zł","intel","False"
+"Apple","16 GB","128 GB","12""","7/8/2016","1.7 kg","teampleOS","3010.81 zł","AMD","False"
+"Framework","64 GB","256 GB","17""","7/12/2006","1.1 kg","FreeBSD","2538.06 zł","AMD","True"
+"Lenovo","16 GB","2048 GB","11""","11/25/2013","2.0 kg","teampleOS","5229.08 zł","AMD","True"
+"Lenovo","8 GB","128 GB","15""","7/27/2012","1.6 kg","teampleOS","8101.77 zł","Qualcomm","False"
+"Dell","4 GB","2048 GB","11""","8/20/2007","1.4 kg","FreeBSD","5394.33 zł","AMD","True"
+"ASUS","8 GB","128 GB","14""","5/6/2016","1.6 kg","teampleOS","5819.24 zł","intel","False"
+"ASUS","8 GB","128 GB","15""","8/24/2019","1.0 kg","teampleOS","4139.86 zł","AMD","True"
+"HP","8 GB","4096 GB","12""","5/30/2016","1.8 kg","windows","6954.1 zł","intel","True"
+"Lenovo","4 GB","1024 GB","11""","2/8/2006","1.8 kg","Linux","7410.6 zł","Qualcomm","False"
+"Framework","16 GB","64 GB","16""","9/26/2022","1.3 kg","windows","9510.78 zł","AMD","True"
+"Dell","32 GB","1024 GB","15""","7/8/2015","2.3 kg","windows","8536.5 zł","Qualcomm","False"
+"HP","64 GB","128 GB","17""","5/12/2014","2.9 kg","Linux","5358.22 zł","intel","True"
+"ASUS","32 GB","64 GB","10""","1/13/2018","1.7 kg","FreeBSD","7823.82 zł","intel","False"
+"Lenovo","64 GB","256 GB","11""","8/28/2020","1.9 kg","windows","7672.42 zł","intel","False"
+"Lenovo","4 GB","128 GB","14""","12/18/2012","2.9 kg","teampleOS","9758.67 zł","AMD","False"
+"Lenovo","32 GB","256 GB","17""","9/29/2022","2.7 kg","Linux","9363.69 zł","AMD","True"
+"Apple","16 GB","256 GB","13""","7/21/2018","1.0 kg","Linux","9589.61 zł","intel","False"
+"Dell","64 GB","2048 GB","17""","10/24/2017","1.9 kg","windows","6001.84 zł","Qualcomm","True"
+"ASUS","64 GB","256 GB","15""","2/25/2011","2.4 kg","windows","3554.34 zł","intel","True"
+"Dell","32 GB","2048 GB","11""","6/29/2019","2.7 kg","windows","2275.18 zł","AMD","False"
+"HP","16 GB","4096 GB","16""","12/14/2015","2.1 kg","teampleOS","5302.85 zł","Qualcomm","True"
+"Framework","4 GB","64 GB","13""","12/25/2015","2.2 kg","teampleOS","3149.82 zł","Qualcomm","True"
+"ASUS","8 GB","2048 GB","11""","5/6/2018","2.3 kg","windows","3574.05 zł","AMD","True"
+"Dell","16 GB","2048 GB","17""","12/18/2018","1.7 kg","FreeBSD","7479.79 zł","Qualcomm","False"
+"ASUS","32 GB","64 GB","16""","12/25/2019","2.3 kg","windows","5697.6 zł","Qualcomm","False"
+"HP","64 GB","64 GB","17""","1/14/2008","2.7 kg","windows","8462.7 zł","AMD","True"
+"Framework","32 GB","4096 GB","12""","5/30/2021","2.1 kg","Linux","9673.71 zł","intel","True"
+"Lenovo","64 GB","64 GB","13""","6/26/2020","1.4 kg","FreeBSD","1163.41 zł","AMD","True"
+"ASUS","64 GB","1024 GB","16""","10/4/2008","1.7 kg","teampleOS","6405.78 zł","intel","False"
+"Apple","16 GB","64 GB","12""","1/25/2021","2.6 kg","windows","3712.44 zł","intel","True"
+"Dell","64 GB","4096 GB","17""","5/8/2015","1.8 kg","windows","2281.92 zł","intel","False"
+"HP","64 GB","2048 GB","16""","10/29/2018","1.1 kg","teampleOS","7116.2 zł","AMD","False"
+"HP","4 GB","512 GB","16""","1/12/2023","2.4 kg","FreeBSD","1458.11 zł","intel","False"
+"Lenovo","64 GB","256 GB","10""","3/24/2015","2.0 kg","Linux","2726.41 zł","AMD","True"
+"HP","16 GB","1024 GB","12""","2/9/2010","2.6 kg","Linux","5070.28 zł","Qualcomm","True"
+"HP","4 GB","2048 GB","15""","2/3/2008","2.7 kg","teampleOS","8996.85 zł","intel","True"
+"Apple","32 GB","512 GB","13""","11/3/2014","1.5 kg","Linux","8506.75 zł","Qualcomm","False"
+"Dell","8 GB","2048 GB","11""","5/10/2021","2.7 kg","windows","4706.61 zł","intel","False"
+"ASUS","16 GB","128 GB","17""","12/7/2007","2.0 kg","Linux","3964.59 zł","Qualcomm","True"
+"Apple","64 GB","2048 GB","12""","3/29/2005","2.9 kg","Linux","4891.98 zł","Qualcomm","False"
+"HP","16 GB","4096 GB","14""","9/18/2014","2.2 kg","FreeBSD","2298.27 zł","intel","False"
+"Lenovo","32 GB","512 GB","16""","2/16/2017","1.9 kg","windows","7049.44 zł","intel","False"
+"Apple","4 GB","64 GB","14""","4/6/2023","1.1 kg","windows","5609.71 zł","intel","True"
+"Apple","32 GB","256 GB","12""","11/20/2013","2.1 kg","FreeBSD","5297.48 zł","intel","False"
+"Lenovo","16 GB","1024 GB","13""","7/15/2023","1.6 kg","Linux","8380.52 zł","Qualcomm","False"
+"HP","64 GB","512 GB","11""","4/25/2018","2.4 kg","FreeBSD","5378.12 zł","AMD","True"
+"Dell","32 GB","512 GB","17""","8/4/2017","2.6 kg","teampleOS","3302.95 zł","intel","True"
+"HP","8 GB","4096 GB","15""","4/11/2014","2.2 kg","teampleOS","2095.86 zł","intel","False"
+"Framework","64 GB","64 GB","10""","6/18/2014","1.7 kg","teampleOS","4489.38 zł","intel","False"
+"Framework","8 GB","1024 GB","17""","10/16/2019","2.4 kg","windows","6017.52 zł","AMD","False"
+"HP","4 GB","2048 GB","16""","2/16/2013","3.0 kg","Linux","6481.68 zł","Qualcomm","False"
+"Apple","16 GB","512 GB","17""","8/14/2006","1.9 kg","Linux","9408.79 zł","Qualcomm","True"
+"Framework","32 GB","128 GB","12""","11/14/2010","2.7 kg","Linux","8683.16 zł","intel","False"
+"Framework","16 GB","256 GB","16""","12/1/2021","1.0 kg","FreeBSD","8127.35 zł","intel","False"
+"Apple","4 GB","256 GB","10""","7/3/2009","1.4 kg","teampleOS","2937.96 zł","AMD","True"
+"ASUS","4 GB","256 GB","15""","5/12/2005","1.3 kg","Linux","3813.75 zł","AMD","True"
+"Dell","16 GB","128 GB","10""","9/16/2019","2.3 kg","FreeBSD","3713.24 zł","AMD","True"
+"Framework","8 GB","512 GB","10""","5/9/2009","1.4 kg","teampleOS","9153.16 zł","AMD","True"
+"ASUS","32 GB","1024 GB","14""","3/23/2015","1.6 kg","Linux","1359.74 zł","intel","False"
+"Apple","8 GB","512 GB","10""","1/30/2010","1.0 kg","teampleOS","3277.46 zł","Qualcomm","True"
+"Dell","16 GB","2048 GB","15""","10/17/2010","2.1 kg","FreeBSD","5925.99 zł","intel","True"
+"HP","8 GB","128 GB","14""","11/14/2008","2.4 kg","windows","4622.08 zł","AMD","False"
+"HP","8 GB","1024 GB","14""","10/16/2011","1.1 kg","FreeBSD","8103.36 zł","Qualcomm","False"
+"ASUS","4 GB","256 GB","12""","7/8/2023","1.5 kg","FreeBSD","8399.52 zł","Qualcomm","True"
+"Lenovo","32 GB","1024 GB","11""","4/24/2015","2.2 kg","teampleOS","4776.3 zł","AMD","False"
+"HP","4 GB","64 GB","13""","11/8/2013","2.1 kg","Linux","7862.25 zł","AMD","False"
+"HP","64 GB","256 GB","17""","3/8/2009","1.3 kg","teampleOS","1144.9 zł","AMD","True"
+"ASUS","64 GB","2048 GB","16""","8/8/2009","2.0 kg","teampleOS","2152.88 zł","Qualcomm","True"
+"Framework","64 GB","64 GB","16""","11/24/2013","2.8 kg","windows","5165.57 zł","intel","False"
+"Lenovo","64 GB","512 GB","17""","1/14/2016","2.0 kg","FreeBSD","3527.16 zł","intel","False"
+"Dell","64 GB","256 GB","14""","11/24/2021","2.8 kg","FreeBSD","6490.39 zł","Qualcomm","False"
+"Lenovo","16 GB","128 GB","16""","6/5/2019","1.9 kg","Linux","8619.11 zł","Qualcomm","False"
+"ASUS","8 GB","64 GB","16""","2/12/2018","2.1 kg","windows","6318.25 zł","intel","False"
+"Framework","4 GB","2048 GB","15""","2/18/2022","2.3 kg","Linux","3860.45 zł","AMD","True"
+"Lenovo","8 GB","1024 GB","15""","3/26/2016","2.4 kg","Linux","2115.39 zł","AMD","True"
+"Framework","32 GB","1024 GB","17""","11/21/2013","1.8 kg","teampleOS","9491.04 zł","Qualcomm","True"
+"Dell","4 GB","256 GB","15""","11/18/2013","1.2 kg","windows","3249.58 zł","intel","False"
+"Dell","64 GB","64 GB","13""","5/11/2021","1.7 kg","FreeBSD","2337.57 zł","Qualcomm","True"
+"Framework","64 GB","64 GB","10""","1/4/2009","2.6 kg","Linux","4286.65 zł","AMD","False"
+"Apple","32 GB","128 GB","14""","3/19/2007","1.5 kg","windows","9419.62 zł","AMD","True"
+"Lenovo","4 GB","64 GB","17""","3/30/2015","2.2 kg","windows","5404.77 zł","Qualcomm","True"
+"Lenovo","8 GB","1024 GB","13""","7/19/2012","2.4 kg","FreeBSD","8797.62 zł","Qualcomm","False"
+"Lenovo","4 GB","1024 GB","12""","11/10/2006","2.8 kg","windows","9267.25 zł","Qualcomm","True"
+"Apple","4 GB","128 GB","11""","10/23/2017","2.5 kg","Linux","8645.3 zł","AMD","False"
+"Lenovo","64 GB","256 GB","15""","8/27/2006","2.2 kg","teampleOS","1750.22 zł","Qualcomm","True"
+"HP","8 GB","64 GB","11""","9/17/2006","2.1 kg","windows","8157.9 zł","intel","True"
+"Dell","32 GB","256 GB","17""","6/27/2018","2.8 kg","teampleOS","4941.06 zł","AMD","False"
+"Dell","64 GB","64 GB","15""","7/13/2019","1.8 kg","Linux","6348.57 zł","intel","False"
+"Dell","4 GB","256 GB","13""","11/19/2021","1.7 kg","windows","9957.1 zł","AMD","False"
+"Framework","64 GB","128 GB","16""","2/14/2022","2.6 kg","windows","6287.29 zł","Qualcomm","False"
+"Dell","64 GB","512 GB","12""","11/25/2012","3.0 kg","teampleOS","6329.76 zł","Qualcomm","True"
+"HP","8 GB","256 GB","17""","4/22/2022","2.2 kg","Linux","9999.33 zł","intel","True"
+"Lenovo","64 GB","4096 GB","16""","4/11/2007","1.8 kg","Linux","4915.25 zł","AMD","False"
+"Dell","16 GB","512 GB","12""","3/17/2021","1.9 kg","teampleOS","3617.3 zł","Qualcomm","False"
+"Dell","8 GB","256 GB","17""","9/18/2022","2.4 kg","windows","1359.01 zł","AMD","False"
+"Dell","8 GB","2048 GB","11""","5/4/2013","2.9 kg","Linux","8157.17 zł","AMD","True"
+"Framework","16 GB","512 GB","14""","9/2/2018","1.2 kg","Linux","1903.99 zł","intel","False"
+"ASUS","16 GB","512 GB","17""","7/9/2005","2.8 kg","Linux","3594.01 zł","intel","True"
+"Apple","4 GB","4096 GB","11""","1/11/2008","2.1 kg","Linux","8889.11 zł","AMD","False"
+"Dell","16 GB","256 GB","11""","2/23/2005","1.2 kg","FreeBSD","7366.04 zł","intel","True"
+"Apple","16 GB","128 GB","14""","2/21/2006","2.0 kg","FreeBSD","2168.06 zł","AMD","False"
+"Lenovo","4 GB","256 GB","16""","11/24/2013","2.1 kg","Linux","8897.99 zł","intel","True"
+"Apple","4 GB","64 GB","17""","2/1/2014","1.5 kg","FreeBSD","7628.55 zł","Qualcomm","False"
+"ASUS","16 GB","128 GB","13""","11/17/2013","2.1 kg","FreeBSD","9600.42 zł","intel","False"
+"Framework","8 GB","512 GB","15""","10/29/2022","2.4 kg","teampleOS","9201.75 zł","AMD","True"
+"Apple","8 GB","64 GB","11""","10/20/2013","1.6 kg","Linux","8192.68 zł","AMD","False"
+"ASUS","8 GB","64 GB","16""","5/13/2012","2.5 kg","teampleOS","7142.31 zł","intel","False"
+"ASUS","64 GB","4096 GB","10""","8/5/2011","2.5 kg","FreeBSD","5768.48 zł","Qualcomm","False"
+"ASUS","16 GB","256 GB","16""","10/3/2023","1.7 kg","Linux","6815.23 zł","intel","True"
+"HP","64 GB","4096 GB","11""","10/4/2008","1.9 kg","windows","1277.32 zł","intel","True"
+"Lenovo","32 GB","64 GB","15""","11/21/2009","2.5 kg","Linux","5393.33 zł","intel","False"
+"Framework","4 GB","2048 GB","12""","5/6/2014","2.6 kg","Linux","8907.83 zł","intel","False"
+"HP","8 GB","128 GB","15""","9/24/2005","2.1 kg","Linux","2482.53 zł","Qualcomm","False"
+"Lenovo","32 GB","256 GB","16""","9/11/2009","2.2 kg","Linux","8310.31 zł","AMD","False"
+"ASUS","64 GB","64 GB","12""","6/2/2016","1.7 kg","windows","4965.7 zł","Qualcomm","True"
+"Apple","32 GB","64 GB","17""","4/19/2014","1.1 kg","FreeBSD","7386.62 zł","Qualcomm","False"
+"Apple","4 GB","128 GB","10""","12/1/2006","1.9 kg","teampleOS","1366.69 zł","AMD","True"
+"Lenovo","64 GB","256 GB","12""","12/25/2007","1.6 kg","Linux","1727.87 zł","intel","True"
+"Apple","16 GB","128 GB","15""","9/2/2007","2.2 kg","FreeBSD","3341.01 zł","intel","False"
+"Apple","4 GB","256 GB","11""","3/28/2007","1.5 kg","windows","2456.7 zł","AMD","False"
+"HP","64 GB","2048 GB","12""","11/22/2010","1.0 kg","windows","2439.86 zł","Qualcomm","True"
+"Dell","4 GB","128 GB","17""","4/30/2020","2.7 kg","FreeBSD","6579.58 zł","Qualcomm","False"
+"Apple","8 GB","1024 GB","12""","3/26/2016","2.7 kg","FreeBSD","8724.96 zł","AMD","False"
+"ASUS","64 GB","4096 GB","10""","6/28/2023","1.5 kg","teampleOS","9661.55 zł","Qualcomm","False"
+"Framework","4 GB","512 GB","13""","7/15/2023","2.9 kg","windows","1705.49 zł","intel","False"
+"Apple","32 GB","128 GB","12""","2/7/2018","1.4 kg","windows","6185.54 zł","intel","True"
+"HP","64 GB","512 GB","12""","3/17/2006","2.6 kg","windows","3266.77 zł","AMD","True"
+"Lenovo","8 GB","64 GB","10""","6/21/2006","1.7 kg","Linux","7717.48 zł","intel","False"
+"Dell","4 GB","256 GB","16""","4/28/2011","1.1 kg","FreeBSD","7347.16 zł","AMD","False"
+"HP","4 GB","4096 GB","11""","3/7/2022","2.2 kg","teampleOS","8238.22 zł","Qualcomm","False"
+"HP","8 GB","64 GB","10""","5/12/2012","2.3 kg","teampleOS","3366.92 zł","Qualcomm","True"
+"ASUS","8 GB","128 GB","14""","9/24/2008","2.8 kg","windows","7415.01 zł","Qualcomm","True"
+"ASUS","32 GB","64 GB","12""","11/17/2018","1.6 kg","Linux","7594.77 zł","intel","False"
+"Apple","4 GB","1024 GB","11""","11/12/2013","2.3 kg","FreeBSD","2048.17 zł","Qualcomm","True"
+"ASUS","64 GB","64 GB","13""","6/16/2020","2.1 kg","Linux","5177.23 zł","intel","False"
+"Lenovo","32 GB","128 GB","16""","3/22/2018","3.0 kg","FreeBSD","7331.27 zł","AMD","True"
+"Framework","8 GB","256 GB","14""","4/30/2006","2.2 kg","windows","6508.12 zł","intel","True"
+"ASUS","32 GB","4096 GB","13""","4/27/2007","2.2 kg","FreeBSD","3157.81 zł","intel","False"
+"HP","4 GB","4096 GB","10""","3/13/2015","2.2 kg","Linux","1628.17 zł","AMD","True"
+"Framework","16 GB","256 GB","13""","7/20/2008","1.3 kg","FreeBSD","5609.91 zł","intel","True"
+"Dell","4 GB","4096 GB","14""","1/4/2023","1.9 kg","Linux","5947.19 zł","Qualcomm","True"
+"ASUS","8 GB","64 GB","16""","5/3/2005","1.9 kg","Linux","7909.99 zł","Qualcomm","True"
+"HP","16 GB","4096 GB","13""","10/5/2020","2.0 kg","windows","6923.54 zł","intel","False"
+"Apple","32 GB","256 GB","16""","8/22/2010","2.1 kg","FreeBSD","5899.93 zł","Qualcomm","True"

@@ -22,14 +22,13 @@ body, html {
   cursor: pointer;
   padding: 14px 16px;
   font-size: 17px;
-  width: 25%;
+  width: 33.33%;
 }
 
 .tablink:hover {
   background-color: #777;
 }
 
-/* Style the tab content (and add height:100% for full page content) */
 .tabcontent {
   color: rgb(169, 118, 118);
   display: none;
@@ -37,20 +36,224 @@ body, html {
   height: 100%;
 }
 
+#first_table td, #first_table tr, #first_table th{
+border: 1px solid;
+border-color: black;
+}
+
+#first_table{
+width: 70%;
+border: 1px solid;
+border-collapse: collapse;
+margin-left: auto;
+margin-right: auto;
+}
+
+#Internet{
+  text-align: center;
+}
+
+.data_description{
+  text-align: left;
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#data_description_list{
+  width: 35%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#second_table{
+width: 70%;
+margin-left: auto;
+margin-right: auto;
+}
+
 </style>
 </head>
 <body>
 
-<button class="tablink" onclick="openPage('About', this)"id="defaultOpen">About</button>
+<button class="tablink" onclick="openPage('Author', this)"id="defaultOpen">Author</button>
 <button class="tablink" onclick="openPage('Data', this)">Data</button>
 <button class="tablink" onclick="openPage('Internet', this)">Internet</button>
 
-<div id="About" class="tabcontent">
-  <h3>About</h3>
+<div id="Author" class="tabcontent">
+  <h3>Author</h3>
 </div>
 
 <div id="Data" class="tabcontent">
-  <h3>Data</h3>
+
+  <h3 class="data_description">Data</h3>
+  <p class="data_description">Dataset that I created contains 10 different randomly generated information about laptops.</p>
+  <ol id="data_description_list">
+    <li>Brand</li>
+    <li>Ammount of RAM (GB)</li>
+    <li>Ammount of built in storage (GB)</li>
+    <li>Size of the screen (in inches)</li>
+    <li>Date of the release</li>
+    <li>Weight (in kg)</li>
+    <li>Preinstalled operating system</li>
+    <li>Price (in PLN)</li>
+    <li>CPU brand</li>
+    <li>Is the laptop easly repairable (True or False)</li>
+  </ol>
+  <h4 class="data_description">First 10 raws of the data:</h4>
+
+  <table id="first_table">
+    <tr>
+      <th>brand</th>
+      <th>RAM</th>
+      <th>built_in_storage</th>
+      <th>screen_size</th>
+      <th>release_date</th>
+      <th>weight</th>
+      <th>operating_system</th>
+      <th>price</th>
+      <th>CPU_brand</th>
+      <th>is_easly_repairable</th>
+    </tr>
+    <tr>
+      <td>ASUS</td>
+      <td>4 GB</td>
+      <td>512 GB</td>
+      <td>13"</td>
+      <td>4/16/2012</td>
+      <td>1.9 kg</td>
+      <td>Linux</td>
+      <td>2910.22 zł</td>
+      <td>AMD</td>
+      <td>false</td>
+    </tr>
+    <tr>
+      <td>Framework</td>
+      <td>4 GB</td>
+      <td>128 GB</td>
+      <td>13"</td>
+      <td>2/15/2007</td>
+      <td>2.6 kg</td>
+      <td>Linux</td>
+      <td>9880.11 zł</td>
+      <td>intel</td>
+      <td>true</td>
+    </tr>
+    <tr>
+      <td>Dell</td>
+      <td>4 GB</td>
+      <td>4096 GB</td>
+      <td>15"</td>
+      <td>4/25/2017</td>
+      <td>2.4 kg</td>
+      <td>Linux</td>
+      <td>3344.17 zł</td>
+      <td>AMD</td>
+      <td>true</td>
+    </tr>
+    <tr>
+      <td>HP</td>
+      <td>4 GB</td>
+      <td>2048 GB</td>
+      <td>16"</td>
+      <td>6/21/2013</td>
+      <td>2.2 kg</td>
+      <td>Linux</td>
+      <td>7987.94 zł</td>
+      <td>intel</td>
+      <td>true</td>
+    </tr>
+    <tr>
+      <td>HP</td>
+      <td>8 GB</td>
+      <td>512 GB</td>
+      <td>10"</td>
+      <td>6/12/2019</td>
+      <td>1.8 kg</td>
+      <td>teampleOS</td>
+      <td>1368.97 zł</td>
+      <td>Qualcomm</td>
+      <td>false</td>
+    </tr>
+    <tr>
+      <td>Framework</td>
+      <td>64 GB</td>
+      <td>128 GB</td>
+      <td>17"</td>
+      <td>8/2/2018</td>
+      <td>1.9 kg</td>
+      <td>windows</td>
+      <td>6042.31 zł</td>
+      <td>intel</td>
+      <td>true</td>
+    </tr>
+    <tr>
+      <td>Apple</td>
+      <td>16 GB</td>
+      <td>64 GB</td>
+      <td>14"</td>
+      <td>3/17/2010</td>
+      <td>1.4 kg</td>
+      <td>teampleOS</td>
+      <td>1503.46 zł</td>
+      <td>Qualcomm</td>
+      <td>true</td>
+    </tr>
+    <tr>
+      <td>HP</td>
+      <td>64 GB</td>
+      <td>512 GB</td>
+      <td>12"</td>
+      <td>9/27/2011</td>
+      <td>1.6 kg</td>
+      <td>Linux</td>
+      <td>4997.66 zł</td>
+      <td>AMD</td>
+      <td>true</td>
+    </tr>
+    <tr>
+      <td>Framework</td>
+      <td>64 GB</td>
+      <td>512 GB</td>
+      <td>14"</td>
+      <td>7/24/2009</td>
+      <td>1.3 kg</td>
+      <td>Linux</td>
+      <td>9506.88 zł</td>
+      <td>Qualcomm</td>
+      <td>false</td>
+    </tr>
+  </table>
+
+  <br><br>
+
+  <table id="second_table">
+    <tr>
+      <th>XML</th>
+      <th>CSV</th>
+      <th>JSON</th>
+    </tr>
+    <tr>
+      <td>In the Internet section, add a simple form that will allow you to search the web using one of
+        the search engines available on the web. Below, there is an example of a form that functions
+        as a Google search engine. Select another website from the Internet that has search
+        functionality, and then modify the form below to use this search engine. In front of the form
+        add a description of what you can search for. Make the section look more attractive. You can
+        add photos or drawings that would indicate what information will be searched for.</td>
+      <td>In the Internet section, add a simple form that will allow you to search the web using one of
+        the search engines available on the web. Below, there is an example of a form that functions
+        as a Google search engine. Select another website from the Internet that has search
+        functionality, and then modify the form below to use this search engine. In front of the form
+        add a description of what you can search for. Make the section look more attractive. You can
+        add photos or drawings that would indicate what information will be searched for.</td>
+      <td>In the Internet section, add a simple form that will allow you to search the web using one of
+        the search engines available on the web. Below, there is an example of a form that functions
+        as a Google search engine. Select another website from the Internet that has search
+        functionality, and then modify the form below to use this search engine. In front of the form
+        add a description of what you can search for. Make the section look more attractive. You can
+        add photos or drawings that would indicate what information will be searched for.</td>
+    </tr>
+  </table>
 </div>
 
 <div id="Internet" class="tabcontent">
