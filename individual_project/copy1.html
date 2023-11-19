@@ -1,92 +1,136 @@
 <!DOCTYPE html>
 <html>
 <head>
+<link rel="stylesheet" href="style1.css">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-* {box-sizing: border-box}
-
-/* Set height of body and the document to 100% */
-body, html {
-  height: 100%;
-  margin: 0;
-  font-family: Arial;
-}
-
-/* Style tab links */
-.tablink {
-  background-color: #555;
-  color: white;
-  float: left;
-  border: none;
-  outline: none;
-  cursor: pointer;
-  padding: 14px 16px;
-  font-size: 17px;
-  width: 33.33%;
-}
-
-.tablink:hover {
-  background-color: #777;
-}
-
-.tabcontent {
-  color: rgb(169, 118, 118);
-  display: none;
-  padding: 100px 20px;
-  height: 100%;
-}
-
-#first_table td, #first_table tr, #first_table th{
-border: 1px solid;
-border-color: black;
-}
-
-#first_table{
-width: 70%;
-border: 1px solid;
-border-collapse: collapse;
-margin-left: auto;
-margin-right: auto;
-}
-
-#Internet{
-  text-align: center;
-}
-
-.data_description{
-  text-align: left;
-  width: 40%;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-#data_description_list{
-  width: 35%;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-#second_table{
-width: 70%;
-margin-left: auto;
-margin-right: auto;
-}
-
-</style>
 </head>
 <body>
 
-<button class="tablink" onclick="openPage('Author', this)"id="defaultOpen">Author</button>
-<button class="tablink" onclick="openPage('Data', this)">Data</button>
-<button class="tablink" onclick="openPage('Internet', this)">Internet</button>
+<button class="tablink" onclick="openPage('Author', this, '#9933ff')"id="defaultOpen">Author</button>
+<button class="tablink" onclick="openPage('Data', this, '#9933ff')">Data</button>
+<button class="tablink" onclick="openPage('Internet', this, '#9933ff')">Internet</button>
 
 <div id="Author" class="tabcontent">
   <h3>Author</h3>
+  <h4 id="name">Michał Rybak</h4>
+  <br>
+
+  <table id="author_first" class="author_tables">
+  <tr>
+    <td>
+    <div id="my_studies">
+      <h1>My studies</h1>
+      <p>
+        The Applied Informatics field of study is the result of the search
+        for an attractive and effective combination of knowledge and skills 
+        useful in the society and economy of the 21st century. The main objective
+        of this study program is to deliver IT knowledge and specific skills needed 
+        for effective information systems management in a fast-changing world. 
+        This field of study focuses on theoretical principles of computer science,
+        algorithms, computer programming, database systems and operating systems.
+        The program has also been prepared to provide students with knowledge 
+        about micro and macroeconomics, management, business, corporate finance 
+        & other related issues.
+      </p>
+    </div>
+    </td>
+
+    <td>
+    <div id="my_field">
+      <h1>My field of study</h1>
+      <p>
+        Computer science is the study of computation,
+        information, and automation. Computer 
+        science spans theoretical disciplines (such as algorithms,
+        theory of computation, and information theory) 
+        to applied disciplines (including the design and
+        implementation of hardware and software). Though mor
+        often considered an academic discipline, 
+        computer science is closely related to computer programming. 
+        <br><br>
+        <img src="computer-1209641_1280.jpg" alt="Picture of some code" width="300" height="200"> 
+      </p>
+    </div>
+    </td>
+
+    <td>
+    <div id="chose_field">
+      <h1>Why I chose to study computer science at Kraków University of Economics:</h1>
+      <ul>
+        <li>I am interested in programming</li>
+        <li>I love tinkering with computers</li>
+        <li>I am interested in how a computer work</li>
+        <li>I am interested in economics</li>
+        <li>I want to meet other like minded people</li>
+        
+      </ul>
+      <br>
+      <img src="UEK.jpg" alt="Picture UEK" width="300" height="180">
+    </div>
+    </td>
+
+    <td>
+    <div id="expectations">
+      <h1>My expectations towards my studies:</h1>
+      <ul>
+        <li>I want to learn how to program</li>
+        <li>I want to learn how does a computer work</li>
+        <li>I want to learn about bacics of economics</li>
+        <li>I want to learn about basics of networking</li>
+        <li>I want to have a lot of fun while studying</li>
+        <li>I want to have a chance to travel abroad for student
+          exchange</li>
+      </ul>
+    </div>
+    </td>
+  </tr>
+  </table>
+
+
+  <table id="author_second" class="author_tables">
+  <tr>
+    <td>
+    <section id="achievements">
+      <h1>My biggens achievements so far:</h1>
+      <p>I do not have any mijor achievements. Deffinitely writing my 
+        matura exam good enough to get into this degree
+        was some kind of achievement. I also run a small homelab server
+        and since setting it up was quite hard I would consider it an achievement in my field.
+      </p>
+    </section>
+    </td>
+    <td>
+    <section id="career_plans">
+      <h1>My career plans for the future:</h1>
+      <p>In the future I would like to land a job in IT sector. I am
+        not sure jet, what kind of job I would like to have. I think 
+        I would enjoy being a sysadmin just as I would enjoy software development.
+        I tend to be drawn to lower level programming languages and app development.
+        I know for a fact that I do not want to do web development in the future. 
+        Time will tell which career path I will take.
+      </p>
+    </section>
+    </td>
+    <td>
+    <section id="hobbies">
+      <h1>My hobbies include:</h1>
+      <ul>
+        <li>Chess</li>
+        <li>Triathlon</li>
+        <li>Computer gaming</li>
+        <li>Programming</li>
+        <li>Tinkering with computers</li>
+        <li>Cooking</li>
+      </ul>
+    </section>
+    </td>
+  </tr>
+  </table>
+  <br><br><br><br><br><br><br><br>
 </div>
 
 <div id="Data" class="tabcontent">
-
-  <h3 class="data_description">Data</h3>
+  <h3>Data</h3>
   <p class="data_description">Dataset that I created contains 10 different randomly generated information about laptops.</p>
   <ol id="data_description_list">
     <li>Brand</li>
@@ -228,43 +272,88 @@ margin-right: auto;
   <br><br>
 
   <table id="second_table">
-    <tr>
-      <th>XML</th>
-      <th>CSV</th>
-      <th>JSON</th>
-    </tr>
-    <tr>
-      <td>In the Internet section, add a simple form that will allow you to search the web using one of
-        the search engines available on the web. Below, there is an example of a form that functions
-        as a Google search engine. Select another website from the Internet that has search
-        functionality, and then modify the form below to use this search engine. In front of the form
-        add a description of what you can search for. Make the section look more attractive. You can
-        add photos or drawings that would indicate what information will be searched for.</td>
-      <td>In the Internet section, add a simple form that will allow you to search the web using one of
-        the search engines available on the web. Below, there is an example of a form that functions
-        as a Google search engine. Select another website from the Internet that has search
-        functionality, and then modify the form below to use this search engine. In front of the form
-        add a description of what you can search for. Make the section look more attractive. You can
-        add photos or drawings that would indicate what information will be searched for.</td>
-      <td>In the Internet section, add a simple form that will allow you to search the web using one of
-        the search engines available on the web. Below, there is an example of a form that functions
-        as a Google search engine. Select another website from the Internet that has search
-        functionality, and then modify the form below to use this search engine. In front of the form
-        add a description of what you can search for. Make the section look more attractive. You can
-        add photos or drawings that would indicate what information will be searched for.</td>
-    </tr>
+    <td>
+      <div class="data_description_button">
+      <h5>XML</h5>
+      <p>
+        Extensible Markup Language (XML) is a markup language and file format 
+        for storing, transmitting, and reconstructing arbitrary data. It defines 
+        a set of rules for encoding documents in a format that is both human-readable 
+        and machine-readable. The World Wide Web Consortium's XML 1.0 Specification of
+        1998 and several other related specifications—all of them free ope
+        standards—define XML. The design goals of XML emphasize simplicity, 
+        generality, and usability across the Internet. It is a textual data format
+        with strong support via Unicode for different human languages. Although
+        the design of XML focuses on documents, the language is widely used for
+        the representation of arbitrary data structures such as those used in
+        web services. 
+      </p>
+      <br><br>
+      <a href="MOCK_DATA.xml" target="_blank"><button class="open_data">open XML</button></a>
+      <br><br>
+    </div>
+    </td>
+
+    <td>
+      <div class="data_description_button">
+      <h5>CSV</h5>
+      <p>
+        Comma-separated values (CSV) is a text file format that uses commas to separate
+        values. A CSV file stores tabular data (numbers and text) in plain text, where
+        each line of the file typically represents one data record. Each record consists
+        of the same number of fields, and these are separated by commas in the CSV file.
+        If the field delimiter itself may appear within a field, fields can be surrounded
+        with quotation marks. The CSV file format is one type of delimiter-separated file
+        format. Delimiters frequently used include the comma, tab, space, and semicolon.
+        Delimiter-separated files are often given a ".csv" extension even when the field
+        separator is not a comma. Many applications or libraries that consume or produce
+        CSV files have options to specify an alternative delimiter.
+      </p>
+      <br>
+      <a onclick="openFileCSV()"><button class="open_data">open CSV</button></a>
+      <br><br>
+      </div>
+    </td>
+
+    <td>
+      <div class="data_description_button">
+      <h5>JSON</h5>
+      <p>
+        JSON (JavaScript Object Notation, is an open standard file format and data
+        interchange format that uses human-readable text to store and transmit data
+        objects consisting of attribute–value pairs and arrays (or other serializable
+        values). It is a common data format with diverse uses in electronic data
+        interchange, including that of web applications with servers.
+        JSON is a language-independent data format. It was derived from JavaScript, but
+        many modern programming languages include code to generate and parse JSON-format
+        data. JSON filenames use the extension .json. Douglas Crockford originally
+        specified the JSON format in the early 2000s.[1] He and Chip Morningstar sent
+        the first JSON message in April 2001. 
+      </p>
+      <br><br>
+      <a href="MOCK_DATA.json" target="_blank"><button class="open_data">open JSON</button></a>
+      <br><br>
+      </div>
+    </td>
+
   </table>
+  <br><br><br><br><br>
 </div>
 
 <div id="Internet" class="tabcontent">
-    <h3>Internet</h3>
-    <p>Polular polish tech store you can search for latops or other electronics here</p>
-    <form action="https://www.x-kom.pl/szukaj?">
-        <label for="fname">What are you looking for:</label><br>
-        <input type="text" id="q" name="q" value=""><br>
-        <input type="submit" value="Search">
+    <h3>Internet</h3><br><br><br>
+    <p id="form_description">Polular polish tech store, you can search for latops and other electronics here.</p><br>
+    <form id="form_xkom" action="https://www.x-kom.pl/szukaj?">
+        <input type="text" id="q" name="q" placeholder="What are you looking for:">
+        <input id="form_search" type="submit" value="Search">
     </form>
+    <img id="first" src="1413018-am5-ryzen-1260x709.webp" alt=""/>
+    <img id="second" src="c06251847.png" alt=""/>
+    <img id="third" src="design_2_n.png" alt=""/>
+    <img id="forth" src="h470.jpg" alt=""/>
+    <img id="fifth" src="the-alienware-m17-17-amd-ryzen-9-rtx-3070-ti-gaming-laptop-d_vmrn.1280.webp" alt=""/>
 </div>
+
 
 <script>
 function openPage(pageName,elmnt,color) {
@@ -274,10 +363,38 @@ function openPage(pageName,elmnt,color) {
     tabcontent[i].style.display = "none";
   }
   document.getElementById(pageName).style.display = "block";
+
+
+tablinks = document.getElementsByClassName("tablink");
+for (i = 0; i < tablinks.length; i++) {
+  tablinks[i].style.backgroundColor = "";
 }
 
+document.getElementById(pageName).style.display = "block";
+
+elmnt.style.backgroundColor = color;
+}
 // Get the element with id="defaultOpen" and click on it
 document.getElementById("defaultOpen").click();
+
+
+// Function opening your CSV file
+function openFileCSV() 
+{
+    const newWindow = window.open() // Function to open a new window
+    
+    fetch('MOCK_DATA.csv') // <--------------------------------------CHANGE YOUR FILE NAME HERE!
+    .then(response => response.text())
+    .then(content => 
+    {
+        newWindow.document.write('<pre>' + content + '</pre>'); // Function to display the content
+        newWindow.document.title = 'MOCK_DATA.csv'; // You can change the title of the tab here
+        newWindow.document.body.style.backgroundColor = "black"; // You can change the background color here
+        newWindow.document.body.style.color = "white"; // You can change the font color here
+        newWindow.document.body.style.fontSize = 16; // You can change the font size here
+    })
+    .catch(error => console.error('Error fetching CSV file:', error));
+}
 </script>
    
 </body>

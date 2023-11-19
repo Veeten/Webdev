@@ -1,0 +1,247 @@
+* {box-sizing: border-box}
+
+body{
+  background-color: #1b1b1b;
+  color: white;
+}
+/* Style tab links */
+.tablink {
+  background-color: #6600cc;
+  color: white;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-size: 17px;
+  width: 33.33%;
+}
+
+.tablink:hover {
+  background-color: #9933ff;
+  transform: scale(1.1);
+}
+
+.tabcontent {
+  display: none;
+  padding: 100px 20px;
+  height: 100%;
+}
+
+#first_table td, #first_table tr, #first_table th{
+border: 1px solid;
+border-color: #6600cc;
+}
+
+#first_table{
+width: 70%;
+border: 1px solid;
+border-collapse: collapse;
+margin-left: auto;
+margin-right: auto;
+}
+
+.data_description{
+  text-align: left;
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#data_description_list{
+  width: 35%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#second_table{
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.open_data{
+  width: 100%;
+  font-size: 20px;
+  text-align: center;
+  color: white;
+  background-color: #9933ff;
+  margin-right: auto;
+  border-radius:15px;
+  padding: 15px 32px;
+  border: none;
+}
+
+.data_description_button{
+  color: #6600cc;
+  background-color: #050a15;
+  border-radius:15px;
+  border: 1px solid;
+  padding: 7px;
+  width: 80%;
+  height: 710px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#second_table p{
+  color: white;
+}
+
+.data_description_button:hover {
+  transform: scale(1.033);
+}
+
+.open_data:hover{
+  transform: scale(1.2);
+}
+
+h5{
+  font-size: 25px;
+  text-align: center;
+  color: #9933ff;
+}
+
+h3{
+  color: #9933ff;
+  font-size: 35px;
+  text-align: center;
+}
+
+#Internet{
+  text-align: center;
+}
+
+input[type=text] {
+  width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+input[type=text]:focus {
+  background-color: #ccccff;
+}
+
+#q {
+  border-color: #9933ff;
+  border-style: solid solid solid solid;
+  border-width: 2px 2px 2px 2px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  font-size: 20px;
+  padding: 5px 6px;
+  text-align: left;
+  width: 60%;
+  max-width: 600px;
+  height: 40px;
+}
+
+#form_search{
+  text-align: center;
+  color: white;
+  background-color: #9933ff;
+  border-radius:15px;
+  border: none;
+  height: 40px;
+  width: 6%;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+#form_description{
+  font-size: 19px;
+}
+
+#name{
+  text-align: center;
+  font-size: 30px;
+}
+
+.all_sections{
+  width: 70%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+section{
+  border-style: solid;
+  border: black;
+  border-width: 1px;
+}
+
+.author_tables{
+  width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#author_first td{
+  border-radius:15px;
+  border: 1px solid;
+  padding: 7px;
+  margin: 10px;
+  width: 20%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#author_second td{
+  border-radius:15px;
+  border: 1px solid;
+  width: 30%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#my_studies, #my_field, #chose_field, #expectations, #achievements, #career_plans, #hobbies{
+  width: 80%;
+  margin-right: auto;
+  margin-left: 10%;
+}
+
+#author_first, #author_second{
+  border-collapse:separate;
+  border-spacing:10px 10px;
+}
+
+h1{
+  color:#9933ff;
+  text-align: center;
+  font-size: 20px; 
+}
+
+ul li {
+  margin-bottom: 8px;
+}
+
+#first, #second, #third, #forth, #fifth{
+  position: absolute;
+  max-width: 30%;
+  max-height: 30%;
+}
+
+#third{
+  top: 20%;
+  left: 5%;
+}
+
+#second{
+  top: 20%;
+  right: 5%;
+}
+
+#first{
+  bottom: 12%;
+  left: 5%;
+}
+
+#forth{
+  bottom: 12%;
+  right: 6%;
+}
+
+#fifth{
+  bottom: 12%;
+  left: 38%;
+}
